@@ -13,3 +13,13 @@ node_modules/
 
 # OS files
 .DS_Store
+
+# Raw data (confidential)
+backend/app/data/resumes_raw/
+backend/app/data/jobs_raw/
+backend/app/data/courses_raw/
+
+# Processed data (derived, still sensitive)
+backend/app/data/resumes_processed/
+backend/app/data/jobs_processed/
+backend/app/data/courses_processed/
