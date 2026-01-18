@@ -1,0 +1,20 @@
+{
+  "source": "resume",
+  "file": "Siddharth_Rajendran - siddharth rajendran.txt",
+  "skills": {
+    "github": 1,
+    "python": 1,
+    "java": 1,
+    "algorithms": 1,
+    "postgresql": 1,
+    "javascript": 1,
+    "microservices": 1,
+    "deep learning": 1,
+    "data structures": 1,
+    "object oriented programming": 1,
+    "mysql": 1,
+    "git": 1,
+    "pytorch": 1,
+    "docker": 1
+  }
+}

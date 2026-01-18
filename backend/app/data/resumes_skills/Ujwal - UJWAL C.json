@@ -1,0 +1,25 @@
+{
+  "source": "resume",
+  "file": "Ujwal - UJWAL C.txt",
+  "skills": {
+    "go": 1,
+    "github": 1,
+    "tensorflow": 1,
+    "python": 1,
+    "kubernetes": 1,
+    "sql": 1,
+    "fastapi": 1,
+    "java": 1,
+    "typescript": 1,
+    "mongodb": 1,
+    "keras": 1,
+    "gcp": 1,
+    "linux": 1,
+    "c": 1,
+    "aws": 1,
+    "azure": 1,
+    "mysql": 1,
+    "git": 1,
+    "docker": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "resume",
+  "file": "resume-Feb25 - ARJUN R MANIYANI PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "rest api": 1,
+    "github": 1,
+    "redis": 1,
+    "tensorflow": 1,
+    "cybersecurity": 1,
+    "machine learning": 1,
+    "python": 1,
+    "numpy": 1,
+    "kubernetes": 1,
+    "sql": 1,
+    "fastapi": 1,
+    "typescript": 1,
+    "mongodb": 1,
+    "algorithms": 1,
+    "postgresql": 1,
+    "javascript": 1,
+    "linux": 1,
+    "c": 1,
+    "flask": 1,
+    "http": 1,
+    "matplotlib": 1,
+    "aws": 1,
+    "mysql": 1,
+    "git": 1,
+    "docker": 1
+  }
+}

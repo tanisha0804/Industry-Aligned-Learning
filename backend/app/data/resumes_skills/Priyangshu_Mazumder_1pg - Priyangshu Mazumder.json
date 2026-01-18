@@ -1,0 +1,21 @@
+{
+  "source": "resume",
+  "file": "Priyangshu_Mazumder_1pg - Priyangshu Mazumder.txt",
+  "skills": {
+    "nlp": 1,
+    "github": 1,
+    "tensorflow": 1,
+    "python": 1,
+    "django": 1,
+    "kubernetes": 1,
+    "computer vision": 1,
+    "sql": 1,
+    "mongodb": 1,
+    "javascript": 1,
+    "deep learning": 1,
+    "aws": 1,
+    "git": 1,
+    "pytorch": 1,
+    "docker": 1
+  }
+}

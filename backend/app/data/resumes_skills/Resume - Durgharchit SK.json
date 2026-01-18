@@ -1,0 +1,15 @@
+{
+  "source": "resume",
+  "file": "Resume - Durgharchit SK.txt",
+  "skills": {
+    "machine learning": 1,
+    "python": 1,
+    "numpy": 1,
+    "django": 1,
+    "sql": 1,
+    "javascript": 1,
+    "c": 1,
+    "matplotlib": 1,
+    "pandas": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "resume",
+  "file": "nmResume - Venkata Sanjay Meruva.txt",
+  "skills": {
+    "github": 1,
+    "tensorflow": 1,
+    "python": 1,
+    "numpy": 1,
+    "mongodb": 1,
+    "javascript": 1,
+    "c": 1,
+    "flask": 1,
+    "mysql": 1,
+    "git": 1,
+    "pandas": 1,
+    "docker": 1
+  }
+}

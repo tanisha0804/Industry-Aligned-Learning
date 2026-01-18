@@ -1,5 +1,9 @@
 from pathlib import Path
 from app.utils.pdf_parser import pdf_to_text
+from app.utils.skill_seed import load_skill_seeds
+
+SKILL_SEED = load_skill_seeds()
+from app.core.skill_extractor import extract_skill_candidates
 
 def process_pdf_folder(raw_dir: Path, processed_dir: Path):
     processed_dir.mkdir(parents=True, exist_ok=True)

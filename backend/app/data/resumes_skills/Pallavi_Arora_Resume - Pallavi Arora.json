@@ -1,0 +1,18 @@
+{
+  "source": "resume",
+  "file": "Pallavi_Arora_Resume - Pallavi Arora.txt",
+  "skills": {
+    "github": 1,
+    "python": 1,
+    "django": 1,
+    "kubernetes": 1,
+    "sql": 1,
+    "cryptography": 1,
+    "linux": 1,
+    "microservices": 1,
+    "c": 1,
+    "aws": 1,
+    "mysql": 1,
+    "docker": 1
+  }
+}

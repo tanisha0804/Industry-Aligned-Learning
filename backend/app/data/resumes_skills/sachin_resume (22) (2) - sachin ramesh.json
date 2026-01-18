@@ -1,0 +1,19 @@
+{
+  "source": "resume",
+  "file": "sachin_resume (22) (2) - sachin ramesh.txt",
+  "skills": {
+    "github": 1,
+    "redis": 1,
+    "python": 1,
+    "fastapi": 1,
+    "algorithms": 1,
+    "postgresql": 1,
+    "microservices": 1,
+    "c": 1,
+    "data structures": 1,
+    "aws": 1,
+    "mysql": 1,
+    "git": 1,
+    "docker": 1
+  }
+}

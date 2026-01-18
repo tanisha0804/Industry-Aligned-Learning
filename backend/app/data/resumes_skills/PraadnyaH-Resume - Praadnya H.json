@@ -1,0 +1,19 @@
+{
+  "source": "resume",
+  "file": "PraadnyaH-Resume - Praadnya H.txt",
+  "skills": {
+    "nlp": 1,
+    "redis": 1,
+    "python": 1,
+    "django": 1,
+    "fastapi": 1,
+    "java": 1,
+    "mongodb": 1,
+    "javascript": 1,
+    "microservices": 1,
+    "c": 1,
+    "flask": 1,
+    "data structures": 1,
+    "mysql": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "resume",
+  "file": "Vismaya_Ajikumar_Resume - Vismaya Ajikumar.txt",
+  "skills": {
+    "tensorflow": 1,
+    "machine learning": 1,
+    "python": 1,
+    "numpy": 1,
+    "kubernetes": 1,
+    "sql": 1,
+    "java": 1,
+    "mongodb": 1,
+    "javascript": 1,
+    "microservices": 1,
+    "c": 1,
+    "flask": 1,
+    "data analysis": 1,
+    "matplotlib": 1,
+    "aws": 1,
+    "mysql": 1,
+    "pandas": 1,
+    "docker": 1
+  }
+}

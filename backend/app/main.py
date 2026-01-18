@@ -1,12 +1,10 @@
 from fastapi import FastAPI
-from app.api import resume
+from app.api import resume, skills
 
-app = FastAPI(
-    title="Industry-Aligned Learning Recommendation System",
-    version="0.1.0"
-)
+app = FastAPI()
 
 app.include_router(resume.router, prefix="/data")
+app.include_router(skills.router, prefix="/skills")
 
 @app.get("/")
 def root():
