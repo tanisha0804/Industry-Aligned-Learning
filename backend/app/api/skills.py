@@ -56,3 +56,24 @@ def extract_all_resume_skills():
         "total_resumes": len(list(resumes_text.glob("*.txt"))),
         "unique_skills": len(skill_counts)
     }
+
+# addition to extract skills from job descriptions and courses
+from app.core.data_processor import (
+    process_all_job_descriptions,
+    process_all_courses
+)
+
+router = APIRouter(prefix="/skills", tags=["Skills"])
+
+
+@router.post("/extract-jobs")
+def extract_job_skills():
+    process_all_job_descriptions()
+    return {"status": "Job description skills extracted"}
+
+
+@router.post("/extract-courses")
+def extract_course_skills():
+    process_all_courses()
+    return {"status": "Course skills extracted"}
+

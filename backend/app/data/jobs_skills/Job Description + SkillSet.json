@@ -1,0 +1,45 @@
+{
+  "source": "Job Description + SkillSet.txt",
+  "skills": {
+    "SQL": {
+      "count": 2,
+      "type": "language",
+      "domain": "Database"
+    },
+    "Python": {
+      "count": 1,
+      "type": "language",
+      "domain": "Programming"
+    },
+    "C/C++": {
+      "count": 2,
+      "type": "language",
+      "domain": "Programming"
+    },
+    "Data Science": {
+      "count": 2,
+      "type": "technical",
+      "domain": "Data"
+    },
+    "Java": {
+      "count": 1,
+      "type": "language",
+      "domain": "Programming"
+    },
+    "Cloud": {
+      "count": 3,
+      "type": "platform",
+      "domain": "Cloud"
+    },
+    "Machine Learning": {
+      "count": 2,
+      "type": "technical",
+      "domain": "AI"
+    },
+    "DevOps": {
+      "count": 2,
+      "type": "tool",
+      "domain": "DevOps"
+    }
+  }
+}

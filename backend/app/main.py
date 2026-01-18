@@ -9,3 +9,5 @@ app.include_router(skills.router, prefix="/skills")
 @app.get("/")
 def root():
     return {"message": "Backend is running"}
+
+
