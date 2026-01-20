@@ -1,45 +1,78 @@
 {
   "source": "Job Description + SkillSet.txt",
   "skills": {
-    "SQL": {
-      "count": 2,
-      "type": "language",
-      "domain": "Database"
-    },
-    "Python": {
-      "count": 1,
-      "type": "language",
-      "domain": "Programming"
-    },
-    "C/C++": {
-      "count": 2,
-      "type": "language",
-      "domain": "Programming"
-    },
-    "Data Science": {
-      "count": 2,
-      "type": "technical",
-      "domain": "Data"
-    },
-    "Java": {
-      "count": 1,
-      "type": "language",
-      "domain": "Programming"
-    },
-    "Cloud": {
-      "count": 3,
-      "type": "platform",
-      "domain": "Cloud"
-    },
-    "Machine Learning": {
-      "count": 2,
-      "type": "technical",
-      "domain": "AI"
-    },
-    "DevOps": {
-      "count": 2,
-      "type": "tool",
-      "domain": "DevOps"
-    }
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "Azure",
+      "Bash",
+      "C",
+      "C++",
+      "CI/CD",
+      "Computer Networks",
+      "Computer Vision",
+      "Cryptography",
+      "Cybersecurity",
+      "Data Analysis",
+      "Data Science",
+      "Data Structures",
+      "Deep Learning",
+      "Django",
+      "Docker",
+      "FastAPI",
+      "Flask",
+      "GCP",
+      "Git",
+      "GitHub",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "Kubernetes",
+      "Linux",
+      "Machine Learning",
+      "Matplotlib",
+      "Microservices",
+      "MongoDB",
+      "NLP",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Pandas",
+      "PostgreSQL",
+      "PyTorch",
+      "Python",
+      "REST API",
+      "Redis",
+      "SQL",
+      "Scikit-learn",
+      "Shell Scripting",
+      "Software Engineering",
+      "Statistics",
+      "TCP/IP",
+      "TensorFlow",
+      "TypeScript",
+      "Unix"
+    ],
+    "secondary_skills": [
+      "Angular",
+      "Ansible",
+      "Apache Spark",
+      "Cassandra",
+      "Elasticsearch",
+      "Express.js",
+      "Grafana",
+      "Istio",
+      "Jenkins",
+      "Node.js",
+      "OpenAPI",
+      "Postman",
+      "Prometheus",
+      "React",
+      "Spring",
+      "Spring Boot",
+      "Swagger",
+      "Terraform",
+      "Wireshark"
+    ]
   }
 }
