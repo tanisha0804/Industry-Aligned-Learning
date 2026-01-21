@@ -1,0 +1,24 @@
+{
+  "resume": "SudeevDivakar_Resume - Sudeev Divakar.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Django",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "Git",
+      "GitHub",
+      "JIRA"
+    ]
+  }
+}

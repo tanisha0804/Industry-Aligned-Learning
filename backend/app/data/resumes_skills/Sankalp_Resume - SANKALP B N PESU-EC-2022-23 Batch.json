@@ -1,0 +1,22 @@
+{
+  "resume": "Sankalp_Resume - SANKALP B N PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Data Structures",
+      "Go",
+      "JavaScript",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "resume": "Ujwal - UJWAL C.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS S3",
+      "Azure",
+      "Docker",
+      "FastAPI",
+      "GCP",
+      "Go",
+      "Java",
+      "Keras",
+      "Linux",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Python",
+      "SQL",
+      "Software Architecture",
+      "System Design",
+      "TensorFlow",
+      "Terraform",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Kafka",
+      "Postman"
+    ]
+  }
+}

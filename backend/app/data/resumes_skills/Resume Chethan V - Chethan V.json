@@ -1,0 +1,27 @@
+{
+  "resume": "Resume Chethan V - Chethan V.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Cloud Computing",
+      "DL",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Software Engineering"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "Postman"
+    ]
+  }
+}

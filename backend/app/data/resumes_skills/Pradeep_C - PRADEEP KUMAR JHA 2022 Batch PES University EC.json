@@ -1,0 +1,28 @@
+{
+  "resume": "Pradeep_C - PRADEEP KUMAR JHA 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "DL",
+      "Data Structures",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "Matplotlib",
+      "MySQL",
+      "NumPy",
+      "OOP",
+      "Operating Systems",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "Software Engineering",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

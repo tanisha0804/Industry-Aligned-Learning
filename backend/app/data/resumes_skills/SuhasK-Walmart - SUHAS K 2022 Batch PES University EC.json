@@ -1,0 +1,28 @@
+{
+  "resume": "SuhasK-Walmart - SUHAS K 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "NumPy",
+      "OOP",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "OpenGL"
+    ]
+  }
+}

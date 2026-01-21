@@ -1,0 +1,30 @@
+{
+  "resume": "Resume - GAGAN SL PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Computer Networks",
+      "DL",
+      "Data Analysis",
+      "Data Structures",
+      "Go",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "Node.js",
+      "Operating Systems",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "Git",
+      "HTML",
+      "Nmap"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resume": "resume-final 2 - Tejaswini B.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "OOP",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Excel",
+      "GitHub",
+      "HTML",
+      "React",
+      "Tableau"
+    ]
+  }
+}

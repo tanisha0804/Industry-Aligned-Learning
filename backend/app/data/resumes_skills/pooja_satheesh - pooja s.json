@@ -1,0 +1,30 @@
+{
+  "resume": "pooja_satheesh - pooja s.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Azure",
+      "C++",
+      "Cybersecurity",
+      "Docker",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Operating Systems",
+      "Python",
+      "Shell Scripting",
+      "Software Engineering",
+      "Unix",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "HTML"
+    ]
+  }
+}

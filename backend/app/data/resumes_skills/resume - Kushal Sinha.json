@@ -1,0 +1,28 @@
+{
+  "resume": "resume - Kushal Sinha.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "DL",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "OOP",
+      "Operating Systems",
+      "Python",
+      "REST API"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML",
+      "React"
+    ]
+  }
+}

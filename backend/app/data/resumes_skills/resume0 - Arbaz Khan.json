@@ -1,0 +1,21 @@
+{
+  "resume": "resume0 - Arbaz Khan.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS RDS",
+      "AWS S3",
+      "Computer Networks",
+      "DNS",
+      "JavaScript",
+      "MySQL",
+      "Python",
+      "TCP/IP"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

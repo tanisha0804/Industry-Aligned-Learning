@@ -1,0 +1,36 @@
+{
+  "resume": "Siddharth - Siddharth P.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "C++",
+      "Computer Networks",
+      "DL",
+      "DNS",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "Linux",
+      "ML",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Software Engineering",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Android",
+      "Bootstrap",
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML"
+    ]
+  }
+}

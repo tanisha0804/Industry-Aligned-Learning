@@ -1,0 +1,28 @@
+{
+  "resume": "Vaibhav Isloor Resume - Vaibhav Isloor.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "Hadoop",
+      "Kafka",
+      "React"
+    ]
+  }
+}

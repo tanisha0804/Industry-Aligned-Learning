@@ -1,0 +1,30 @@
+{
+  "resume": "sachin_resume (22) (2) - sachin ramesh.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS S3",
+      "Algorithms",
+      "C++",
+      "CI/CD",
+      "DL",
+      "Data Structures",
+      "FastAPI",
+      "ML",
+      "Microservices",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "Redis",
+      "System Design"
+    ],
+    "secondary_skills": [
+      "GitHub",
+      "Kafka",
+      "OpenAPI",
+      "Postman",
+      "Unit Testing"
+    ]
+  }
+}

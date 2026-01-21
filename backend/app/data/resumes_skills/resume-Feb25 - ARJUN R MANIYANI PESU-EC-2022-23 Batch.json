@@ -1,0 +1,36 @@
+{
+  "resume": "resume-Feb25 - ARJUN R MANIYANI PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "Apache Spark",
+      "Computer Networks",
+      "Cybersecurity",
+      "FastAPI",
+      "Flask",
+      "GCP",
+      "Go",
+      "HTTP",
+      "Kubernetes",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "PostgreSQL",
+      "Python",
+      "REST API",
+      "SQL",
+      "TCP/IP",
+      "TensorFlow",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "Kafka",
+      "React"
+    ]
+  }
+}

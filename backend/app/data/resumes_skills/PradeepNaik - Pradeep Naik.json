@@ -1,0 +1,30 @@
+{
+  "resume": "PradeepNaik - Pradeep Naik.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Apache Spark",
+      "C++",
+      "DL",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "Kubernetes",
+      "Matplotlib",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "Scala"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "HTML",
+      "Hadoop",
+      "Kafka"
+    ]
+  }
+}

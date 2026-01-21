@@ -1,0 +1,23 @@
+{
+  "resume": "PES2UG21CS234_Kota_Bharadwaj_Resume - KOTA BHARADWAJ 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Cybersecurity",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "Node.js",
+      "Python",
+      "REST API",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Kafka"
+    ]
+  }
+}

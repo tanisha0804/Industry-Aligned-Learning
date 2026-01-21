@@ -1,0 +1,20 @@
+{
+  "resume": "v - Vihar N.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "CV",
+      "DL",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "Redis"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "React"
+    ]
+  }
+}

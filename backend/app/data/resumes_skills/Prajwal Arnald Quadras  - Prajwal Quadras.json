@@ -1,0 +1,19 @@
+{
+  "resume": "Prajwal Arnald Quadras  - Prajwal Quadras.txt",
+  "skills": {
+    "primary_skills": [
+      "Cybersecurity",
+      "Docker",
+      "Java",
+      "Kubernetes",
+      "Microservices",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "React",
+      "SAP"
+    ]
+  }
+}

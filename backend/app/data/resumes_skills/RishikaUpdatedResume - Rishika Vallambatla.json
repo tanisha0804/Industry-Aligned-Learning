@@ -1,0 +1,22 @@
+{
+  "resume": "RishikaUpdatedResume - Rishika Vallambatla.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Data Analysis",
+      "Data Structures",
+      "Java",
+      "ML",
+      "MongoDB",
+      "OOP",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Android",
+      "Express.js",
+      "React"
+    ]
+  }
+}

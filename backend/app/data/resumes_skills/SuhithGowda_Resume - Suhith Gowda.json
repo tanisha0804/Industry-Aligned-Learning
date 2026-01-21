@@ -1,0 +1,25 @@
+{
+  "resume": "SuhithGowda_Resume - Suhith Gowda.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "AWS",
+      "DL",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "JIRA",
+      "React"
+    ]
+  }
+}

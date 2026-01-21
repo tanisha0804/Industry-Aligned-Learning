@@ -1,0 +1,28 @@
+{
+  "resume": "Prashil_Jatakiya - Prashil Jatakiya.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "CV",
+      "DL",
+      "Data Science",
+      "Docker",
+      "Java",
+      "Keras",
+      "ML",
+      "Matplotlib",
+      "Microservices",
+      "MySQL",
+      "NLP",
+      "NumPy",
+      "OOP",
+      "Pandas",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

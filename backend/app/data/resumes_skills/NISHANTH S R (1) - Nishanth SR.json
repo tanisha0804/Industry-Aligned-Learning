@@ -1,0 +1,22 @@
+{
+  "resume": "NISHANTH S R (1) - Nishanth SR.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Go",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "HTML"
+    ]
+  }
+}

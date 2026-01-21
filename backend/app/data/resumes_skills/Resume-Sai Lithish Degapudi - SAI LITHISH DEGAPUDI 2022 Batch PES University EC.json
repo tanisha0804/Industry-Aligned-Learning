@@ -1,0 +1,19 @@
+{
+  "resume": "Resume-Sai Lithish Degapudi - SAI LITHISH DEGAPUDI 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Docker",
+      "Flask",
+      "Kubernetes",
+      "MySQL",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "HTML"
+    ]
+  }
+}

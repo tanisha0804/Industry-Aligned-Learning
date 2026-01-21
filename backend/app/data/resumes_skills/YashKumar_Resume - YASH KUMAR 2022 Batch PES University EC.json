@@ -1,0 +1,30 @@
+{
+  "resume": "YashKumar_Resume - YASH KUMAR 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "DevOps",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "MongoDB",
+      "NLP",
+      "OOP",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow",
+      "TypeScript",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML",
+      "React"
+    ]
+  }
+}

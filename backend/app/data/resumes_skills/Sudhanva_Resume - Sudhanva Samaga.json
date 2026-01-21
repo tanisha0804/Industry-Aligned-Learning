@@ -1,0 +1,28 @@
+{
+  "resume": "Sudhanva_Resume - Sudhanva Samaga.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "C++",
+      "DL",
+      "Data Analysis",
+      "Data Structures",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "OOP",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

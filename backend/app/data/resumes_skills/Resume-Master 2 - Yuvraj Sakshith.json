@@ -1,0 +1,20 @@
+{
+  "resume": "Resume-Master 2 - Yuvraj Sakshith.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Embedded Systems",
+      "Java",
+      "Linux",
+      "Operating Systems",
+      "SoC",
+      "UART"
+    ],
+    "secondary_skills": [
+      "Git"
+    ]
+  }
+}

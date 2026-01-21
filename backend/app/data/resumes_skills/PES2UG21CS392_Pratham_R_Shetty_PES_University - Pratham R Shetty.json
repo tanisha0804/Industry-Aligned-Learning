@@ -1,0 +1,30 @@
+{
+  "resume": "PES2UG21CS392_Pratham_R_Shetty_PES_University - Pratham R Shetty.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "C++",
+      "DL",
+      "Data Analysis",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Python",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "Hadoop",
+      "JIRA"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resume": "tanishadas_resume_20250210_180952_0000 - Tanisha Das PESU IO.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Docker",
+      "Flask",
+      "Java",
+      "ML",
+      "MySQL",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Kafka",
+      "React"
+    ]
+  }
+}

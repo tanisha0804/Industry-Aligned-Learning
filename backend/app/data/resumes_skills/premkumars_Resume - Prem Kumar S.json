@@ -1,0 +1,29 @@
+{
+  "resume": "premkumars_Resume - Prem Kumar S.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Computer Networks",
+      "Cryptography",
+      "Cybersecurity",
+      "Data Science",
+      "Java",
+      "JavaScript",
+      "ML",
+      "Microservices",
+      "MySQL",
+      "Operating Systems",
+      "Python",
+      "SQL",
+      "SaaS",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "Angular",
+      "CSS",
+      "HTML"
+    ]
+  }
+}

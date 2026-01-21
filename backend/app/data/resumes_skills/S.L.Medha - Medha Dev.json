@@ -1,0 +1,26 @@
+{
+  "resume": "S.L.Medha - Medha Dev.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "DL",
+      "Data Analysis",
+      "Data Science",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "NumPy",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Hadoop",
+      "Power BI",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "resume": "Shwetavyadahalli-resume - SHWETA V YADAHALLI PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Java",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "React"
+    ]
+  }
+}

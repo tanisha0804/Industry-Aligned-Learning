@@ -1,0 +1,32 @@
+{
+  "resume": "Resume - NABIRASUL A PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "API Development",
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Go",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "Postman",
+      "React",
+      "Vue.js"
+    ]
+  }
+}

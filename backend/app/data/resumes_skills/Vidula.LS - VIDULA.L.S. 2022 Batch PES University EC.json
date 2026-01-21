@@ -1,0 +1,21 @@
+{
+  "resume": "Vidula.LS - VIDULA.L.S. 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Computer Networks",
+      "Cybersecurity",
+      "ML",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

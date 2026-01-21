@@ -1,0 +1,24 @@
+{
+  "resume": "PragnaPrasad_Resume - PRAGNA PRASAD 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Cybersecurity",
+      "DL",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "React"
+    ]
+  }
+}

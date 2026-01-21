@@ -1,0 +1,30 @@
+{
+  "resume": "Pallavi_Arora_Resume - Pallavi Arora.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Cloud Computing",
+      "Computer Networks",
+      "Cryptography",
+      "Cybersecurity",
+      "Django",
+      "Docker",
+      "Jenkins",
+      "Kubernetes",
+      "Linux",
+      "Microservices",
+      "MySQL",
+      "Network Security",
+      "Operating Systems",
+      "Oracle DB",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "Angular",
+      "JIRA"
+    ]
+  }
+}

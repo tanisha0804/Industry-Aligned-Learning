@@ -1,0 +1,26 @@
+{
+  "resume": "RESUME - ANIKETHAN RAO M H PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "API Development",
+      "Apache Spark",
+      "Docker",
+      "FastAPI",
+      "Go",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Kafka",
+      "React",
+      "Swagger"
+    ]
+  }
+}

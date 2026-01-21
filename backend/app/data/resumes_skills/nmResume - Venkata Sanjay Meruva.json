@@ -1,0 +1,30 @@
+{
+  "resume": "nmResume - Venkata Sanjay Meruva.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Docker",
+      "Flask",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "PHP",
+      "Pandas",
+      "Python",
+      "Scikit-learn",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "JIRA",
+      "React"
+    ]
+  }
+}

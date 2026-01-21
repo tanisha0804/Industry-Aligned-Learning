@@ -1,0 +1,21 @@
+{
+  "resume": "Resume - SUDHARSHAN H G -2023 BATCH RR PES University.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "Java",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "PyTorch",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Hadoop",
+      "Kafka",
+      "Kotlin",
+      "React"
+    ]
+  }
+}

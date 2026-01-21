@@ -1,0 +1,32 @@
+{
+  "resume": "Y Manish Kumar_Resume - Manish Kumar.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "Cybersecurity",
+      "Data Analysis",
+      "Data Science",
+      "Data Structures",
+      "Grafana",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Operating Systems",
+      "Pandas",
+      "Prometheus",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML"
+    ]
+  }
+}

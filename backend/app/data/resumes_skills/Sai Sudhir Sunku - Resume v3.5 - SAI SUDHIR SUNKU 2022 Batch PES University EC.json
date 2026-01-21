@@ -1,0 +1,31 @@
+{
+  "resume": "Sai Sudhir Sunku - Resume v3.5 - SAI SUDHIR SUNKU 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Azure",
+      "C++",
+      "Computer Networks",
+      "Data Analysis",
+      "Data Science",
+      "Docker",
+      "Flask",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Matplotlib",
+      "Operating Systems",
+      "PHP",
+      "Pandas",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "FFmpeg",
+      "HTML",
+      "Kafka"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "resume": "Siddharth_Rajendran - siddharth rajendran.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "DL",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "PostgreSQL",
+      "PyTorch",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Excel",
+      "HTML",
+      "Tableau"
+    ]
+  }
+}

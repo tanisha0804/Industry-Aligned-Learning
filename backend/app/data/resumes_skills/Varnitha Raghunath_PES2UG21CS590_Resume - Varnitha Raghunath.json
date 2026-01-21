@@ -1,0 +1,36 @@
+{
+  "resume": "Varnitha Raghunath_PES2UG21CS590_Resume - Varnitha Raghunath.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "CI/CD",
+      "CV",
+      "Computer Networks",
+      "DL",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "Kubernetes",
+      "Linux",
+      "ML",
+      "Microservices",
+      "MySQL",
+      "NLP",
+      "Python",
+      "REST API",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Hadoop",
+      "Kafka"
+    ]
+  }
+}

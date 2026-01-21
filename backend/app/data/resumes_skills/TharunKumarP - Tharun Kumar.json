@@ -1,0 +1,42 @@
+{
+  "resume": "TharunKumarP - Tharun Kumar.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "CI/CD",
+      "DevOps",
+      "Django",
+      "Docker",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "Kubernetes",
+      "Linux",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Oracle DB",
+      "Pandas",
+      "Python",
+      "SDLC",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Android",
+      "CSS",
+      "Express.js",
+      "Git",
+      "HTML",
+      "Kotlin",
+      "React",
+      "Swift",
+      "iOS"
+    ]
+  }
+}

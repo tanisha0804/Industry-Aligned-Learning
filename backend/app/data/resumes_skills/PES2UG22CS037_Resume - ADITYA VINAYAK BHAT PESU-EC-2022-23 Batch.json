@@ -1,0 +1,31 @@
+{
+  "resume": "PES2UG22CS037_Resume - ADITYA VINAYAK BHAT PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "CV",
+      "Computer Networks",
+      "Cybersecurity",
+      "DL",
+      "Data Science",
+      "Data Structures",
+      "Java",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "Operating Systems",
+      "Pandas",
+      "PyTorch",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "React"
+    ]
+  }
+}

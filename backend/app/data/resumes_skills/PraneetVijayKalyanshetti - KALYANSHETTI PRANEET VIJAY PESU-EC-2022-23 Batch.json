@@ -1,0 +1,36 @@
+{
+  "resume": "PraneetVijayKalyanshetti - KALYANSHETTI PRANEET VIJAY PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Computer Networks",
+      "DL",
+      "Data Science",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "Operating Systems",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Software Engineering",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "HTML",
+      "React"
+    ]
+  }
+}

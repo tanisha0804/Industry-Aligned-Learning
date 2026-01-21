@@ -1,0 +1,28 @@
+{
+  "resume": "S_Anil_kumar  - S ANIL KUMAR 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "C++",
+      "Cloud Computing",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Software Engineering"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

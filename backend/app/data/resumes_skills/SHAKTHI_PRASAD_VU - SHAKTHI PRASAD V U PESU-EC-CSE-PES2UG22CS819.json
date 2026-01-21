@@ -1,0 +1,37 @@
+{
+  "resume": "SHAKTHI_PRASAD_VU - SHAKTHI PRASAD V U PESU-EC-CSE-PES2UG22CS819.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS S3",
+      "Algorithms",
+      "Computer Networks",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Node.js",
+      "OOP",
+      "PHP",
+      "Python",
+      "SDLC",
+      "SQL",
+      "Scikit-learn",
+      "TCP/IP",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "HTML",
+      "JIRA",
+      "React"
+    ]
+  }
+}

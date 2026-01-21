@@ -1,0 +1,30 @@
+{
+  "resume": "Resume_ShrutiDewan - Shruti Dewan.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "DL",
+      "Flask",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

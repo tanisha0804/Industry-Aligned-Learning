@@ -1,0 +1,19 @@
+{
+  "resume": "Tirthraj_Resume - Tirthraj Bhalodiya.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "C++",
+      "DL",
+      "DevOps",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "NLP",
+      "Pandas",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": []
+  }
+}

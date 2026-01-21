@@ -1,0 +1,24 @@
+{
+  "resume": "SUJAN_RESUME2 - Sujan Shriyan.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "DL",
+      "Data Structures",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "OOP",
+      "Operating Systems",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Kotlin"
+    ]
+  }
+}

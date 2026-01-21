@@ -1,0 +1,17 @@
+{
+  "resume": "tejas_CV - letha sai tejas.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Docker",
+      "Java",
+      "Linux",
+      "Microservices",
+      "MongoDB",
+      "Operating Systems",
+      "Python",
+      "Windows"
+    ],
+    "secondary_skills": []
+  }
+}

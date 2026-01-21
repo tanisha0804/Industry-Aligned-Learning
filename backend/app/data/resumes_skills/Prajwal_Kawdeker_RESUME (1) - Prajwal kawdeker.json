@@ -1,0 +1,30 @@
+{
+  "resume": "Prajwal_Kawdeker_RESUME (1) - Prajwal kawdeker.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "CI/CD",
+      "CV",
+      "Django",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "Kubernetes",
+      "Microservices",
+      "Node.js",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Android",
+      "CSS",
+      "HTML",
+      "Integration Testing",
+      "React"
+    ]
+  }
+}

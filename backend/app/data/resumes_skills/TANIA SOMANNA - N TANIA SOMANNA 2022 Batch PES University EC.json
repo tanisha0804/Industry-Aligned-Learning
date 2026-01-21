@@ -1,0 +1,38 @@
+{
+  "resume": "TANIA SOMANNA - N TANIA SOMANNA 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "CV",
+      "Cloud Computing",
+      "Computer Networks",
+      "Data Structures",
+      "Docker",
+      "HTTP",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "Matplotlib",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "PHP",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Shell Scripting",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "MVVM",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "resume": "suteerth_kalkeri_ - SUTEERTH KALKERI 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Cybersecurity",
+      "JavaScript",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "React",
+      "Wireshark"
+    ]
+  }
+}

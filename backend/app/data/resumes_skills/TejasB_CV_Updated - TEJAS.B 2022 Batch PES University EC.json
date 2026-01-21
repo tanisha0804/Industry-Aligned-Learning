@@ -1,0 +1,29 @@
+{
+  "resume": "TejasB_CV_Updated - TEJAS.B 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "AWS S3",
+      "C++",
+      "Cloud Computing",
+      "Data Analysis",
+      "Data Science",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Kubernetes",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "React"
+    ]
+  }
+}

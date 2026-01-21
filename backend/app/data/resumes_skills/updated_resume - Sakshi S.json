@@ -1,0 +1,27 @@
+{
+  "resume": "updated_resume - Sakshi S.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "DL",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Kubernetes",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "Git",
+      "GitHub",
+      "Hadoop",
+      "Kafka",
+      "React",
+      "Unit Testing"
+    ]
+  }
+}

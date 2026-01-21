@@ -1,0 +1,22 @@
+{
+  "resume": "RachanaBinumohanCV - Rachana Binumohan.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS S3",
+      "Algorithms",
+      "CV",
+      "DL",
+      "Data Analysis",
+      "Java",
+      "ML",
+      "MySQL",
+      "Operating Systems",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

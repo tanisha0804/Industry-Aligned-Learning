@@ -1,0 +1,16 @@
+{
+  "resume": "Resume - Gamesutra.txt",
+  "skills": {
+    "primary_skills": [
+      "JavaScript",
+      "MySQL",
+      "Node.js",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "React"
+    ]
+  }
+}

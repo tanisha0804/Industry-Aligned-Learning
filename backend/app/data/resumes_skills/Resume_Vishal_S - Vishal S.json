@@ -1,0 +1,25 @@
+{
+  "resume": "Resume_Vishal_S - Vishal S.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Docker",
+      "Flask",
+      "Java",
+      "Kubernetes",
+      "MongoDB",
+      "MySQL",
+      "OOP",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML"
+    ]
+  }
+}

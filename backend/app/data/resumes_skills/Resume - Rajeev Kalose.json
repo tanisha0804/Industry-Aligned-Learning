@@ -1,0 +1,26 @@
+{
+  "resume": "Resume - Rajeev Kalose.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Cloud Computing",
+      "Data Science",
+      "Data Structures",
+      "Docker",
+      "Flask",
+      "Go",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Power BI",
+      "React",
+      "Tableau"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "resume": "Resume_updated - S RAMANUJAN 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Data Science",
+      "Django",
+      "FastAPI",
+      "Flask",
+      "JavaScript",
+      "MongoDB",
+      "NLP",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Postman"
+    ]
+  }
+}

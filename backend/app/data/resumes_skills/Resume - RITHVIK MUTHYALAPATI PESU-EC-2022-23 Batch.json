@@ -1,0 +1,20 @@
+{
+  "resume": "Resume - RITHVIK MUTHYALAPATI PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Java",
+      "ML",
+      "MySQL",
+      "NLP",
+      "OOP",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "resume": "Resume_Pranav_Rajesh_Nair - Pranav Nair.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "Algorithms",
+      "C++",
+      "CV",
+      "DL",
+      "Data Analysis",
+      "Java",
+      "MySQL",
+      "NumPy",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Android",
+      "CSS",
+      "HTML"
+    ]
+  }
+}

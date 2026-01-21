@@ -1,0 +1,26 @@
+{
+  "resume": "Resume Ankitha K - PES2UG21CS078 Ankitha K.txt",
+  "skills": {
+    "primary_skills": [
+      "Data Analysis",
+      "Flask",
+      "Java",
+      "ML",
+      "Matplotlib",
+      "MySQL",
+      "NumPy",
+      "Operating Systems",
+      "Pandas",
+      "Python",
+      "Statistics"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Excel",
+      "GitHub",
+      "HTML",
+      "Power BI",
+      "Tableau"
+    ]
+  }
+}

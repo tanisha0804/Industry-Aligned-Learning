@@ -1,0 +1,19 @@
+{
+  "resume": "Sai Lithish Degapudi-Resume (1) - Sai Lithish Degapudi.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Docker",
+      "Flask",
+      "Kubernetes",
+      "MySQL",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "HTML"
+    ]
+  }
+}

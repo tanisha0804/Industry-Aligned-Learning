@@ -1,0 +1,30 @@
+{
+  "resume": "Shreyas Vignesh _ cv - SHREYAS VIGNESH \ufffdRR 2021 BATCH, PES UNIVERSITY.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "Embedded Systems",
+      "FPGA",
+      "I2C",
+      "Java",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "NLP",
+      "Node.js",
+      "Python",
+      "RTOS",
+      "SQL",
+      "System Design",
+      "TCP/IP",
+      "Verilog"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "HTML",
+      "Power BI",
+      "Wireshark"
+    ]
+  }
+}

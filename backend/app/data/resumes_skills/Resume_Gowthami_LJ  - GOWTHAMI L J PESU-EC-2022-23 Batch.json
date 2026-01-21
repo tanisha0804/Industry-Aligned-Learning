@@ -1,0 +1,17 @@
+{
+  "resume": "Resume_Gowthami_LJ  - GOWTHAMI L J PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "C++",
+      "Flask",
+      "Java",
+      "ML",
+      "MySQL",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Kafka"
+    ]
+  }
+}

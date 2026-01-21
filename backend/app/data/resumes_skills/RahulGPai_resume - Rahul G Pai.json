@@ -1,0 +1,24 @@
+{
+  "resume": "RahulGPai_resume - Rahul G Pai.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "CV",
+      "DL",
+      "Design Patterns",
+      "Java",
+      "ML",
+      "Node.js",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "HTML",
+      "Tableau"
+    ]
+  }
+}

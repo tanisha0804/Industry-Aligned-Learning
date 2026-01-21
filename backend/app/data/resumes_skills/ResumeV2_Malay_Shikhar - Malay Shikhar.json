@@ -1,0 +1,24 @@
+{
+  "resume": "ResumeV2_Malay_Shikhar - Malay Shikhar.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "CV",
+      "DL",
+      "Data Analysis",
+      "Data Structures",
+      "Jenkins",
+      "Linux",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Swift"
+    ]
+  }
+}

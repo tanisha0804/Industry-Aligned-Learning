@@ -1,0 +1,21 @@
+{
+  "resume": "S_Sathvik_Resume - Sathvik Srikanth.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "Node.js",
+      "PHP"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

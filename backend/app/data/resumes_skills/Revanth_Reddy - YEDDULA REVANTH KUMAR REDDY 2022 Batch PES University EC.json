@@ -1,0 +1,36 @@
+{
+  "resume": "Revanth_Reddy - YEDDULA REVANTH KUMAR REDDY 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Azure",
+      "C++",
+      "Computer Networks",
+      "DL",
+      "Data Structures",
+      "Django",
+      "Docker",
+      "FastAPI",
+      "Flask",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MongoDB",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "REST API",
+      "SQL",
+      "Software Engineering"
+    ],
+    "secondary_skills": [
+      "Angular",
+      "Bootstrap",
+      "Kafka",
+      "React"
+    ]
+  }
+}

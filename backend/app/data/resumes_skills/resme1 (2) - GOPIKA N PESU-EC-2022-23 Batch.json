@@ -1,0 +1,19 @@
+{
+  "resume": "resme1 (2) - GOPIKA N PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Computer Networks",
+      "Embedded Systems",
+      "FPGA",
+      "Operating Systems",
+      "Python",
+      "Verilog"
+    ],
+    "secondary_skills": [
+      "Git",
+      "GitHub",
+      "HTML",
+      "Wireshark"
+    ]
+  }
+}

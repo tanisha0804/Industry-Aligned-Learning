@@ -1,0 +1,25 @@
+{
+  "resume": "Shruti C_Resume - SHRUTI C.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "CV",
+      "Cloud Computing",
+      "Cybersecurity",
+      "Data Science",
+      "Docker",
+      "Kubernetes",
+      "MySQL",
+      "PHP",
+      "Python",
+      "Statistics"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "Excel",
+      "Power BI",
+      "SAP",
+      "Tableau"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resume": "Nishan_HollaA - Nishan Holla.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Data Analysis",
+      "DevOps",
+      "Docker",
+      "Elasticsearch",
+      "FastAPI",
+      "Flask",
+      "Keras",
+      "Kubernetes",
+      "ML",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "Python",
+      "TensorFlow",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "Git",
+      "React"
+    ]
+  }
+}

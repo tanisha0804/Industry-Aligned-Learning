@@ -1,0 +1,23 @@
+{
+  "resume": "Resume Samarth - SAMARTH SANGAMESH INGALAGAVI 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "Algorithms",
+      "C++",
+      "Cybersecurity",
+      "Data Structures",
+      "JavaScript",
+      "NLP",
+      "OOP",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "TDD"
+    ]
+  }
+}

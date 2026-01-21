@@ -1,0 +1,25 @@
+{
+  "resume": "Resume_Gautam - Gautam Panday.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "OOP",
+      "Operating Systems",
+      "Python",
+      "SQL",
+      "Software Engineering"
+    ],
+    "secondary_skills": [
+      "Postman",
+      "React"
+    ]
+  }
+}

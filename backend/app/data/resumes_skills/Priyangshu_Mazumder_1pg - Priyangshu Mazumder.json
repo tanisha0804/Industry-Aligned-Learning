@@ -1,0 +1,30 @@
+{
+  "resume": "Priyangshu_Mazumder_1pg - Priyangshu Mazumder.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "CV",
+      "DL",
+      "Django",
+      "Docker",
+      "JavaScript",
+      "Kubernetes",
+      "ML",
+      "MongoDB",
+      "NLP",
+      "Node.js",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Express.js",
+      "JIRA",
+      "Kafka",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "resume": "Resume_ - ADITYA A S 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "CV",
+      "Data Science",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "ML",
+      "Matplotlib",
+      "Microservices",
+      "MySQL",
+      "NLP",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

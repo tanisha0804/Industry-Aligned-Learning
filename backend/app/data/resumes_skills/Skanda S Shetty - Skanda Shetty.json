@@ -1,0 +1,20 @@
+{
+  "resume": "Skanda S Shetty - Skanda Shetty.txt",
+  "skills": {
+    "primary_skills": [
+      "DL",
+      "Flask",
+      "JavaScript",
+      "ML",
+      "Operating Systems",
+      "Python",
+      "Scikit-learn"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

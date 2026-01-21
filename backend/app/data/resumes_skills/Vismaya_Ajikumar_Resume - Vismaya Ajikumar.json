@@ -1,0 +1,34 @@
+{
+  "resume": "Vismaya_Ajikumar_Resume - Vismaya Ajikumar.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "C++",
+      "Cloud Computing",
+      "Data Analysis",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "Kubernetes",
+      "ML",
+      "Matplotlib",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Excel",
+      "Express.js",
+      "HTML",
+      "React"
+    ]
+  }
+}

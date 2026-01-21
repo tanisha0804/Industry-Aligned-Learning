@@ -1,0 +1,26 @@
+{
+  "resume": "Sahana_S_Math - Sahana Math.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "DL",
+      "Data Analysis",
+      "Data Structures",
+      "Flask",
+      "Java",
+      "Keras",
+      "ML",
+      "MySQL",
+      "NLP",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

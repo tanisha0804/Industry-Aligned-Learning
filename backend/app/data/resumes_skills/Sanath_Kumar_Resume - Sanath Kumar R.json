@@ -1,0 +1,21 @@
+{
+  "resume": "Sanath_Kumar_Resume - Sanath Kumar R.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Apache Spark",
+      "C++",
+      "Data Analysis",
+      "Data Science",
+      "Flask",
+      "Java",
+      "ML",
+      "NLP",
+      "Python",
+      "Scikit-learn"
+    ],
+    "secondary_skills": [
+      "JIRA"
+    ]
+  }
+}

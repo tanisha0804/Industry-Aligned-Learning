@@ -1,0 +1,34 @@
+{
+  "resume": "NISHANTH-DMELLO-RESUME - Nishanth Dmello.txt",
+  "skills": {
+    "primary_skills": [
+      "Bash",
+      "C++",
+      "CV",
+      "DL",
+      "Data Analysis",
+      "Docker",
+      "FastAPI",
+      "Flask",
+      "JavaScript",
+      "Linux",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "NumPy",
+      "Pandas",
+      "PostgreSQL",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML",
+      "JIRA",
+      "React"
+    ]
+  }
+}

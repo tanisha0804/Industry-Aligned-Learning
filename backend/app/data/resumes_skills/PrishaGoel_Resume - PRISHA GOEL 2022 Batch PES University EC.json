@@ -1,0 +1,32 @@
+{
+  "resume": "PrishaGoel_Resume - PRISHA GOEL 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS S3",
+      "CI/CD",
+      "Computer Networks",
+      "DevOps",
+      "Django",
+      "Docker",
+      "Flask",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "Angular",
+      "CSS",
+      "Excel",
+      "Git",
+      "HTML",
+      "JIRA",
+      "React",
+      "Tableau"
+    ]
+  }
+}

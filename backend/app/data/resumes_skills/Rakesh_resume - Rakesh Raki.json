@@ -1,0 +1,19 @@
+{
+  "resume": "Rakesh_resume - Rakesh Raki.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "CV",
+      "DL",
+      "JavaScript",
+      "MySQL",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "React"
+    ]
+  }
+}

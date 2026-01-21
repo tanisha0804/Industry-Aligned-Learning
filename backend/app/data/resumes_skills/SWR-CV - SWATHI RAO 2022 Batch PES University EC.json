@@ -1,0 +1,34 @@
+{
+  "resume": "SWR-CV - SWATHI RAO 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "Cybersecurity",
+      "Data Analysis",
+      "Data Science",
+      "Docker",
+      "Flask",
+      "Java",
+      "Kubernetes",
+      "Linux",
+      "ML",
+      "Matplotlib",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "Git",
+      "HTML",
+      "Hadoop",
+      "Kafka",
+      "SAP"
+    ]
+  }
+}

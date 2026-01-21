@@ -1,0 +1,19 @@
+{
+  "resume": "Rudransh_Resume - RUDRANSH DAS PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Cybersecurity",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python",
+      "REST API"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "React"
+    ]
+  }
+}

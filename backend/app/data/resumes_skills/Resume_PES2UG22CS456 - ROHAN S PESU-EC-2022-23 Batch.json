@@ -1,0 +1,23 @@
+{
+  "resume": "Resume_PES2UG22CS456 - ROHAN S PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Apache Spark",
+      "Data Science",
+      "Java",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "PHP",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Android",
+      "CSS",
+      "HTML",
+      "Kafka",
+      "React"
+    ]
+  }
+}

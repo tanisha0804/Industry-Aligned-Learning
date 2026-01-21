@@ -1,0 +1,20 @@
+{
+  "resume": "Resume_Updated(1) - Sahana S Patil.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "C++",
+      "Data Analysis",
+      "Flask",
+      "Java",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "GitHub",
+      "HTML",
+      "Kafka"
+    ]
+  }
+}

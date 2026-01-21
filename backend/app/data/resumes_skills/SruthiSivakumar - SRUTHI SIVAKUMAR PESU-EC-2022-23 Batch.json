@@ -1,0 +1,23 @@
+{
+  "resume": "SruthiSivakumar - SRUTHI SIVAKUMAR PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "C++",
+      "Flask",
+      "Go",
+      "Java",
+      "ML",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Git",
+      "GitHub",
+      "Hadoop",
+      "Kafka"
+    ]
+  }
+}

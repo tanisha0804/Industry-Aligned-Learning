@@ -1,0 +1,25 @@
+{
+  "resume": "Shrinivas__D - SHRINIVAS DASHARATH DULARI 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Computer Networks",
+      "DL",
+      "Data Analysis",
+      "Data Structures",
+      "Docker",
+      "JavaScript",
+      "Kubernetes",
+      "Matplotlib",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "resume": "RizwanpResume (photo) - Rizwanpatel Malipatel.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Data Structures",
+      "Java",
+      "JavaScript",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "OOP",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "Express.js",
+      "Postman",
+      "React"
+    ]
+  }
+}

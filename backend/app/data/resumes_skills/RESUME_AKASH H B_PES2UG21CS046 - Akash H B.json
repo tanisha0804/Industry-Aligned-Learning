@@ -1,0 +1,29 @@
+{
+  "resume": "RESUME_AKASH H B_PES2UG21CS046 - Akash H B.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Apache Spark",
+      "C++",
+      "CV",
+      "Computer Networks",
+      "DL",
+      "Java",
+      "JavaScript",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Hadoop",
+      "Kafka",
+      "React"
+    ]
+  }
+}

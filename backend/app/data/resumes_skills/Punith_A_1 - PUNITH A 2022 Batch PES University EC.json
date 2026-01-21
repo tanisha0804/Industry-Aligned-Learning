@@ -1,0 +1,15 @@
+{
+  "resume": "Punith_A_1 - PUNITH A 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Django",
+      "Node.js",
+      "Pandas",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Git",
+      "React"
+    ]
+  }
+}

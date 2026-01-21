@@ -1,0 +1,27 @@
+{
+  "resume": "Vignesh Palanirajan - Resume - VIGNESH PALANIRAJAN PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "ARM Architecture",
+      "Algorithms",
+      "Apache Spark",
+      "C++",
+      "Data Analysis",
+      "Data Science",
+      "Linux",
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "NumPy",
+      "Python",
+      "SQL",
+      "Scala",
+      "Verilog",
+      "Windows"
+    ],
+    "secondary_skills": [
+      "Kafka",
+      "React"
+    ]
+  }
+}

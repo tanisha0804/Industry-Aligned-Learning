@@ -1,0 +1,29 @@
+{
+  "resume": "RESUME_KAUSHIK CHALLAPALLI - Kaushik C.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "DL",
+      "Data Structures",
+      "DevOps",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "Node.js",
+      "Operating Systems",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Express.js",
+      "Git",
+      "HTML",
+      "Wireshark"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "resume": "Sanskar Khatri Resume Latest - Sanskar Khatri.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS S3",
+      "Algorithms",
+      "Apache Spark",
+      "Data Structures",
+      "DevOps",
+      "Django",
+      "Docker",
+      "Flask",
+      "GCP",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "Kubernetes",
+      "ML",
+      "Microservices",
+      "MongoDB",
+      "NLP",
+      "PostgreSQL",
+      "Python",
+      "REST API",
+      "SQL",
+      "Scala",
+      "Software Engineering",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "Excel",
+      "Git",
+      "GitHub",
+      "JIRA",
+      "Kafka",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resume": "Sashank_RESUME - NANNAPANENI SASHANK PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "Go",
+      "Java",
+      "ML",
+      "MySQL",
+      "Node.js",
+      "Python"
+    ],
+    "secondary_skills": [
+      "Express.js"
+    ]
+  }
+}

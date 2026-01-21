@@ -1,0 +1,24 @@
+{
+  "resume": "VINITH_CV - EDDE VINITH KUMAR REDDY PESU-EC-CSE-PES2UG22CS804.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Azure",
+      "C++",
+      "Docker",
+      "Java",
+      "JavaScript",
+      "MySQL",
+      "PHP",
+      "Python",
+      "SQL",
+      "Scala"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "React"
+    ]
+  }
+}

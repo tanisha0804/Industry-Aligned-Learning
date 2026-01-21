@@ -1,0 +1,16 @@
+{
+  "resume": "Omprakash_CV - Omprakash.txt",
+  "skills": {
+    "primary_skills": [
+      "Java",
+      "ML",
+      "NLP",
+      "SQL",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "Android",
+      "Nmap"
+    ]
+  }
+}

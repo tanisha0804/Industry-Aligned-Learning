@@ -1,0 +1,21 @@
+{
+  "resume": "SUROBHI_HALDER - surobhi halder.txt",
+  "skills": {
+    "primary_skills": [
+      "Cryptography",
+      "Cybersecurity",
+      "Java",
+      "JavaScript",
+      "Microservices",
+      "MySQL",
+      "Network Security"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Excel",
+      "Git",
+      "GitHub",
+      "HTML"
+    ]
+  }
+}

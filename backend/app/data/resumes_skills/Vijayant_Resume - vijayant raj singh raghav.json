@@ -1,0 +1,23 @@
+{
+  "resume": "Vijayant_Resume - vijayant raj singh raghav.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "JavaScript",
+      "Kubernetes",
+      "MongoDB",
+      "MySQL",
+      "Operating Systems",
+      "Pandas",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "React"
+    ]
+  }
+}

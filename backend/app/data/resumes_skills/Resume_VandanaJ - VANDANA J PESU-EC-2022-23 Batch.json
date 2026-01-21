@@ -1,0 +1,24 @@
+{
+  "resume": "Resume_VandanaJ - VANDANA J PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "Apache Spark",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "Go",
+      "Linux",
+      "ML",
+      "MySQL",
+      "Node.js",
+      "Operating Systems",
+      "Python"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML",
+      "Kafka",
+      "React"
+    ]
+  }
+}

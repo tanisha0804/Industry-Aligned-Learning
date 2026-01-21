@@ -1,0 +1,18 @@
+{
+  "resume": "Resume - Durgharchit SK.txt",
+  "skills": {
+    "primary_skills": [
+      "Django",
+      "JavaScript",
+      "Matplotlib",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "HTML"
+    ]
+  }
+}

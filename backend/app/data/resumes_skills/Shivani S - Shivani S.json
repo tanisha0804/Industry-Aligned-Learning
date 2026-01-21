@@ -1,0 +1,29 @@
+{
+  "resume": "Shivani S - Shivani S.txt",
+  "skills": {
+    "primary_skills": [
+      "C++",
+      "DL",
+      "Data Analysis",
+      "Docker",
+      "Flask",
+      "Java",
+      "Kubernetes",
+      "ML",
+      "MySQL",
+      "NLP",
+      "Node.js",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "GitHub",
+      "HTML"
+    ]
+  }
+}

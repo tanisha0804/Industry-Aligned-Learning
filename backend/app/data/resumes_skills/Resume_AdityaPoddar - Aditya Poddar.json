@@ -1,0 +1,33 @@
+{
+  "resume": "Resume_AdityaPoddar - Aditya Poddar.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "Cloud Computing",
+      "Computer Networks",
+      "Cryptography",
+      "DL",
+      "Data Structures",
+      "FastAPI",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "NLP",
+      "Network Security",
+      "PHP",
+      "PostgreSQL",
+      "Python",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "CSS",
+      "Git",
+      "HTML",
+      "Kafka",
+      "React",
+      "Wireshark"
+    ]
+  }
+}

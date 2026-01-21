@@ -1,0 +1,26 @@
+{
+  "resume": "Sakeeb Gadyal - Sakeeb Gadyal.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "Algorithms",
+      "C++",
+      "Data Structures",
+      "JavaScript",
+      "Linux",
+      "MongoDB",
+      "MySQL",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "JIRA",
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resume": "resume - JOVA VARGHESE PESU-EC-2022-23 Batch.txt",
+  "skills": {
+    "primary_skills": [
+      "MongoDB",
+      "MySQL",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "SQL"
+    ],
+    "secondary_skills": [
+      "Bootstrap",
+      "Express.js",
+      "GitHub",
+      "React"
+    ]
+  }
+}

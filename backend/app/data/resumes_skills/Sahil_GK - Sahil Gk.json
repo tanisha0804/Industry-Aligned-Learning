@@ -1,0 +1,20 @@
+{
+  "resume": "Sahil_GK - Sahil Gk.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "C++",
+      "Data Science",
+      "Java",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "Pandas",
+      "Python",
+      "TensorFlow"
+    ],
+    "secondary_skills": [
+      "React"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resume": "R SHASHANK(RESUME) - R SHASHANK 2022 Batch PES University EC.txt",
+  "skills": {
+    "primary_skills": [
+      "Algorithms",
+      "C++",
+      "Cloud Computing",
+      "Computer Networks",
+      "DL",
+      "Data Analysis",
+      "Data Science",
+      "Data Structures",
+      "Docker",
+      "Keras",
+      "Kubernetes",
+      "ML",
+      "MySQL",
+      "NumPy",
+      "Operating Systems",
+      "Python",
+      "SQL",
+      "Statistics",
+      "TensorFlow"
+    ],
+    "secondary_skills": []
+  }
+}

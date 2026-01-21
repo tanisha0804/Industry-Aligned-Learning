@@ -1,0 +1,25 @@
+{
+  "resume": "OmkarPowar - OMKAR POWAR PESU-EC-CSE-PES2UG22CS812.txt",
+  "skills": {
+    "primary_skills": [
+      "AWS",
+      "AWS EC2",
+      "Algorithms",
+      "Docker",
+      "HTTP",
+      "Java",
+      "ML",
+      "Microservices",
+      "MongoDB",
+      "MySQL",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "secondary_skills": [
+      "HTML"
+    ]
+  }
+}
