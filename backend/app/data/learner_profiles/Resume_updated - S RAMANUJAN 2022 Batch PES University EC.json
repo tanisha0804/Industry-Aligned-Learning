@@ -1,0 +1,16 @@
+{
+  "PostgreSQL": 0.7,
+  "Django": 0.7,
+  "Data Science": 0.7,
+  "Python": 0.7,
+  "JavaScript": 0.7,
+  "SQL": 0.7,
+  "FastAPI": 0.7,
+  "C++": 0.7,
+  "NLP": 0.7,
+  "Flask": 0.7,
+  "MongoDB": 0.7,
+  "CSS": 0.4,
+  "HTML": 0.4,
+  "Postman": 0.4
+}

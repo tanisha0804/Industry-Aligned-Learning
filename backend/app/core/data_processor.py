@@ -82,3 +82,5 @@ def process_resumes():
             )
 
         print(f"Resume skills extracted: {txt_file.name}")
+
+

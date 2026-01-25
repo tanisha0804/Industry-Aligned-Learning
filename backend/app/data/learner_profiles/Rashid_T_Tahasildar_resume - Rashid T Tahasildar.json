@@ -1,0 +1,14 @@
+{
+  "Prometheus": 0.7,
+  "Java": 0.7,
+  "Terraform": 0.7,
+  "AWS": 0.7,
+  "Grafana": 0.7,
+  "MongoDB": 0.7,
+  "C++": 0.7,
+  "MySQL": 0.7,
+  "Docker": 0.7,
+  "Tableau": 0.4,
+  "GitHub": 0.4,
+  "Postman": 0.4
+}

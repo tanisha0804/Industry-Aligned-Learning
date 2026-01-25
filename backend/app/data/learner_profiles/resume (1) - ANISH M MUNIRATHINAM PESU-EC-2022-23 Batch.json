@@ -1,0 +1,18 @@
+{
+  "Java": 0.7,
+  "Node.js": 0.7,
+  "Python": 0.7,
+  "Redis": 0.7,
+  "PyTorch": 0.7,
+  "JavaScript": 0.7,
+  "TensorFlow": 0.7,
+  "Apache Spark": 0.7,
+  "Pandas": 0.7,
+  "C++": 0.7,
+  "MongoDB": 0.7,
+  "Kafka": 0.4,
+  "Hadoop": 0.4,
+  "React": 0.4,
+  "Postman": 0.4,
+  "Express.js": 0.4
+}
