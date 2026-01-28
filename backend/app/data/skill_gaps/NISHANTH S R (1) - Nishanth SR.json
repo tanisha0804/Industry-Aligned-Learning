@@ -1,106 +1,500 @@
 {
-  "PHP": 0.9,
-  "SOA": 0.8794913530010172,
-  "SDLC": 0.8644760935910478,
-  "Django": 0.8529399796541199,
-  "SPI": 0.8514750762970499,
-  "Perl": 0.8494608341810783,
-  "Chef": 0.8436012207527975,
-  "Unix": 0.8414038657171923,
-  "Pandas": 0.8375584944048831,
-  "NoSQL": 0.8371922685656156,
-  "MySQL": 0.8284028484231943,
-  "DL": 0.8236419125127161,
-  "C": 0.8199796541200407,
-  "Spring Boot": 0.8093591047812818,
-  "Ansible": 0.8024008138351985,
-  "Oracle DB": 0.8007527975584945,
-  "IaaS": 0.7967243133265514,
-  "DNS": 0.7928789420142421,
-  "Jenkins": 0.7925127161749747,
-  "Matplotlib": 0.781709053916582,
-  "NumPy": 0.779145473041709,
-  "Linux": 0.7765818921668363,
-  "HTTP": 0.772736520854527,
-  "HBase": 0.7650457782299084,
-  "Windows": 0.7595523906408952,
-  "VHDL": 0.7547914547304171,
-  "Scala": 0.7546083418107833,
-  "TCP/IP": 0.7503967446592065,
-  "Verilog": 0.7494811800610376,
-  "RTOS": 0.7408748728382503,
-  "C#": 0.7370295015259409,
-  "Shell Scripting": 0.7342828077314343,
-  "I2C": 0.7227466937945066,
-  "SoC": 0.7187182095625636,
-  "DevOps": 0.6991251271617498,
-  "CV": 0.6980264496439471,
-  "TypeScript": 0.6850254323499491,
-  "UART": 0.6848423194303154,
-  ".NET Core": 0.6830111902339776,
-  "Docker": 0.6804476093591048,
-  "NLP": 0.680264496439471,
-  "GCP": 0.6707426246185147,
-  "TensorFlow": 0.6659816887080365,
-  "Microservices": 0.6648830111902341,
-  "PCB Design": 0.6610376398779247,
-  "Embedded Systems": 0.6560935910478127,
-  "Software Engineering": 0.6425432349949135,
-  "Cryptography": 0.6419938962360122,
-  "Embedded Linux": 0.639796541200407,
-  "Design Patterns": 0.6277110885045778,
-  "Computer Networks": 0.6216683621566633,
-  "CI/CD": 0.620203458799593,
-  "Terraform": 0.6181892166836216,
-  "PostgreSQL": 0.617822990844354,
-  "AWS RDS": 0.6154425228891149,
-  "Ruby": 0.6145269582909461,
-  "Operating Systems": 0.6130620549338759,
-  "Apache Spark": 0.6068362156663276,
-  "Flask": 0.6044557477110885,
-  "AWS EC2": 0.602441505595117,
-  "SaaS": 0.6013428280773144,
-  "Data Science": 0.5982299084435402,
-  "Prometheus": 0.5980467955239064,
-  "System Design": 0.5938351983723297,
-  "Grafana": 0.58706002034588,
-  "Software Architecture": 0.5826653102746694,
-  "Azure": 0.5711291963377416,
-  "AWS S3": 0.565086469989827,
-  "Kubernetes": 0.558677517802645,
-  "Redis": 0.5568463886063073,
-  "Elasticsearch": 0.5566632756866734,
-  "Keras": 0.5551983723296032,
-  "FPGA": 0.5522685656154629,
-  "Spring Framework": 0.5421973550356053,
-  "Microcontrollers": 0.5414649033570702,
-  "FastAPI": 0.539267548321465,
-  "Network Security": 0.5257171922685656,
-  "ARM Architecture": 0.5235198372329603,
-  "Cloud Computing": 0.5050254323499491,
-  "PyTorch": 0.48140386571719224,
-  "Databricks": 0.4786571719226857,
-  "Cybersecurity": 0.467853509664293,
-  "Node.js": 0.4634587995930824,
-  ".NET": 0.4286673448626654,
-  "Bash": 0.428118006103764,
-  "Data Analysis": 0.41749745676500505,
-  "Security Hardening": 0.38508646998982704,
-  "Statistics": 0.38398779247202447,
-  "REST API": 0.37245167853509664,
-  "Cassandra": 0.3581688708036622,
-  "Scikit-learn": 0.3358290946083418,
-  "Go": 0.2917599186164802,
-  "AWS": 0.2792472024415056,
-  "SQL": 0.27607324516785353,
-  "Python": 0.27552390640895225,
-  "C++": 0.27357070193285865,
-  "Java": 0.2721057985757884,
-  "ML": 0.2592268565615463,
-  "API Development": 0.2561749745676501,
-  "OOP": 0.25379450661241104,
-  "JavaScript": 0.25367243133265516,
-  "MongoDB": 0.2300508646998983,
-  "Data Structures": 0.20966429298067144,
-  "Algorithms": 0.2036215666327569
+  "learner_id": "NISHANTH S R (1) - Nishanth SR",
+  "missing_skills": [
+    {
+      "skill": "PHP",
+      "market_demand": 1.0
+    },
+    {
+      "skill": "SOA",
+      "market_demand": 0.977
+    },
+    {
+      "skill": "SDLC",
+      "market_demand": 0.961
+    },
+    {
+      "skill": "Django",
+      "market_demand": 0.948
+    },
+    {
+      "skill": "SPI",
+      "market_demand": 0.946
+    },
+    {
+      "skill": "Perl",
+      "market_demand": 0.944
+    },
+    {
+      "skill": "Chef",
+      "market_demand": 0.937
+    },
+    {
+      "skill": "Unix",
+      "market_demand": 0.935
+    },
+    {
+      "skill": "Pandas",
+      "market_demand": 0.931
+    },
+    {
+      "skill": "NoSQL",
+      "market_demand": 0.93
+    },
+    {
+      "skill": "MySQL",
+      "market_demand": 0.92
+    },
+    {
+      "skill": "DL",
+      "market_demand": 0.915
+    },
+    {
+      "skill": "C",
+      "market_demand": 0.911
+    },
+    {
+      "skill": "Spring Boot",
+      "market_demand": 0.899
+    },
+    {
+      "skill": "Ansible",
+      "market_demand": 0.892
+    },
+    {
+      "skill": "Oracle DB",
+      "market_demand": 0.89
+    },
+    {
+      "skill": "IaaS",
+      "market_demand": 0.885
+    },
+    {
+      "skill": "DNS",
+      "market_demand": 0.881
+    },
+    {
+      "skill": "Jenkins",
+      "market_demand": 0.881
+    },
+    {
+      "skill": "Matplotlib",
+      "market_demand": 0.869
+    },
+    {
+      "skill": "Linux",
+      "market_demand": 0.863
+    },
+    {
+      "skill": "HBase",
+      "market_demand": 0.85
+    },
+    {
+      "skill": "Windows",
+      "market_demand": 0.844
+    },
+    {
+      "skill": "VHDL",
+      "market_demand": 0.839
+    },
+    {
+      "skill": "Scala",
+      "market_demand": 0.838
+    },
+    {
+      "skill": "TCP/IP",
+      "market_demand": 0.834
+    },
+    {
+      "skill": "Verilog",
+      "market_demand": 0.833
+    },
+    {
+      "skill": "RTOS",
+      "market_demand": 0.823
+    },
+    {
+      "skill": "Shell Scripting",
+      "market_demand": 0.816
+    },
+    {
+      "skill": "I2C",
+      "market_demand": 0.803
+    },
+    {
+      "skill": "SoC",
+      "market_demand": 0.799
+    },
+    {
+      "skill": "DevOps",
+      "market_demand": 0.777
+    },
+    {
+      "skill": "CV",
+      "market_demand": 0.776
+    },
+    {
+      "skill": "TypeScript",
+      "market_demand": 0.761
+    },
+    {
+      "skill": "UART",
+      "market_demand": 0.761
+    },
+    {
+      "skill": ".NET Core",
+      "market_demand": 0.759
+    },
+    {
+      "skill": "Docker",
+      "market_demand": 0.756
+    },
+    {
+      "skill": "NLP",
+      "market_demand": 0.756
+    },
+    {
+      "skill": "GCP",
+      "market_demand": 0.745
+    },
+    {
+      "skill": "TensorFlow",
+      "market_demand": 0.74
+    },
+    {
+      "skill": "Microservices",
+      "market_demand": 0.739
+    },
+    {
+      "skill": "PCB Design",
+      "market_demand": 0.734
+    },
+    {
+      "skill": "Embedded Systems",
+      "market_demand": 0.729
+    },
+    {
+      "skill": "Software Engineering",
+      "market_demand": 0.714
+    },
+    {
+      "skill": "Cryptography",
+      "market_demand": 0.713
+    },
+    {
+      "skill": "Embedded Linux",
+      "market_demand": 0.711
+    },
+    {
+      "skill": "Design Patterns",
+      "market_demand": 0.697
+    },
+    {
+      "skill": "Computer Networks",
+      "market_demand": 0.691
+    },
+    {
+      "skill": "CI/CD",
+      "market_demand": 0.689
+    },
+    {
+      "skill": "Terraform",
+      "market_demand": 0.687
+    },
+    {
+      "skill": "PostgreSQL",
+      "market_demand": 0.686
+    },
+    {
+      "skill": "AWS RDS",
+      "market_demand": 0.684
+    },
+    {
+      "skill": "Ruby",
+      "market_demand": 0.683
+    },
+    {
+      "skill": "Operating Systems",
+      "market_demand": 0.681
+    },
+    {
+      "skill": "Apache Spark",
+      "market_demand": 0.674
+    },
+    {
+      "skill": "Flask",
+      "market_demand": 0.672
+    },
+    {
+      "skill": "AWS EC2",
+      "market_demand": 0.669
+    },
+    {
+      "skill": "SaaS",
+      "market_demand": 0.668
+    },
+    {
+      "skill": "Data Science",
+      "market_demand": 0.665
+    },
+    {
+      "skill": "Prometheus",
+      "market_demand": 0.664
+    },
+    {
+      "skill": "System Design",
+      "market_demand": 0.66
+    },
+    {
+      "skill": "Grafana",
+      "market_demand": 0.652
+    },
+    {
+      "skill": "Software Architecture",
+      "market_demand": 0.647
+    },
+    {
+      "skill": "Azure",
+      "market_demand": 0.635
+    },
+    {
+      "skill": "AWS S3",
+      "market_demand": 0.628
+    },
+    {
+      "skill": "Kubernetes",
+      "market_demand": 0.621
+    },
+    {
+      "skill": "Redis",
+      "market_demand": 0.619
+    },
+    {
+      "skill": "Elasticsearch",
+      "market_demand": 0.619
+    },
+    {
+      "skill": "Keras",
+      "market_demand": 0.617
+    },
+    {
+      "skill": "FPGA",
+      "market_demand": 0.614
+    },
+    {
+      "skill": "Spring Framework",
+      "market_demand": 0.602
+    },
+    {
+      "skill": "Microcontrollers",
+      "market_demand": 0.602
+    },
+    {
+      "skill": "FastAPI",
+      "market_demand": 0.599
+    },
+    {
+      "skill": "Network Security",
+      "market_demand": 0.584
+    },
+    {
+      "skill": "ARM Architecture",
+      "market_demand": 0.582
+    },
+    {
+      "skill": "Cloud Computing",
+      "market_demand": 0.561
+    },
+    {
+      "skill": "PyTorch",
+      "market_demand": 0.535
+    },
+    {
+      "skill": "Databricks",
+      "market_demand": 0.532
+    },
+    {
+      "skill": "Cybersecurity",
+      "market_demand": 0.52
+    },
+    {
+      "skill": "Node.js",
+      "market_demand": 0.515
+    },
+    {
+      "skill": "Bash",
+      "market_demand": 0.476
+    },
+    {
+      "skill": ".NET",
+      "market_demand": 0.476
+    },
+    {
+      "skill": "Data Analysis",
+      "market_demand": 0.464
+    },
+    {
+      "skill": "Security Hardening",
+      "market_demand": 0.428
+    },
+    {
+      "skill": "Statistics",
+      "market_demand": 0.427
+    },
+    {
+      "skill": "REST API",
+      "market_demand": 0.414
+    },
+    {
+      "skill": "Cassandra",
+      "market_demand": 0.398
+    },
+    {
+      "skill": "Scikit-learn",
+      "market_demand": 0.373
+    },
+    {
+      "skill": "AWS",
+      "market_demand": 0.31
+    },
+    {
+      "skill": "JIRA",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "GitLab",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Tableau",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Swift",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Spring",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "GStreamer",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Git",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Wireshark",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Power BI",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Istio",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "React",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Excel",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Hilt",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Angular",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Automation Testing",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Yocto",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Android",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "OpenAPI",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "OpenGL",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Express.js",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "iOS",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "MVVM",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Bitbucket",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Jetpack Compose",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Integration Testing",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Swagger",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "SAP",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Postman",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Kotlin",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Unit Testing",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "Bootstrap",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "FFmpeg",
+      "market_demand": 0.3
+    },
+    {
+      "skill": "API Development",
+      "market_demand": 0.285
+    },
+    {
+      "skill": "OOP",
+      "market_demand": 0.282
+    }
+  ],
+  "total_missing": 123,
+  "critical_skills": [],
+  "high_priority_skills": []
 }
