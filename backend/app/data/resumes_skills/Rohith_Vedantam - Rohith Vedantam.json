@@ -1,25 +1,23 @@
 {
-  "resume": "Rohith_Vedantam - Rohith Vedantam.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "CV",
-      "Cloud Computing",
-      "Computer Networks",
-      "Data Analysis",
-      "Data Science",
-      "Data Structures",
-      "Flask",
-      "Java",
-      "ML",
-      "Matplotlib",
-      "MySQL",
-      "Operating Systems",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Rohith_Vedantam - Rohith Vedantam.pdf",
+  "skills": [
+    "AWS",
+    "Arduino",
+    "C",
+    "Drone",
+    "Flask",
+    "GitHub",
+    "Java",
+    "Matplotlib",
+    "MySQL",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "Scikit-learn",
+    "Seaborn",
+    "User Testing",
+    "XGBoost"
+  ],
+  "total_skills": 17
 }

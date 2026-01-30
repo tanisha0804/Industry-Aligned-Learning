@@ -1,21 +1,20 @@
 {
-  "resume": "Sumanth_H_Sajjan_CV - Sumanth Sajjan.txt",
-  "skills": {
-    "primary_skills": [
-      "Data Analysis",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Operating Systems",
-      "PHP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Kafka"
-    ]
-  }
+  "source_file": "Sumanth_H_Sajjan_CV - Sumanth Sajjan.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Events",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "PHP",
+    "Python",
+    "Visual Studio"
+  ],
+  "total_skills": 14
 }

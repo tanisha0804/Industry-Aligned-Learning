@@ -1,14 +1,20 @@
 {
-  "resume": "sandali_resume - SANDALI NIGAM 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Cybersecurity",
-      "Go",
-      "Java",
-      "Linux",
-      "Oracle DB",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "sandali_resume - SANDALI NIGAM 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Arduino",
+    "Docker",
+    "Encryption",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "JSON",
+    "Java",
+    "Linux",
+    "MATLAB",
+    "Oracle",
+    "Python",
+    "R",
+    "Ubuntu"
+  ],
+  "total_skills": 14
 }

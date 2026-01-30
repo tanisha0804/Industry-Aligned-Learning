@@ -1,11 +1,10 @@
 {
-  "resume": "Sudeep_Resume - Sudeep Immadi.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Sudeep_Resume - Sudeep Immadi.pdf",
+  "skills": [
+    "C",
+    "Java",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 4
 }

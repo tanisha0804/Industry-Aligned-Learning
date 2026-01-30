@@ -1,23 +1,21 @@
 {
-  "resume": "ROHIT SHITALKUMAR MUDAKUDE - ROHIT SHITALKUMAR MUDAKUDE PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Computer Networks",
-      "Go",
-      "JavaScript",
-      "MongoDB",
-      "Node.js",
-      "Operating Systems",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "ROHIT SHITALKUMAR MUDAKUDE - ROHIT SHITALKUMAR MUDAKUDE PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Bootstrap",
+    "C",
+    "Express",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "JWT",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "Railway",
+    "React",
+    "Tailwind CSS"
+  ],
+  "total_skills": 15
 }

@@ -1,21 +1,19 @@
 {
-  "resume": "SmritiSKashyapCSE_Resume - SMRITI S KASHYAP 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "DL",
-      "Data Science",
-      "HBase",
-      "Java",
-      "ML",
-      "NumPy",
-      "Pandas",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Hadoop",
-      "Kafka"
-    ]
-  }
+  "source_file": "SmritiSKashyapCSE_Resume - SMRITI S KASHYAP 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Git",
+    "HBase",
+    "Hadoop",
+    "Hive",
+    "Java",
+    "Kafka",
+    "Metrics",
+    "NumPy",
+    "Pandas",
+    "Pig",
+    "Python",
+    "Scikit-learn"
+  ],
+  "total_skills": 13
 }

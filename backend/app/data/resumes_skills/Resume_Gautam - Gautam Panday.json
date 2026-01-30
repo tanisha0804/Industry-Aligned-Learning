@@ -1,25 +1,23 @@
 {
-  "resume": "Resume_Gautam - Gautam Panday.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "C++",
-      "Cloud Computing",
-      "Computer Networks",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "MySQL",
-      "OOP",
-      "Operating Systems",
-      "Python",
-      "SQL",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "Postman",
-      "React"
-    ]
-  }
+  "source_file": "Resume_Gautam - Gautam Panday.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Ethereum",
+    "Express",
+    "Ganache",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MetaMask",
+    "MongoDB",
+    "MySQL",
+    "Postman",
+    "Python",
+    "React",
+    "Smart Contracts",
+    "Solidity"
+  ],
+  "total_skills": 17
 }

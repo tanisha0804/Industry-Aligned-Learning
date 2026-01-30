@@ -1,13 +1,14 @@
 {
-  "resume": "Niveditha_s_Resume (1) - Niveditha Deepak.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "MySQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Niveditha_s_Resume (1) - Niveditha Deepak.pdf",
+  "skills": [
+    "Accessibility",
+    "BLE",
+    "C",
+    "Figma",
+    "HTTPS",
+    "IAM",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 8
 }

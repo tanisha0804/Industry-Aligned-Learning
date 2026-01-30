@@ -1,22 +1,23 @@
 {
-  "resume": "NAVEEN D_profile - NAVEEN D 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Computer Networks",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "PHP"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "GitHub",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "NAVEEN D_profile - NAVEEN D 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Express",
+    "Figma",
+    "Git",
+    "GitHub",
+    "HTTP",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "PHP",
+    "Railway",
+    "React",
+    "VS Code"
+  ],
+  "total_skills": 17
 }

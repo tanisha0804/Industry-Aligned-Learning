@@ -1,20 +1,17 @@
 {
-  "resume": "ShaliniKammalam_Resume - Sumathy Srinivasan.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "DL",
-      "Data Analysis",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "NLP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "ShaliniKammalam_Resume - Sumathy Srinivasan.pdf",
+  "skills": [
+    "C",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "Python",
+    "VS Code"
+  ],
+  "total_skills": 11
 }

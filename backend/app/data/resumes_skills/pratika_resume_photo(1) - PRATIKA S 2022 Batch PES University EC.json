@@ -1,17 +1,11 @@
 {
-  "resume": "pratika_resume_photo(1) - PRATIKA S 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Cloud Computing",
-      "Data Structures",
-      "JavaScript",
-      "ML",
-      "Operating Systems"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "pratika_resume_photo(1) - PRATIKA S 2022 Batch PES University EC.pdf",
+  "skills": [
+    "5G",
+    "C",
+    "Certificates",
+    "JavaScript",
+    "Python"
+  ],
+  "total_skills": 5
 }

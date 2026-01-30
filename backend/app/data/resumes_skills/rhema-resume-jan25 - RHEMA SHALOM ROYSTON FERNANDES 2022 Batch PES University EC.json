@@ -1,24 +1,15 @@
 {
-  "resume": "rhema-resume-jan25 - RHEMA SHALOM ROYSTON FERNANDES 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Computer Networks",
-      "Data Structures",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "OOP",
-      "Operating Systems",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "rhema-resume-jan25 - RHEMA SHALOM ROYSTON FERNANDES 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Flask",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 9
 }

@@ -1,17 +1,19 @@
 {
-  "resume": "tejas_CV - letha sai tejas.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Docker",
-      "Java",
-      "Linux",
-      "Microservices",
-      "MongoDB",
-      "Operating Systems",
-      "Python",
-      "Windows"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "tejas_CV - letha sai tejas.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Java",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "RabbitMQ",
+    "Visual Studio",
+    "Windows"
+  ],
+  "total_skills": 13
 }

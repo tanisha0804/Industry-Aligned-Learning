@@ -1,13 +1,13 @@
 {
-  "resume": "Resume (1) - SAANVI SINHA PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Embedded Systems",
-      "FPGA",
-      "Java",
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume (1) - SAANVI SINHA PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "Java",
+    "Lambda",
+    "MATLAB",
+    "Python",
+    "VS Code"
+  ],
+  "total_skills": 7
 }

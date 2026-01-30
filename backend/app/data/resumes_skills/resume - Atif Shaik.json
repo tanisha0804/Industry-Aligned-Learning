@@ -1,20 +1,19 @@
 {
-  "resume": "resume - Atif Shaik.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Docker",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "PyTorch",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "resume - Atif Shaik.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Docker",
+    "GitHub",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "PyTorch",
+    "Python",
+    "R",
+    "Ubuntu",
+    "spaCy"
+  ],
+  "total_skills": 13
 }

@@ -1,30 +1,32 @@
 {
-  "resume": "Prajwal_Kawdeker_RESUME (1) - Prajwal kawdeker.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CI/CD",
-      "CV",
-      "Django",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Jenkins",
-      "Kubernetes",
-      "Microservices",
-      "Node.js",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Android",
-      "CSS",
-      "HTML",
-      "Integration Testing",
-      "React"
-    ]
-  }
+  "source_file": "Prajwal_Kawdeker_RESUME (1) - Prajwal kawdeker.pdf",
+  "skills": [
+    "AWS",
+    "Android",
+    "Android Studio",
+    "Arduino",
+    "C",
+    "Dart",
+    "Django",
+    "Docker",
+    "Eclipse",
+    "Events",
+    "Firebase",
+    "Flutter",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kubernetes",
+    "Node.js",
+    "Python",
+    "React",
+    "Spring",
+    "Spring Boot",
+    "TensorFlow",
+    "TensorFlow Lite",
+    "VS Code",
+    "WebSocket"
+  ],
+  "total_skills": 26
 }

@@ -1,17 +1,21 @@
 {
-  "resume": "VEDVISHALMIRJANKAR_mirjankarved_gmail_com - Ved Mirjankar.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Python",
-      "REST API"
-    ],
-    "secondary_skills": [
-      "GitHub"
-    ]
-  }
+  "source_file": "VEDVISHALMIRJANKAR_mirjankarved_gmail_com - Ved Mirjankar.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Express",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "Node.js",
+    "OpenCV",
+    "Python",
+    "REST",
+    "React",
+    "SQLite"
+  ],
+  "total_skills": 15
 }

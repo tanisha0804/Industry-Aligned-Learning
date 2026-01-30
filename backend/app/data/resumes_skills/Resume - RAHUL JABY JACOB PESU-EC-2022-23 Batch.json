@@ -1,14 +1,16 @@
 {
-  "resume": "Resume - RAHUL JABY JACOB PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Git"
-    ]
-  }
+  "source_file": "Resume - RAHUL JABY JACOB PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "ElasticSearch",
+    "Elasticsearch",
+    "Git",
+    "Matplotlib",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "TensorFlow"
+  ],
+  "total_skills": 10
 }

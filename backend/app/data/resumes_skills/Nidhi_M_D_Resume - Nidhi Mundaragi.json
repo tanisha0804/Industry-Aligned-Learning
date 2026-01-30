@@ -1,10 +1,10 @@
 {
-  "resume": "Nidhi_M_D_Resume - Nidhi Mundaragi.txt",
-  "skills": {
-    "primary_skills": [
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Nidhi_M_D_Resume - Nidhi Mundaragi.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 4
 }

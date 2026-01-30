@@ -1,27 +1,34 @@
 {
-  "resume": "Nishan_HollaA - Nishan Holla.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Data Analysis",
-      "DevOps",
-      "Docker",
-      "Elasticsearch",
-      "FastAPI",
-      "Flask",
-      "Keras",
-      "Kubernetes",
-      "ML",
-      "MongoDB",
-      "NLP",
-      "Node.js",
-      "Python",
-      "TensorFlow",
-      "TypeScript"
-    ],
-    "secondary_skills": [
-      "Git",
-      "React"
-    ]
-  }
+  "source_file": "Nishan_HollaA - Nishan Holla.pdf",
+  "skills": [
+    "AWS",
+    "Accessibility",
+    "Azure",
+    "Docker",
+    "EC2",
+    "ElasticSearch",
+    "Elasticsearch",
+    "Fastapi",
+    "Flask",
+    "Git",
+    "HTTPS",
+    "Keras",
+    "Kubernetes",
+    "Metrics",
+    "MongoDB",
+    "NLTK",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "React Native",
+    "Scikit-learn",
+    "TensorFlow",
+    "TypeScript",
+    "Vercel",
+    "XGBoost",
+    "spaCy"
+  ],
+  "total_skills": 28
 }

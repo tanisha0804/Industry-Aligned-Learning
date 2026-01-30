@@ -1,34 +1,35 @@
 {
-  "resume": "SWR-CV - SWATHI RAO 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "Cybersecurity",
-      "Data Analysis",
-      "Data Science",
-      "Docker",
-      "Flask",
-      "Java",
-      "Kubernetes",
-      "Linux",
-      "ML",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "Spring Boot",
-      "Spring Framework"
-    ],
-    "secondary_skills": [
-      "Git",
-      "HTML",
-      "Hadoop",
-      "Kafka",
-      "SAP"
-    ]
-  }
+  "source_file": "SWR-CV - SWATHI RAO 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Edge",
+    "Flask",
+    "Foundation",
+    "Git",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Hugging Face",
+    "Java",
+    "Kafka",
+    "Kubernetes",
+    "Linux",
+    "Matplotlib",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "R",
+    "Red Hat",
+    "Scikit-learn",
+    "Seaborn",
+    "Spring",
+    "Spring Boot"
+  ],
+  "total_skills": 29
 }

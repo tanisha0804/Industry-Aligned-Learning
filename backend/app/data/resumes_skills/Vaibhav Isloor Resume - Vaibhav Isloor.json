@@ -1,28 +1,27 @@
 {
-  "resume": "Vaibhav Isloor Resume - Vaibhav Isloor.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "CSS",
-      "Express.js",
-      "Git",
-      "GitHub",
-      "HTML",
-      "Hadoop",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "Vaibhav Isloor Resume - Vaibhav Isloor.pdf",
+  "skills": [
+    "Apache",
+    "Apache Kafka",
+    "Apache Spark",
+    "Bootstrap",
+    "C",
+    "Events",
+    "Express",
+    "Flask",
+    "Git",
+    "GitHub",
+    "HDFS",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "React",
+    "WebSocket"
+  ],
+  "total_skills": 21
 }

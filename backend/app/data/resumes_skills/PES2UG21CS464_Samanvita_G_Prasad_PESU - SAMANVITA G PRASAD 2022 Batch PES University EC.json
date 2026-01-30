@@ -1,20 +1,13 @@
 {
-  "resume": "PES2UG21CS464_Samanvita_G_Prasad_PESU - SAMANVITA G PRASAD 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Apache Spark",
-      "DL",
-      "Data Analysis",
-      "Data Structures",
-      "Flask",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git",
-      "HTML"
-    ]
-  }
+  "source_file": "PES2UG21CS464_Samanvita_G_Prasad_PESU - SAMANVITA G PRASAD 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Flask",
+    "Git",
+    "MATLAB",
+    "MySQL",
+    "Python",
+    "Scikit-learn"
+  ],
+  "total_skills": 7
 }

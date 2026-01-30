@@ -1,31 +1,30 @@
 {
-  "resume": "TusharA-Resume - TUSHAR ANIL MALALI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Apache Spark",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Jenkins",
-      "Kubernetes",
-      "ML",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "Redis",
-      "SQL",
-      "TypeScript"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "Hadoop",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "TusharA-Resume - TUSHAR ANIL MALALI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kafka",
+    "Kubernetes",
+    "Neo4j",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "Redis",
+    "Scikit-learn",
+    "Tailwind CSS",
+    "TypeScript",
+    "Web3"
+  ],
+  "total_skills": 24
 }

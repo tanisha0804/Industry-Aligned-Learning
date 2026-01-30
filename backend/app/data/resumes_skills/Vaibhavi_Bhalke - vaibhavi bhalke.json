@@ -1,27 +1,24 @@
 {
-  "resume": "Vaibhavi_Bhalke - vaibhavi bhalke.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Cloud Computing",
-      "Computer Networks",
-      "Data Analysis",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Vaibhavi_Bhalke - vaibhavi bhalke.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "Docker",
+    "Encryption",
+    "Express",
+    "Git",
+    "GitHub",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Prototyping",
+    "Python",
+    "React",
+    "jQuery"
+  ],
+  "total_skills": 18
 }

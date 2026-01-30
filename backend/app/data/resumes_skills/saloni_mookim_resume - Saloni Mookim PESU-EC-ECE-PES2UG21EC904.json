@@ -1,14 +1,16 @@
 {
-  "resume": "saloni_mookim_resume - Saloni Mookim PESU-EC-ECE-PES2UG21EC904.txt",
-  "skills": {
-    "primary_skills": [
-      "Keras",
-      "Linux",
-      "Python",
-      "RTOS",
-      "SQL",
-      "Windows"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "saloni_mookim_resume - Saloni Mookim PESU-EC-ECE-PES2UG21EC904.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Git",
+    "GitHub",
+    "Keras",
+    "Linux",
+    "OpenCV",
+    "Python",
+    "Windows",
+    "macOS"
+  ],
+  "total_skills": 10
 }

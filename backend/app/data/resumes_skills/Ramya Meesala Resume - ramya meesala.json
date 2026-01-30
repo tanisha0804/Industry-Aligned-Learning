@@ -1,15 +1,12 @@
 {
-  "resume": "Ramya Meesala Resume - ramya meesala.txt",
-  "skills": {
-    "primary_skills": [
-      "CV",
-      "Computer Networks",
-      "Cryptography",
-      "ML",
-      "Python",
-      "SoC",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Ramya Meesala Resume - ramya meesala.pdf",
+  "skills": [
+    "C",
+    "Cryptography",
+    "Drone",
+    "HTTPS",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 6
 }

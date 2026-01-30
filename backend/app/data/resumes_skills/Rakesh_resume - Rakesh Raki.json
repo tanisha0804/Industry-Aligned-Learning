@@ -1,19 +1,32 @@
 {
-  "resume": "Rakesh_resume - Rakesh Raki.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "CV",
-      "DL",
-      "JavaScript",
-      "MySQL",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Rakesh_resume - Rakesh Raki.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Django",
+    "Docker",
+    "Edge",
+    "Ethereum",
+    "Foundation",
+    "Ganache",
+    "Git",
+    "GitHub",
+    "HTTPS",
+    "JavaScript",
+    "Jenkins",
+    "MySQL",
+    "OpenCV",
+    "PHP",
+    "PostgreSQL",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "Smart Contracts",
+    "Solidity",
+    "Teams",
+    "TensorFlow",
+    "Web3"
+  ],
+  "total_skills": 26
 }

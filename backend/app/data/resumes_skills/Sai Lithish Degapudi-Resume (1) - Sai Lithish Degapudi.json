@@ -1,19 +1,20 @@
 {
-  "resume": "Sai Lithish Degapudi-Resume (1) - Sai Lithish Degapudi.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Docker",
-      "Flask",
-      "Kubernetes",
-      "MySQL",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "HTML"
-    ]
-  }
+  "source_file": "Sai Lithish Degapudi-Resume (1) - Sai Lithish Degapudi.pdf",
+  "skills": [
+    "AWS",
+    "Azure",
+    "C",
+    "Docker",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "Kubernetes",
+    "Metrics",
+    "MySQL",
+    "OpenCV",
+    "PyTorch",
+    "Python",
+    "TensorFlow"
+  ],
+  "total_skills": 14
 }

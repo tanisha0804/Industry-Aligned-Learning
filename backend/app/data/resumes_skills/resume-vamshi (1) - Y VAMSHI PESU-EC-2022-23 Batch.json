@@ -1,22 +1,13 @@
 {
-  "resume": "resume-vamshi (1) - Y VAMSHI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Computer Networks",
-      "DL",
-      "Data Structures",
-      "Go",
-      "Java",
-      "JavaScript",
-      "ML",
-      "NLP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "resume-vamshi (1) - Y VAMSHI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Certificates",
+    "Go",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "total_skills": 7
 }

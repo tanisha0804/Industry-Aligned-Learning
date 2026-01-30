@@ -1,17 +1,20 @@
 {
-  "resume": "Resume - DISHA PRAKASHA PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Go",
-      "Java",
-      "MongoDB",
-      "NLP",
-      "NumPy",
-      "Pandas",
-      "Python"
-    ],
-    "secondary_skills": [
-      "React"
-    ]
-  }
+  "source_file": "Resume - DISHA PRAKASHA PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Encryption",
+    "Foundation",
+    "Git",
+    "GitHub",
+    "Go",
+    "Java",
+    "MongoDB",
+    "Neo4j",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "R",
+    "React"
+  ],
+  "total_skills": 14
 }

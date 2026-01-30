@@ -1,12 +1,15 @@
 {
-  "resume": "SAHIL_KAMATE - Sahil Kamate.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Matplotlib",
-      "MySQL",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "SAHIL_KAMATE - Sahil Kamate.pdf",
+  "skills": [
+    "C",
+    "Matplotlib",
+    "MySQL",
+    "NumPy",
+    "OpenCV",
+    "Python",
+    "R",
+    "Scikit-learn",
+    "VS Code"
+  ],
+  "total_skills": 9
 }

@@ -1,26 +1,22 @@
 {
-  "resume": "RESUME_GOWRI_UPDATED_FINAL - Gowri Sriya.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "Cloud Computing",
-      "DL",
-      "Data Analysis",
-      "Data Science",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MySQL",
-      "NLP",
-      "Python",
-      "Software Engineering",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "RESUME_GOWRI_UPDATED_FINAL - Gowri Sriya.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Flask",
+    "Git",
+    "GitHub",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "MySQL",
+    "Neo4j",
+    "OpenCV",
+    "Python",
+    "R",
+    "React",
+    "TensorFlow",
+    "spaCy"
+  ],
+  "total_skills": 16
 }

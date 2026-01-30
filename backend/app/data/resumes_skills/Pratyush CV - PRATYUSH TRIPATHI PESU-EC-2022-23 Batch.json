@@ -1,10 +1,11 @@
 {
-  "resume": "Pratyush CV - PRATYUSH TRIPATHI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Pratyush CV - PRATYUSH TRIPATHI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Foundation",
+    "Java",
+    "Python",
+    "R"
+  ],
+  "total_skills": 5
 }

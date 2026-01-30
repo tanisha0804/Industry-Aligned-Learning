@@ -1,26 +1,27 @@
 {
-  "resume": "VarunKamath-Resume_DE - VARUN KAMATH 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Jenkins",
-      "Kubernetes",
-      "NumPy",
-      "Pandas",
-      "Python",
-      "SQL",
-      "TensorFlow",
-      "TypeScript"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "Hadoop",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "VarunKamath-Resume_DE - VARUN KAMATH 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kafka",
+    "Kubernetes",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "Python",
+    "R",
+    "React",
+    "S3",
+    "Scikit-learn",
+    "Selenium",
+    "TensorFlow",
+    "TypeScript"
+  ],
+  "total_skills": 21
 }

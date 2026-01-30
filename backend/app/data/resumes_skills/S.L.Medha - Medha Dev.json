@@ -1,26 +1,27 @@
 {
-  "resume": "S.L.Medha - Medha Dev.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Data Science",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "ML",
-      "NumPy",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "Hadoop",
-      "Power BI",
-      "React"
-    ]
-  }
+  "source_file": "S.L.Medha - Medha Dev.pdf",
+  "skills": [
+    "C",
+    "Git",
+    "Hadoop",
+    "Hugging Face",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Keras",
+    "Linux",
+    "MATLAB",
+    "MySQL",
+    "NumPy",
+    "OpenCV",
+    "Power BI",
+    "PyTorch",
+    "Pyspark",
+    "Python",
+    "R",
+    "React",
+    "TensorFlow",
+    "Visual Studio"
+  ],
+  "total_skills": 21
 }

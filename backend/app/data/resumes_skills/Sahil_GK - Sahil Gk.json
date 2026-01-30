@@ -1,20 +1,23 @@
 {
-  "resume": "Sahil_GK - Sahil Gk.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Data Science",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MySQL",
-      "Pandas",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "React"
-    ]
-  }
+  "source_file": "Sahil_GK - Sahil Gk.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Certificates",
+    "Docker",
+    "GitHub",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "MySQL",
+    "Neo4j",
+    "Pandas",
+    "Python",
+    "R",
+    "React",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "total_skills": 17
 }

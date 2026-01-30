@@ -1,31 +1,25 @@
 {
-  "resume": "resume_Aayush - AAYUSH KUMAR 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Azure",
-      "C++",
-      "CI/CD",
-      "Computer Networks",
-      "Cryptography",
-      "Cybersecurity",
-      "Docker",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Jenkins",
-      "Kubernetes",
-      "Linux",
-      "ML",
-      "Network Security",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Git",
-      "Nmap",
-      "Swift",
-      "Wireshark"
-    ]
-  }
+  "source_file": "resume_Aayush - AAYUSH KUMAR 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "Azure",
+    "C",
+    "Cryptography",
+    "Docker",
+    "Flutter",
+    "Foundation",
+    "Git",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "Hive",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "Python",
+    "Swift"
+  ],
+  "total_skills": 19
 }

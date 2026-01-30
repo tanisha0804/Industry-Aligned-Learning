@@ -1,14 +1,15 @@
 {
-  "resume": "TECH_NO_GPA - Bhodhitha K S.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "ML",
-      "NLP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "TECH_NO_GPA - Bhodhitha K S.pdf",
+  "skills": [
+    "ARIMA",
+    "AWS",
+    "C",
+    "Events",
+    "Figma",
+    "GitHub",
+    "Python",
+    "Teams",
+    "WordPress"
+  ],
+  "total_skills": 9
 }

@@ -1,20 +1,13 @@
 {
-  "resume": "Sumukha N M - SUMUKHA N M PESU-EC-CSE-PES2UG22CS822.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cloud Computing",
-      "Data Structures",
-      "Java",
-      "ML",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Sumukha N M - SUMUKHA N M PESU-EC-CSE-PES2UG22CS822.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Certificates",
+    "GitHub",
+    "Java",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 7
 }

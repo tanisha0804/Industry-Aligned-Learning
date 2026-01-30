@@ -1,13 +1,10 @@
 {
-  "resume": "Resume - AATHIL NISHAD PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "ML",
-      "Python",
-      "Redis"
-    ],
-    "secondary_skills": [
-      "Kafka"
-    ]
-  }
+  "source_file": "Resume - AATHIL NISHAD PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Kafka",
+    "Python",
+    "Redis"
+  ],
+  "total_skills": 4
 }

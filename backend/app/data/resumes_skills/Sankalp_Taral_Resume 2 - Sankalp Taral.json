@@ -1,16 +1,15 @@
 {
-  "resume": "Sankalp_Taral_Resume 2 - Sankalp Taral.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Computer Networks",
-      "JavaScript",
-      "Linux"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git",
-      "HTML"
-    ]
-  }
+  "source_file": "Sankalp_Taral_Resume 2 - Sankalp Taral.pdf",
+  "skills": [
+    "AWS",
+    "Accessibility",
+    "Bootstrap",
+    "C",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "Linux",
+    "VPC"
+  ],
+  "total_skills": 9
 }

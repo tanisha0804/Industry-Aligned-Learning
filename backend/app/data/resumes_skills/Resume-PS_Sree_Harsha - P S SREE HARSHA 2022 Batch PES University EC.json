@@ -1,27 +1,34 @@
 {
-  "resume": "Resume-PS_Sree_Harsha - P S SREE HARSHA 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cloud Computing",
-      "Computer Networks",
-      "Cryptography",
-      "Cybersecurity",
-      "Data Structures",
-      "DevOps",
-      "Docker",
-      "Java",
-      "Jenkins",
-      "Kubernetes",
-      "Linux",
-      "ML",
-      "Node.js",
-      "Python",
-      "SaaS"
-    ],
-    "secondary_skills": [
-      "GitHub"
-    ]
-  }
+  "source_file": "Resume-PS_Sree_Harsha - P S SREE HARSHA 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Cryptography",
+    "Docker",
+    "Events",
+    "Firebase",
+    "Flask",
+    "GitHub",
+    "JWT",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "PHP",
+    "PostgreSQL",
+    "Python",
+    "REST",
+    "Redis",
+    "Smart Contracts",
+    "Tailwind CSS",
+    "Teams",
+    "TensorFlow",
+    "Vercel",
+    "jQuery"
+  ],
+  "total_skills": 28
 }

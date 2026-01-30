@@ -1,15 +1,15 @@
 {
-  "resume": "RESUME - DEEPESH D HALDANKAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Java",
-      "MongoDB",
-      "Python",
-      "REST API"
-    ],
-    "secondary_skills": [
-      "Express.js"
-    ]
-  }
+  "source_file": "RESUME - DEEPESH D HALDANKAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "CSS3",
+    "Express",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "Python"
+  ],
+  "total_skills": 9
 }

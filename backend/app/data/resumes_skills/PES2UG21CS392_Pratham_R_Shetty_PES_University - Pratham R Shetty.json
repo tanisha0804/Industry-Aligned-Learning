@@ -1,30 +1,25 @@
 {
-  "resume": "PES2UG21CS392_Pratham_R_Shetty_PES_University - Pratham R Shetty.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Python",
-      "Statistics",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git",
-      "HTML",
-      "Hadoop",
-      "JIRA"
-    ]
-  }
+  "source_file": "PES2UG21CS392_Pratham_R_Shetty_PES_University - Pratham R Shetty.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Flask",
+    "Git",
+    "HTTPS",
+    "Hadoop",
+    "JIRA",
+    "Java",
+    "JavaScript",
+    "Keras",
+    "MongoDB",
+    "MySQL",
+    "Prototyping",
+    "Python",
+    "R",
+    "Teams",
+    "TensorFlow",
+    "Visual Studio",
+    "jQuery"
+  ],
+  "total_skills": 19
 }

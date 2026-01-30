@@ -1,26 +1,28 @@
 {
-  "resume": "UPDATED_MINIMAL_RESUME - ADITIYAA NAAG PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Elasticsearch",
-      "FastAPI",
-      "Flask",
-      "Go",
-      "JavaScript",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "PHP",
-      "Pandas",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "Kafka"
-    ]
-  }
+  "source_file": "UPDATED_MINIMAL_RESUME - ADITIYAA NAAG PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "ElasticSearch",
+    "Elasticsearch",
+    "Express",
+    "Fastapi",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "JavaScript",
+    "Kafka",
+    "Kibana",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "NumPy",
+    "PHP",
+    "Pandas",
+    "Python",
+    "React",
+    "Scikit-learn",
+    "Swagger"
+  ],
+  "total_skills": 22
 }

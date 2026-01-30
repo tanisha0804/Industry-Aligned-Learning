@@ -1,27 +1,21 @@
 {
-  "resume": "Ranjana-V_Resume - Ranjana V.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cloud Computing",
-      "Data Science",
-      "Data Structures",
-      "Docker",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "Microservices",
-      "MySQL",
-      "Node.js",
-      "OOP",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "Power BI",
-      "React"
-    ]
-  }
+  "source_file": "Ranjana-V_Resume - Ranjana V.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "Flutter",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "MySQL",
+    "Node.js",
+    "Power BI",
+    "Python",
+    "R",
+    "React",
+    "Teams"
+  ],
+  "total_skills": 15
 }

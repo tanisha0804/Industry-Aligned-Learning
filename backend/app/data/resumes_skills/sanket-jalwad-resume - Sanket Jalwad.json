@@ -1,11 +1,16 @@
 {
-  "resume": "sanket-jalwad-resume - Sanket Jalwad.txt",
-  "skills": {
-    "primary_skills": [
-      "JavaScript",
-      "Linux",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "sanket-jalwad-resume - Sanket Jalwad.pdf",
+  "skills": [
+    "Bash",
+    "C",
+    "Cryptography",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "Python",
+    "SSH"
+  ],
+  "total_skills": 10
 }

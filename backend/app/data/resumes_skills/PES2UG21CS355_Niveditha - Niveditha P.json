@@ -1,31 +1,31 @@
 {
-  "resume": "PES2UG21CS355_Niveditha - Niveditha P.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Data Analysis",
-      "DevOps",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "Matplotlib",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "PES2UG21CS355_Niveditha - Niveditha P.pdf",
+  "skills": [
+    "Accessibility",
+    "Apache",
+    "C",
+    "Docker",
+    "Edge",
+    "Figma",
+    "Flask",
+    "Flutter",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "Node.js",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "total_skills": 25
 }

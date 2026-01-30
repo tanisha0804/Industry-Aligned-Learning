@@ -1,9 +1,9 @@
 {
-  "resume": "NITHIN_RESUME - Nithin R.txt",
-  "skills": {
-    "primary_skills": [
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "NITHIN_RESUME - Nithin R.pdf",
+  "skills": [
+    "Arduino",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 3
 }

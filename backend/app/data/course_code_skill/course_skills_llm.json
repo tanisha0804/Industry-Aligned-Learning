@@ -1,0 +1,406 @@
+[
+  {
+    "course_code": "UE22CS151A",
+    "course_title": "Python for Computational Problem Solving",
+    "skills": ["Python"]
+  },
+  {
+    "course_code": "UE22CS151B",
+    "course_title": "Problem Solving with C",
+    "skills": ["C"]
+  },
+
+  {
+    "course_code": "UE22CS251A",
+    "course_title": "Digital Design and Computer Organization",
+    "skills": [
+      "Digital Logic Design",
+      "Computer Organization",
+      "Verilog",
+      "Icarus Verilog Simulator",
+      "GTKWave",
+      "Processor Architecture"
+    ]
+  },
+  {
+    "course_code": "UE22CS252A",
+    "course_title": "Data Structures and Its Applications",
+    "skills": [
+      "C",
+      "Data Structures",
+      "Arrays",
+      "Stacks",
+      "Queues",
+      "Linked Lists",
+      "Trees",
+      "Graphs",
+      "Algorithmic Problem Solving"
+    ]
+  },
+  {
+    "course_code": "UE22CS241A",
+    "course_title": "Statistics for Data Science",
+    "skills": [
+      "Python",
+      "Statistics",
+      "Data Analysis",
+      "Jupyter Notebook",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "SciPy",
+      "Seaborn"
+    ]
+  },
+  {
+    "course_code": "UE22CS251B",
+    "course_title": "Microprocessor and Computer Architecture",
+    "skills": [
+      "Microprocessor Architecture",
+      "ARM Architecture",
+      "Assembly Concepts",
+      "ARM Simulator",
+      "Computer Architecture"
+    ]
+  },
+  {
+    "course_code": "UE22CS252B",
+    "course_title": "Computer Networks",
+    "skills": [
+      "Computer Networks",
+      "TCP/IP",
+      "Routing and Switching",
+      "Network Protocols",
+      "Wireshark",
+      "Python"
+    ]
+  },
+  {
+    "course_code": "UE22CS241B",
+    "course_title": "Design and Analysis of Algorithms",
+    "skills": [
+      "C",
+      "Algorithm Design",
+      "Time Complexity",
+      "Space Complexity",
+      "Greedy Algorithms",
+      "Dynamic Programming",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "course_code": "UE22CS242B",
+    "course_title": "Operating Systems",
+    "skills": [
+      "C",
+      "Operating Systems",
+      "Processes and Threads",
+      "Memory Management",
+      "Scheduling",
+      "System Calls",
+      "Linux"
+    ]
+  },
+  {
+    "course_code": "UE22CS242A",
+    "course_title": "Web Technologies",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "MERN Stack",
+      "Frontend Development",
+      "Backend Development"
+    ]
+  },
+  {
+    "course_code": "UE22CS243A",
+    "course_title": "Automata, Formal Languages and Logic",
+    "skills": [
+      "Automata Theory",
+      "Formal Languages",
+      "Finite Automata",
+      "Regular Expressions",
+      "Context Free Grammars",
+      "JFLAP",
+      "Theory of Computation"
+    ]
+  },
+  {
+    "course_code": "UE22CS351A",
+    "course_title": "Database Management System",
+    "skills": [
+      "SQL",
+      "MySQL",
+      "Database Design",
+      "ER Modeling",
+      "ERwin",
+      "Relational Databases",
+      "Normalization"
+    ]
+  },
+  {
+    "course_code": "UE22CS352A",
+    "course_title": "Machine Learning",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "NetworkX",
+      "PyTorch Geometric"
+    ]
+  },
+  {
+    "course_code": "UE22CS341A",
+    "course_title": "Software Engineering",
+    "skills": [
+      "Software Development Life Cycle",
+      "Agile Methodology",
+      "Version Control",
+      "GitHub",
+      "Jira",
+      "Jenkins",
+      "Software Testing"
+    ]
+  },
+  {
+    "course_code": "UE22CS351B",
+    "course_title": "Cloud Computing",
+    "skills": [
+      "Python",
+      "Go",
+      "Cloud Computing",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "DevOps",
+      "Jenkins",
+      "Flask",
+      "GitHub",
+      "NoSQL Databases"
+    ]
+  },
+  {
+    "course_code": "UE22CS352B",
+    "course_title": "Object Oriented Analysis and Design",
+    "skills": [
+      "Java",
+      "C++",
+      "Object Oriented Programming",
+      "UML",
+      "StarUML",
+      "Software Design Patterns"
+    ]
+  },
+  {
+    "course_code": "UE22CS341B",
+    "course_title": "Compiler Design",
+    "skills": [
+      "C",
+      "Compiler Design",
+      "Lexical Analysis",
+      "Syntax Analysis",
+      "Parsing",
+      "Lex",
+      "YACC",
+      "Bison"
+    ]
+  },
+
+  {
+    "course_code": "UE22CS342BA1",
+    "course_title": "Supply Chain Management for Engineers",
+    "skills": [
+      "Supply Chain Management",
+      "Case Studies",
+      "ML Tools",
+      "Web Resources"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA2",
+    "course_title": "Algorithms for Information Retrieval",
+    "skills": [
+      "Python",
+      "Information Retrieval",
+      "Search Engines",
+      "Lucene",
+      "Solr",
+      "TensorFlow",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA3",
+    "course_title": "Image Processing and Computer Vision",
+    "skills": [
+      "Python",
+      "MATLAB",
+      "Image Processing",
+      "Computer Vision"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA4",
+    "course_title": "Natural Language Processing",
+    "skills": [
+      "Python",
+      "Natural Language Processing",
+      "TensorFlow",
+      "Scikit-learn",
+      "NLTK",
+      "SpaCy",
+      "HuggingFace",
+      "OpenAI API"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA5",
+    "course_title": "Blockchain",
+    "skills": [
+      "Blockchain",
+      "Solidity",
+      "Remix",
+      "Ganache",
+      "MetaMask"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA6",
+    "course_title": "Digital Forensics and Incident Response",
+    "skills": [
+      "Digital Forensics",
+      "Incident Response",
+      "Open Source Forensics Tools"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA7",
+    "course_title": "Digital Twin and Extended Reality",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "OpenGL",
+      "Digital Twin",
+      "Extended Reality"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA8",
+    "course_title": "Topics in Wireless Networks and 5G",
+    "skills": [
+      "Wireless Networks",
+      "5G",
+      "Wireshark",
+      "Cisco Packet Tracer"
+    ]
+  },
+  {
+    "course_code": "UE22CS342BA9",
+    "course_title": "Generative AI and its Applications",
+    "skills": [
+      "Python",
+      "Generative AI",
+      "Large Language Models",
+      "HuggingFace",
+      "LM Studio",
+      "Kaggle"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB1",
+    "course_title": "Heterogeneous Parallelism",
+    "skills": [
+      "Parallel Computing",
+      "Pthread",
+      "OpenMP",
+      "CUDA",
+      "OpenCL"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB2",
+    "course_title": "Topics in Deep Learning",
+    "skills": [
+      "Deep Learning",
+      "Python",
+      "PyTorch"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB3",
+    "course_title": "Database Technologies",
+    "skills": [
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "Apache Spark",
+      "Apache Kafka",
+      "Amazon Kinesis"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB4",
+    "course_title": "Machine Learning on Graphs",
+    "skills": [
+      "Graph Machine Learning",
+      "NetworkX",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "PyTorch Geometric"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB6",
+    "course_title": "Information Security",
+    "skills": [
+      "Information Security",
+      "Scapy",
+      "Burp Suite",
+      "Metasploit",
+      "Nmap"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB7",
+    "course_title": "Mobile and Autonomous Robotics",
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Robotics",
+      "ROS"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB8",
+    "course_title": "Security for Internet of Things",
+    "skills": [
+      "IoT Security",
+      "Wireshark",
+      "Yersinia",
+      "Bettercap",
+      "Aircrack-ng"
+    ]
+  },
+  {
+    "course_code": "UE22CS343BB9",
+    "course_title": "Applied ML in IoT with TinyML",
+    "skills": [
+      "TinyML",
+      "IoT",
+      "Arduino Nano 33 BLE Sense",
+      "Arduino IDE",
+      "Google Colab"
+    ]
+  }
+]

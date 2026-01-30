@@ -1,7 +1,9 @@
 {
-  "resume": "Teju_Resume - TEJASHWINI NAIK R L 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [],
-    "secondary_skills": []
-  }
+  "source_file": "Teju_Resume - TEJASHWINI NAIK R L 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Arduino",
+    "HTTPS",
+    "R"
+  ],
+  "total_skills": 3
 }

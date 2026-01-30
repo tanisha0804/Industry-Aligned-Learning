@@ -1,23 +1,21 @@
 {
-  "resume": "UdayKiranResume - UDAY KIRAN PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Cybersecurity",
-      "DL",
-      "Data Structures",
-      "JavaScript",
-      "ML",
-      "Network Security",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Software Engineering",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Nmap",
-      "Wireshark"
-    ]
-  }
+  "source_file": "UdayKiranResume - UDAY KIRAN PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Events",
+    "Express",
+    "Foundation",
+    "Git",
+    "Hive",
+    "JavaScript",
+    "Node.js",
+    "PyTorch",
+    "Python",
+    "React",
+    "Rust",
+    "Scikit-learn",
+    "TensorFlow",
+    "VS Code"
+  ],
+  "total_skills": 15
 }

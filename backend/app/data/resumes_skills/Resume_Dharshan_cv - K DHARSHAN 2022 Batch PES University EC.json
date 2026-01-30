@@ -1,10 +1,11 @@
 {
-  "resume": "Resume_Dharshan_cv - K DHARSHAN 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume_Dharshan_cv - K DHARSHAN 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "HTTPS",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 5
 }

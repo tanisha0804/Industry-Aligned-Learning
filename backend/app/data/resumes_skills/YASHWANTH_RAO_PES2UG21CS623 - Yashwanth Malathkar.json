@@ -1,23 +1,23 @@
 {
-  "resume": "YASHWANTH_RAO_PES2UG21CS623 - Yashwanth Malathkar.txt",
-  "skills": {
-    "primary_skills": [
-      "Cloud Computing",
-      "Cryptography",
-      "Cybersecurity",
-      "DL",
-      "Grafana",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Prometheus",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js"
-    ]
-  }
+  "source_file": "YASHWANTH_RAO_PES2UG21CS623 - Yashwanth Malathkar.pdf",
+  "skills": [
+    "C",
+    "Cryptography",
+    "Express",
+    "GitHub",
+    "Grafana",
+    "HTML5",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "Prometheus",
+    "Python",
+    "Tailwind CSS",
+    "Teams",
+    "Xcode"
+  ],
+  "total_skills": 17
 }

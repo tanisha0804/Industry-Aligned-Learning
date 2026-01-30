@@ -1,26 +1,33 @@
 {
-  "resume": "Resume_SwethaRanganathan_CybSec - SWETHA RANGANATHAN PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "ARM Architecture",
-      "Computer Networks",
-      "Cryptography",
-      "FPGA",
-      "JavaScript",
-      "Keras",
-      "Linux",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "NumPy",
-      "Operating Systems",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "TensorFlow",
-      "Verilog",
-      "Windows"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume_SwethaRanganathan_CybSec - SWETHA RANGANATHAN PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "Certificates",
+    "Cryptography",
+    "Encryption",
+    "Express",
+    "Git",
+    "GitHub",
+    "JIRA",
+    "JavaScript",
+    "Keras",
+    "Linux",
+    "MATLAB",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "Node.js",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "React",
+    "Rust",
+    "Scikit-learn",
+    "Tailwind CSS",
+    "TensorFlow",
+    "Windows"
+  ],
+  "total_skills": 27
 }

@@ -1,19 +1,16 @@
 {
-  "resume": "Swetha_Kandati_Resume_ECE - SWETHA KANDATI 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS S3",
-      "Cloud Computing",
-      "Computer Networks",
-      "Cryptography",
-      "DL",
-      "Data Structures",
-      "Embedded Systems",
-      "Java",
-      "ML",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Swetha_Kandati_Resume_ECE - SWETHA KANDATI 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Arduino",
+    "Assembly",
+    "C",
+    "Cryptography",
+    "HTTPS",
+    "Java",
+    "MATLAB",
+    "Python",
+    "Raspberry Pi",
+    "S3"
+  ],
+  "total_skills": 10
 }

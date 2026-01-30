@@ -1,17 +1,13 @@
 {
-  "resume": "Varuna Bandargal Resume - Varuna Bandargal.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Apache Spark",
-      "DL",
-      "JavaScript",
-      "Linux",
-      "ML",
-      "MySQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Varuna Bandargal Resume - Varuna Bandargal.pdf",
+  "skills": [
+    "Figma",
+    "Foundation",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "Python",
+    "Teams"
+  ],
+  "total_skills": 7
 }

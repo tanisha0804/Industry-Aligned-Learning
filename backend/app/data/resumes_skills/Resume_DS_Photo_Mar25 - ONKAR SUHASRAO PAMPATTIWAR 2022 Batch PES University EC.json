@@ -1,17 +1,14 @@
 {
-  "resume": "Resume_DS_Photo_Mar25 - ONKAR SUHASRAO PAMPATTIWAR 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Azure",
-      "Data Analysis",
-      "Databricks",
-      "Go",
-      "ML",
-      "MySQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume_DS_Photo_Mar25 - ONKAR SUHASRAO PAMPATTIWAR 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "Azure",
+    "Databricks",
+    "Events",
+    "GitHub",
+    "MySQL",
+    "Pyspark",
+    "Python"
+  ],
+  "total_skills": 8
 }

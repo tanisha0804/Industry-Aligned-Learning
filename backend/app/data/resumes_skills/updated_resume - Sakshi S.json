@@ -1,27 +1,23 @@
 {
-  "resume": "updated_resume - Sakshi S.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "DL",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "MongoDB",
-      "Node.js",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "Git",
-      "GitHub",
-      "Hadoop",
-      "Kafka",
-      "React",
-      "Unit Testing"
-    ]
-  }
+  "source_file": "updated_resume - Sakshi S.pdf",
+  "skills": [
+    "Docker",
+    "Express",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "JUnit",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
+    "Metrics",
+    "MongoDB",
+    "Python",
+    "React",
+    "SQLite",
+    "Spark Streaming"
+  ],
+  "total_skills": 17
 }

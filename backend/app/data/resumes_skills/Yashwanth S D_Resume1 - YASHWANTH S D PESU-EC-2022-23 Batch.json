@@ -1,11 +1,10 @@
 {
-  "resume": "Yashwanth S D_Resume1 - YASHWANTH S D PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Data Science",
-      "Go",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Yashwanth S D_Resume1 - YASHWANTH S D PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Bootstrap",
+    "C",
+    "Go",
+    "Python"
+  ],
+  "total_skills": 4
 }

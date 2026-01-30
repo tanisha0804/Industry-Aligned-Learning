@@ -1,19 +1,16 @@
 {
-  "resume": "resume-1 - SANKET H BHANDARKAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Flask",
-      "Go",
-      "Java",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "resume-1 - SANKET H BHANDARKAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Flask",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "React"
+  ],
+  "total_skills": 10
 }

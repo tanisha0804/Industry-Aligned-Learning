@@ -1,11 +1,11 @@
 {
-  "resume": "SHASHANK_NADIG_M_RESUME - SHASHANK NADIG M PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "FPGA",
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "SHASHANK_NADIG_M_RESUME - SHASHANK NADIG M PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "GitHub",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 5
 }

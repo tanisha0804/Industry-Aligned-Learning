@@ -1,11 +1,23 @@
 {
-  "resume": "RESUME_PRATHVISH P S - Prathvish P S.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "MongoDB",
-      "MySQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "RESUME_PRATHVISH P S - Prathvish P S.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "Ganache",
+    "GitHub",
+    "JavaScript",
+    "MetaMask",
+    "MongoDB",
+    "MySQL",
+    "Netlify",
+    "Nginx",
+    "Node.js",
+    "PHP",
+    "React",
+    "Solidity",
+    "Vercel",
+    "Web3"
+  ],
+  "total_skills": 17
 }

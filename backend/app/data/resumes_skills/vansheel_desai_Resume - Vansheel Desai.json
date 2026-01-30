@@ -1,9 +1,11 @@
 {
-  "resume": "vansheel_desai_Resume - Vansheel Desai.txt",
-  "skills": {
-    "primary_skills": [
-      "SDLC"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "vansheel_desai_Resume - Vansheel Desai.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Keras",
+    "Kubernetes",
+    "MySQL"
+  ],
+  "total_skills": 5
 }

@@ -1,21 +1,20 @@
 {
-  "resume": "Vidula.LS - VIDULA.L.S. 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Computer Networks",
-      "Cybersecurity",
-      "ML",
-      "NLP",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Vidula.LS - VIDULA.L.S. 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Docker",
+    "Events",
+    "Git",
+    "GitHub",
+    "Java",
+    "MySQL",
+    "NLTK",
+    "NumPy",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "Scikit-learn",
+    "Spring",
+    "TensorFlow"
+  ],
+  "total_skills": 14
 }

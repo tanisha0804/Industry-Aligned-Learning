@@ -1,16 +1,14 @@
 {
-  "resume": "Prateek-M-FlowCV-Resume-20241021 - PRATEEK M 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "ML",
-      "MySQL",
-      "Python",
-      "Statistics"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Prateek-M-FlowCV-Resume-20241021 - PRATEEK M 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Certificates",
+    "Figma",
+    "Metrics",
+    "MySQL",
+    "Prophet",
+    "Python",
+    "React"
+  ],
+  "total_skills": 8
 }

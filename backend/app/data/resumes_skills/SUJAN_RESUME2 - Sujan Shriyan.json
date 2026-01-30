@@ -1,24 +1,20 @@
 {
-  "resume": "SUJAN_RESUME2 - Sujan Shriyan.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Cloud Computing",
-      "DL",
-      "Data Structures",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "OOP",
-      "Operating Systems",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Kotlin"
-    ]
-  }
+  "source_file": "SUJAN_RESUME2 - Sujan Shriyan.pdf",
+  "skills": [
+    "C",
+    "Git",
+    "GitHub",
+    "Kotlin",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "R",
+    "Raspberry Pi",
+    "VS Code"
+  ],
+  "total_skills": 14
 }

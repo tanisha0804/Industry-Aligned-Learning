@@ -1,19 +1,25 @@
 {
-  "resume": "resume - P T BINDUSHREE PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "DL",
-      "Data Analysis",
-      "Data Science",
-      "ML",
-      "Matplotlib",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Power BI",
-      "Tableau"
-    ]
-  }
+  "source_file": "resume - P T BINDUSHREE PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "ARIMA",
+    "Certificates",
+    "Foundation",
+    "HTTP",
+    "HTTPS",
+    "Matplotlib",
+    "Metrics",
+    "MySQL",
+    "NumPy",
+    "Pandas",
+    "Plotly",
+    "Power BI",
+    "Python",
+    "Scikit-learn",
+    "Seaborn",
+    "Tableau",
+    "Teams",
+    "TensorFlow",
+    "XGBoost"
+  ],
+  "total_skills": 19
 }

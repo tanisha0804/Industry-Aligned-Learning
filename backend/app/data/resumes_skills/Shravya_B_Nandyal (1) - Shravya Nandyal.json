@@ -1,24 +1,26 @@
 {
-  "resume": "Shravya_B_Nandyal (1) - Shravya Nandyal.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Computer Networks",
-      "Django",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MySQL",
-      "Operating Systems",
-      "PHP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Shravya_B_Nandyal (1) - Shravya Nandyal.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Certificates",
+    "Django",
+    "Ethereum",
+    "Express",
+    "Git",
+    "GitHub",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "NumPy",
+    "PHP",
+    "Pandas",
+    "Python",
+    "React",
+    "Smart Contracts",
+    "Solidity"
+  ],
+  "total_skills": 20
 }

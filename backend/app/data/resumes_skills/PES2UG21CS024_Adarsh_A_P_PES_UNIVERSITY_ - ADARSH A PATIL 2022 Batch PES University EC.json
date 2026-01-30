@@ -1,21 +1,29 @@
 {
-  "resume": "PES2UG21CS024_Adarsh_A_P_PES_UNIVERSITY_ - ADARSH A PATIL 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Java",
-      "Keras",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "PHP",
-      "Pandas",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "PES2UG21CS024_Adarsh_A_P_PES_UNIVERSITY_ - ADARSH A PATIL 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "C++",
+    "CSS3",
+    "Docker",
+    "Eclipse",
+    "Git",
+    "GitHub",
+    "HTML5",
+    "Java",
+    "Jenkins",
+    "Keras",
+    "Kubernetes",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "Nginx",
+    "NumPy",
+    "PHP",
+    "Pandas",
+    "PyCharm",
+    "Python",
+    "Solidity",
+    "TensorFlow"
+  ],
+  "total_skills": 23
 }

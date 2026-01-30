@@ -1,21 +1,28 @@
 {
-  "resume": "S_Sathvik_Resume - Sathvik Srikanth.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "MySQL",
-      "Node.js",
-      "PHP"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "S_Sathvik_Resume - Sathvik Srikanth.pdf",
+  "skills": [
+    "Accessibility",
+    "C",
+    "Eclipse",
+    "Ethereum",
+    "Events",
+    "Express",
+    "Ganache",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MetaMask",
+    "MySQL",
+    "Node.js",
+    "PHP",
+    "React",
+    "Remix",
+    "Smart Contracts",
+    "Solidity",
+    "Truffle",
+    "VS Code",
+    "Vercel",
+    "Web3"
+  ],
+  "total_skills": 22
 }

@@ -1,14 +1,10 @@
 {
-  "resume": "Resume - DATTARAM LAKSHMAN KUDALKAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "JavaScript",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume - DATTARAM LAKSHMAN KUDALKAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "total_skills": 4
 }

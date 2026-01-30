@@ -1,13 +1,13 @@
 {
-  "resume": "ROHANBU - ROHAN B U.txt",
-  "skills": {
-    "primary_skills": [
-      "ML",
-      "MySQL",
-      "Operating Systems",
-      "SDLC",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "ROHANBU - ROHAN B U.pdf",
+  "skills": [
+    "C",
+    "Flask",
+    "Foundation",
+    "Java",
+    "MySQL",
+    "Python",
+    "R"
+  ],
+  "total_skills": 7
 }

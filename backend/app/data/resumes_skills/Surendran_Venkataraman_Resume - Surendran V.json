@@ -1,14 +1,12 @@
 {
-  "resume": "Surendran_Venkataraman_Resume - Surendran V.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "CV",
-      "Flask",
-      "ML",
-      "NumPy",
-      "Pandas"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Surendran_Venkataraman_Resume - Surendran V.pdf",
+  "skills": [
+    "Certificates",
+    "Flask",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "XGBoost"
+  ],
+  "total_skills": 6
 }

@@ -1,29 +1,25 @@
 {
-  "resume": "RESUME_AKASH H B_PES2UG21CS046 - Akash H B.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Apache Spark",
-      "C++",
-      "CV",
-      "Computer Networks",
-      "DL",
-      "Java",
-      "JavaScript",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "Hadoop",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "RESUME_AKASH H B_PES2UG21CS046 - Akash H B.pdf",
+  "skills": [
+    "AWS",
+    "Bootstrap",
+    "C",
+    "Encryption",
+    "GitHub",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Performance Monitoring",
+    "Python",
+    "R",
+    "React",
+    "SQLite",
+    "Spring",
+    "Spring Boot",
+    "jQuery"
+  ],
+  "total_skills": 19
 }

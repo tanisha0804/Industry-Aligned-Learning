@@ -1,13 +1,15 @@
 {
-  "resume": "PannagKumaar (2) - pannag kumaar.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Cybersecurity",
-      "ML",
-      "NLP",
-      "Windows"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "PannagKumaar (2) - pannag kumaar.pdf",
+  "skills": [
+    "C",
+    "Cryptography",
+    "Edge",
+    "Flutter",
+    "GitHub",
+    "Less",
+    "Python",
+    "Teams",
+    "Windows"
+  ],
+  "total_skills": 9
 }

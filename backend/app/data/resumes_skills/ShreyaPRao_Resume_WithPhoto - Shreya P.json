@@ -1,23 +1,22 @@
 {
-  "resume": "ShreyaPRao_Resume_WithPhoto - Shreya P.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "ShreyaPRao_Resume_WithPhoto - Shreya P.pdf",
+  "skills": [
+    "Express",
+    "Figma",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Keras",
+    "MongoDB",
+    "MySQL",
+    "NLTK",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "React",
+    "TensorFlow",
+    "Vercel",
+    "Vite"
+  ],
+  "total_skills": 16
 }

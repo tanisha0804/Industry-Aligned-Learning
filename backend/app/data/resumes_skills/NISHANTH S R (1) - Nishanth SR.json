@@ -1,22 +1,15 @@
 {
-  "resume": "NISHANTH S R (1) - Nishanth SR.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "Go",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "NISHANTH S R (1) - Nishanth SR.pdf",
+  "skills": [
+    "C",
+    "Ethereum",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "Python",
+    "R",
+    "Solidity"
+  ],
+  "total_skills": 9
 }

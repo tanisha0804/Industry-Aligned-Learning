@@ -1,21 +1,16 @@
 {
-  "resume": "Resume - ADITYA K KASHYAP PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Java",
-      "JavaScript",
-      "MySQL",
-      "Node.js",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "Resume - ADITYA K KASHYAP PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Express",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MySQL",
+    "PyTorch",
+    "Python",
+    "React",
+    "TensorFlow"
+  ],
+  "total_skills": 10
 }

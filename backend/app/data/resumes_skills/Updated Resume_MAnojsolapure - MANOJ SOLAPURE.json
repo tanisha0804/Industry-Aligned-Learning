@@ -1,28 +1,25 @@
 {
-  "resume": "Updated Resume_MAnojsolapure - MANOJ SOLAPURE.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "DL",
-      "Data Structures",
-      "Django",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Linux",
-      "ML",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "Operating Systems",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "JIRA",
-      "React"
-    ]
-  }
+  "source_file": "Updated Resume_MAnojsolapure - MANOJ SOLAPURE.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "CSS3",
+    "Django",
+    "Flask",
+    "GitHub",
+    "HTML5",
+    "JIRA",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "Node.js",
+    "NumPy",
+    "PyTorch",
+    "Python",
+    "React",
+    "Teams",
+    "TensorFlow"
+  ],
+  "total_skills": 19
 }

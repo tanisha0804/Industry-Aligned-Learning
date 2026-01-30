@@ -1,15 +1,18 @@
 {
-  "resume": "Punith_A_1 - PUNITH A 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Django",
-      "Node.js",
-      "Pandas",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Git",
-      "React"
-    ]
-  }
+  "source_file": "Punith_A_1 - PUNITH A 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Git",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Pandas",
+    "React",
+    "Teams",
+    "VS Code",
+    "Visual Studio"
+  ],
+  "total_skills": 12
 }

@@ -1,19 +1,18 @@
 {
-  "resume": "Sashank_RESUME - NANNAPANENI SASHANK PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "Go",
-      "Java",
-      "ML",
-      "MySQL",
-      "Node.js",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Express.js"
-    ]
-  }
+  "source_file": "Sashank_RESUME - NANNAPANENI SASHANK PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "Express",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "Java",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "Raspberry Pi",
+    "Teams"
+  ],
+  "total_skills": 12
 }

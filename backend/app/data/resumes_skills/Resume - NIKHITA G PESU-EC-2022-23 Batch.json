@@ -1,23 +1,18 @@
 {
-  "resume": "Resume - NIKHITA G PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Computer Networks",
-      "Cybersecurity",
-      "Data Analysis",
-      "Data Structures",
-      "Go",
-      "JavaScript",
-      "ML",
-      "Microcontrollers",
-      "Operating Systems",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume - NIKHITA G PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Certificates",
+    "Docker",
+    "Edge",
+    "Encryption",
+    "Git",
+    "Go",
+    "JavaScript",
+    "MATLAB",
+    "OpenCV",
+    "Python",
+    "VS Code"
+  ],
+  "total_skills": 12
 }

@@ -1,12 +1,10 @@
 {
-  "resume": "Sowmya MN - sowmya mn.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Data Analysis",
-      "Java",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Sowmya MN - sowmya mn.pdf",
+  "skills": [
+    "AWS",
+    "Java",
+    "JavaScript",
+    "Scheme"
+  ],
+  "total_skills": 4
 }

@@ -1,28 +1,26 @@
 {
-  "resume": "R_RANJIVE_RESUME_P - Ramamurthi K.txt",
-  "skills": {
-    "primary_skills": [
-      "Azure",
-      "DL",
-      "Docker",
-      "Flask",
-      "GCP",
-      "Java",
-      "JavaScript",
-      "Linux",
-      "MySQL",
-      "NLP",
-      "NoSQL",
-      "Node.js",
-      "Python",
-      "SQL",
-      "Windows"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "FFmpeg",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "R_RANJIVE_RESUME_P - Ramamurthi K.pdf",
+  "skills": [
+    "Ada",
+    "Azure",
+    "C",
+    "Cloud Storage",
+    "Docker",
+    "Eclipse",
+    "Express",
+    "Flask",
+    "GitHub",
+    "Hugging Face",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "Node.js",
+    "Pub/Sub",
+    "Python",
+    "React",
+    "VS Code",
+    "Windows"
+  ],
+  "total_skills": 20
 }

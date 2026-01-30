@@ -1,28 +1,26 @@
 {
-  "resume": "Rickvibhadhini_Resume - rickvibhadhini vaidyanathan.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Data Structures",
-      "Java",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "PyTorch",
-      "Python",
-      "Redis",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "Statistics",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "Rickvibhadhini_Resume - rickvibhadhini vaidyanathan.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "PyTorch",
+    "Python",
+    "R",
+    "RabbitMQ",
+    "React",
+    "Redis",
+    "Scikit-learn",
+    "Spring",
+    "Spring Boot",
+    "TensorFlow"
+  ],
+  "total_skills": 20
 }

@@ -1,31 +1,22 @@
 {
-  "resume": "Tushar-M-Resume - Tushar M.txt",
-  "skills": {
-    "primary_skills": [
-      "CV",
-      "DL",
-      "Data Science",
-      "FastAPI",
-      "Flask",
-      "Java",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "Python",
-      "Spring Boot",
-      "Spring Framework",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Tushar-M-Resume - Tushar M.pdf",
+  "skills": [
+    "Express",
+    "Fastapi",
+    "Flask",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "React",
+    "Scikit-learn",
+    "Spring",
+    "Spring Boot",
+    "TensorFlow"
+  ],
+  "total_skills": 16
 }

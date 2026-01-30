@@ -1,16 +1,15 @@
 {
-  "resume": "Omprakash_CV - Omprakash.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "ML",
-      "NLP",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Android",
-      "Nmap"
-    ]
-  }
+  "source_file": "Omprakash_CV - Omprakash.pdf",
+  "skills": [
+    "Android",
+    "Android Studio",
+    "C",
+    "Flutter",
+    "HTTPS",
+    "Java",
+    "TensorFlow",
+    "TensorFlow Lite",
+    "XML"
+  ],
+  "total_skills": 9
 }

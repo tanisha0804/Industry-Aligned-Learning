@@ -1,24 +1,18 @@
 {
-  "resume": "Surabhi_Resume_overleaf_photo - Surabhi CA.txt",
-  "skills": {
-    "primary_skills": [
-      "Azure",
-      "CV",
-      "Cloud Computing",
-      "Data Science",
-      "Docker",
-      "Flask",
-      "Kubernetes",
-      "Microservices",
-      "MongoDB",
-      "NLP",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Surabhi_Resume_overleaf_photo - Surabhi CA.pdf",
+  "skills": [
+    "Arduino",
+    "Azure",
+    "C",
+    "Confluence",
+    "Docker",
+    "Flask",
+    "Kubernetes",
+    "MongoDB",
+    "Python",
+    "SQLite",
+    "Segment",
+    "TensorFlow"
+  ],
+  "total_skills": 12
 }

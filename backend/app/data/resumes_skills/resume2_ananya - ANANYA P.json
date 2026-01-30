@@ -1,13 +1,14 @@
 {
-  "resume": "resume2_ananya - ANANYA P.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Data Science",
-      "Java",
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "resume2_ananya - ANANYA P.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "GitHub",
+    "Java",
+    "MATLAB",
+    "Python",
+    "R",
+    "Segment"
+  ],
+  "total_skills": 8
 }

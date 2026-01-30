@@ -1,27 +1,21 @@
 {
-  "resume": "Navya_M_Pai_PES2UG21CS326_Resume - Navya Pai.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Navya_M_Pai_PES2UG21CS326_Resume - Navya Pai.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Ethereum",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "RabbitMQ",
+    "Solidity",
+    "Spring",
+    "Spring Boot"
+  ],
+  "total_skills": 15
 }

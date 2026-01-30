@@ -1,16 +1,11 @@
 {
-  "resume": "SUCHITH GOWDA GN Resume PDF - Suchith gowda G N.txt",
-  "skills": {
-    "primary_skills": [
-      "Chef",
-      "Cryptography",
-      "DL",
-      "Data Structures",
-      "Embedded Systems",
-      "ML",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "SUCHITH GOWDA GN Resume PDF - Suchith gowda G N.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Chef",
+    "Cryptography",
+    "Python"
+  ],
+  "total_skills": 5
 }

@@ -1,34 +1,27 @@
 {
-  "resume": "sumukh_resume_without_photo - Sumukh Suresh.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "AWS RDS",
-      "Azure",
-      "DL",
-      "Data Science",
-      "DevOps",
-      "Docker",
-      "Flask",
-      "Java",
-      "Keras",
-      "Kubernetes",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "NumPy",
-      "Operating Systems",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "Hadoop"
-    ]
-  }
+  "source_file": "sumukh_resume_without_photo - Sumukh Suresh.pdf",
+  "skills": [
+    "AWS",
+    "Azure",
+    "C",
+    "Docker",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Java",
+    "Keras",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "NumPy",
+    "PyTorch",
+    "Python",
+    "R",
+    "RDS",
+    "SQLite",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "total_skills": 21
 }

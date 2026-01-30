@@ -1,19 +1,28 @@
 {
-  "resume": "tanishadas_resume_20250210_180952_0000 - Tanisha Das PESU IO.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Docker",
-      "Flask",
-      "Java",
-      "ML",
-      "MySQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "tanishadas_resume_20250210_180952_0000 - Tanisha Das PESU IO.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Certificates",
+    "Docker",
+    "Figma",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "Hadoop",
+    "Java",
+    "Kafka",
+    "Matplotlib",
+    "MySQL",
+    "NLTK",
+    "Netlify",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "R",
+    "React",
+    "Scikit-learn",
+    "Teams"
+  ],
+  "total_skills": 22
 }

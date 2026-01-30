@@ -1,15 +1,11 @@
 {
-  "resume": "Resume - NIHAL SHETTY 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Computer Networks",
-      "Cryptography",
-      "Java",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume - NIHAL SHETTY 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Certificates",
+    "Cryptography",
+    "Ethereum",
+    "Java",
+    "Python"
+  ],
+  "total_skills": 5
 }

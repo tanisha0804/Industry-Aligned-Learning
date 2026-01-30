@@ -1,25 +1,23 @@
 {
-  "resume": "NITHIN-Resume - Nithin S R.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Data Analysis",
-      "JavaScript",
-      "Linux",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python",
-      "SQL",
-      "Windows"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "NITHIN-Resume - Nithin S R.pdf",
+  "skills": [
+    "AWS",
+    "Bootstrap",
+    "C",
+    "Certificates",
+    "Express",
+    "GitHub",
+    "JavaScript",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "R",
+    "React",
+    "Tailwind CSS",
+    "Windows",
+    "jQuery"
+  ],
+  "total_skills": 17
 }

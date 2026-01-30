@@ -1,19 +1,18 @@
 {
-  "resume": "Prajwal Arnald Quadras  - Prajwal Quadras.txt",
-  "skills": {
-    "primary_skills": [
-      "Cybersecurity",
-      "Docker",
-      "Java",
-      "Kubernetes",
-      "Microservices",
-      "Node.js",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "React",
-      "SAP"
-    ]
-  }
+  "source_file": "Prajwal Arnald Quadras  - Prajwal Quadras.pdf",
+  "skills": [
+    "Accessibility",
+    "C",
+    "Docker",
+    "Encryption",
+    "GitHub",
+    "HTTPS",
+    "JSON",
+    "JWT",
+    "Java",
+    "Kubernetes",
+    "Python",
+    "React"
+  ],
+  "total_skills": 12
 }

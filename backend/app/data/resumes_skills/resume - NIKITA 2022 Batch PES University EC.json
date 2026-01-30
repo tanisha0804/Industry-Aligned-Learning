@@ -1,18 +1,16 @@
 {
-  "resume": "resume - NIKITA 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Data Structures",
-      "Java",
-      "ML",
-      "MySQL",
-      "Node.js",
-      "OOP",
-      "Operating Systems"
-    ],
-    "secondary_skills": [
-      "React"
-    ]
-  }
+  "source_file": "resume - NIKITA 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Events",
+    "Express",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "React"
+  ],
+  "total_skills": 10
 }

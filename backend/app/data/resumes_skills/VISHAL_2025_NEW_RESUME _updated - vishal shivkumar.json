@@ -1,23 +1,24 @@
 {
-  "resume": "VISHAL_2025_NEW_RESUME _updated - vishal shivkumar.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "CV",
-      "DL",
-      "Go",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Pandas",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "VISHAL_2025_NEW_RESUME _updated - vishal shivkumar.pdf",
+  "skills": [
+    "C",
+    "Events",
+    "Express",
+    "Figma",
+    "GitHub",
+    "Go",
+    "JWT",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "OpenCV",
+    "Pandas",
+    "Python",
+    "React",
+    "Scikit-learn",
+    "Teams"
+  ],
+  "total_skills": 18
 }

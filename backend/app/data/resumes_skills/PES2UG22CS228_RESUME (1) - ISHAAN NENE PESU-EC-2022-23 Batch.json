@@ -1,20 +1,20 @@
 {
-  "resume": "PES2UG22CS228_RESUME (1) - ISHAAN NENE PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "ARM Architecture",
-      "C++",
-      "Data Analysis",
-      "Go",
-      "JavaScript",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML",
-      "Kafka",
-      "Swift"
-    ]
-  }
+  "source_file": "PES2UG22CS228_RESUME (1) - ISHAAN NENE PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Go",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Python",
+    "Swift",
+    "Xcode"
+  ],
+  "total_skills": 14
 }

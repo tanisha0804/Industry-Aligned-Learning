@@ -1,20 +1,13 @@
 {
-  "resume": "Vishweshwar_resume_new - Vishweshwar Hegde.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "JavaScript",
-      "ML",
-      "MySQL",
-      "Operating Systems",
-      "Python",
-      "SQL",
-      "Software Engineering",
-      "Unix"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Vishweshwar_resume_new - Vishweshwar Hegde.pdf",
+  "skills": [
+    "C",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 7
 }

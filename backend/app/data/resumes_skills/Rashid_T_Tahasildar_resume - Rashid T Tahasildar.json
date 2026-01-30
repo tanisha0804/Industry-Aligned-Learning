@@ -1,21 +1,26 @@
 {
-  "resume": "Rashid_T_Tahasildar_resume - Rashid T Tahasildar.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Docker",
-      "Grafana",
-      "Java",
-      "MongoDB",
-      "MySQL",
-      "Prometheus",
-      "Terraform"
-    ],
-    "secondary_skills": [
-      "GitHub",
-      "Postman",
-      "Tableau"
-    ]
-  }
+  "source_file": "Rashid_T_Tahasildar_resume - Rashid T Tahasildar.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "GitHub",
+    "Grafana",
+    "JUnit",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "Netlify",
+    "Postman",
+    "Prometheus",
+    "React",
+    "SNS",
+    "Spring",
+    "Swagger",
+    "Tableau",
+    "Terraform"
+  ],
+  "total_skills": 20
 }

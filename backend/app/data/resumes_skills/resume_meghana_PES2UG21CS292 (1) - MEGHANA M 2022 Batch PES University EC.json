@@ -1,27 +1,27 @@
 {
-  "resume": "resume_meghana_PES2UG21CS292 (1) - MEGHANA M 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Apache Spark",
-      "C++",
-      "Cloud Computing",
-      "Computer Networks",
-      "Data Analysis",
-      "Data Structures",
-      "Flask",
-      "JavaScript",
-      "Kubernetes",
-      "Linux",
-      "Microservices",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Android",
-      "Express.js",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "resume_meghana_PES2UG21CS292 (1) - MEGHANA M 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "Android",
+    "Bash",
+    "C",
+    "Docker",
+    "Express",
+    "Flask",
+    "Fog Computing",
+    "Git",
+    "GitHub",
+    "HDFS",
+    "HTTPS",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Pyspark",
+    "Python",
+    "React"
+  ],
+  "total_skills": 21
 }

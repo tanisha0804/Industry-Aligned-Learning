@@ -1,15 +1,22 @@
 {
-  "resume": "Sathwik_Resume - Ramalingeswara Sathwik Pinnamraju.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Data Science",
-      "Kubernetes",
-      "Linux",
-      "ML",
-      "Microservices",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Sathwik_Resume - Ramalingeswara Sathwik Pinnamraju.pdf",
+  "skills": [
+    "Docker",
+    "Foundation",
+    "GitHub",
+    "HTTPS",
+    "Helm",
+    "Java",
+    "Kubernetes",
+    "Linux",
+    "Matplotlib",
+    "MongoDB",
+    "Pandas",
+    "PostgreSQL",
+    "Python",
+    "RabbitMQ",
+    "Scikit-learn",
+    "Seaborn"
+  ],
+  "total_skills": 16
 }

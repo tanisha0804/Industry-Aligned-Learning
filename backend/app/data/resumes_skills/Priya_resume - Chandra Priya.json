@@ -1,18 +1,22 @@
 {
-  "resume": "Priya_resume - Chandra Priya.txt",
-  "skills": {
-    "primary_skills": [
-      "Cloud Computing",
-      "Docker",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "ML",
-      "MySQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Priya_resume - Chandra Priya.pdf",
+  "skills": [
+    "AWS",
+    "Arduino",
+    "C",
+    "Docker",
+    "Figma",
+    "Git",
+    "Go",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "React",
+    "Teams"
+  ],
+  "total_skills": 16
 }

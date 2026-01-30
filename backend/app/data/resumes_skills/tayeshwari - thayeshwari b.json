@@ -1,16 +1,16 @@
 {
-  "resume": "tayeshwari - thayeshwari b.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Cloud Computing",
-      "Computer Networks",
-      "Cybersecurity",
-      "Flask",
-      "ML",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "tayeshwari - thayeshwari b.pdf",
+  "skills": [
+    "AWS",
+    "Ethereum",
+    "Flask",
+    "GitHub",
+    "Hardhat",
+    "MetaMask",
+    "MySQL",
+    "Next.js",
+    "Python",
+    "Solidity"
+  ],
+  "total_skills": 10
 }

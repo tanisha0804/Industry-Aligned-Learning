@@ -1,24 +1,17 @@
 {
-  "resume": "SohumCV_Final_2025 - SOHUM SHARMA PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Django",
-      "Flask",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "HTML",
-      "SAP"
-    ]
-  }
+  "source_file": "SohumCV_Final_2025 - SOHUM SHARMA PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Flask",
+    "GitHub",
+    "HTTPS",
+    "JavaScript",
+    "LoRaWAN",
+    "MATLAB",
+    "MongoDB",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 11
 }

@@ -1,24 +1,20 @@
 {
-  "resume": "Vishesh - VISHESH GOYAL PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Computer Networks",
-      "DL",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Operating Systems",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Vishesh - VISHESH GOYAL PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Encryption",
+    "Events",
+    "GitHub",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "R",
+    "SSL/TLS",
+    "Scheme"
+  ],
+  "total_skills": 14
 }

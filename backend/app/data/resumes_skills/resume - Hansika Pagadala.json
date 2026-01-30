@@ -1,22 +1,14 @@
 {
-  "resume": "resume - Hansika Pagadala.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "Docker",
-      "ML",
-      "Microservices",
-      "MySQL",
-      "PHP",
-      "Python",
-      "SQL",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "resume - Hansika Pagadala.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Docker",
+    "JavaScript",
+    "MySQL",
+    "PHP",
+    "Python",
+    "RabbitMQ"
+  ],
+  "total_skills": 8
 }

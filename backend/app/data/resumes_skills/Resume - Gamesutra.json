@@ -1,16 +1,16 @@
 {
-  "resume": "Resume - Gamesutra.txt",
-  "skills": {
-    "primary_skills": [
-      "JavaScript",
-      "MySQL",
-      "Node.js",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "Resume - Gamesutra.pdf",
+  "skills": [
+    "Firebase",
+    "GitHub",
+    "HTTPS",
+    "JavaScript",
+    "Mocha",
+    "MySQL",
+    "Node.js",
+    "React",
+    "Tailwind CSS",
+    "Vercel"
+  ],
+  "total_skills": 10
 }

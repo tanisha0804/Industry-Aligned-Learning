@@ -1,9 +1,18 @@
 {
-  "resume": "shriya_cv2 - SHRIYA KONDURU PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [],
-    "secondary_skills": [
-      "CSS"
-    ]
-  }
+  "source_file": "shriya_cv2 - SHRIYA KONDURU PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Figma",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Node.js",
+    "Notion",
+    "Python",
+    "R",
+    "React"
+  ],
+  "total_skills": 12
 }

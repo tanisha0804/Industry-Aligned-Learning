@@ -1,21 +1,19 @@
 {
-  "resume": "Siddharth_Rajendran - siddharth rajendran.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "DL",
-      "Java",
-      "JavaScript",
-      "MySQL",
-      "PostgreSQL",
-      "PyTorch",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "HTML",
-      "Tableau"
-    ]
-  }
+  "source_file": "Siddharth_Rajendran - siddharth rajendran.pdf",
+  "skills": [
+    "Backbone",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Metrics",
+    "MySQL",
+    "NLTK",
+    "PostgreSQL",
+    "PyTorch",
+    "Python",
+    "Tableau"
+  ],
+  "total_skills": 13
 }

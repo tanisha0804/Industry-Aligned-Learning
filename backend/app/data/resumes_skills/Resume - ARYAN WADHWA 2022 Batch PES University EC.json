@@ -1,17 +1,21 @@
 {
-  "resume": "Resume - ARYAN WADHWA 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Data Science",
-      "Java",
-      "ML",
-      "MongoDB",
-      "Pandas",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume - ARYAN WADHWA 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Alpine",
+    "Azure",
+    "C",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "Java",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "OpenCV",
+    "Pandas",
+    "Python",
+    "R",
+    "VS Code"
+  ],
+  "total_skills": 15
 }

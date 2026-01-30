@@ -1,21 +1,20 @@
 {
-  "resume": "Pavan_Kishore_N_Resume - PAVAN KISHORE N PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "Node.js",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Pavan_Kishore_N_Resume - PAVAN KISHORE N PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Dart",
+    "Edge",
+    "Express",
+    "Flutter",
+    "Foundation",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "Node.js",
+    "Python",
+    "React"
+  ],
+  "total_skills": 14
 }

@@ -1,21 +1,24 @@
 {
-  "resume": "SaiRahulReddyKona_140125 - Rahul Kona.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Django",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Microservices",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "SaiRahulReddyKona_140125 - Rahul Kona.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Certificates",
+    "Django",
+    "Docker",
+    "Flask",
+    "Git",
+    "GitHub",
+    "HTML5",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "VS Code",
+    "Windows"
+  ],
+  "total_skills": 18
 }

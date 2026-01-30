@@ -1,30 +1,28 @@
 {
-  "resume": "sachin_resume (22) (2) - sachin ramesh.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "AWS EC2",
-      "AWS S3",
-      "Algorithms",
-      "C++",
-      "CI/CD",
-      "DL",
-      "Data Structures",
-      "FastAPI",
-      "ML",
-      "Microservices",
-      "MySQL",
-      "PostgreSQL",
-      "Python",
-      "Redis",
-      "System Design"
-    ],
-    "secondary_skills": [
-      "GitHub",
-      "Kafka",
-      "OpenAPI",
-      "Postman",
-      "Unit Testing"
-    ]
-  }
+  "source_file": "sachin_resume (22) (2) - sachin ramesh.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "EC2",
+    "ECS",
+    "Fastapi",
+    "Git",
+    "GitHub",
+    "GitHub Actions",
+    "JIRA",
+    "Kafka",
+    "MySQL",
+    "OAuth2",
+    "OpenAPI",
+    "PostgreSQL",
+    "Postman",
+    "Pytest",
+    "Python",
+    "Redis",
+    "S3",
+    "Terraform",
+    "VPC"
+  ],
+  "total_skills": 22
 }

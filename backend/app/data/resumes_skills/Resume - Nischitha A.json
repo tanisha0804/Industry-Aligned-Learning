@@ -1,12 +1,10 @@
 {
-  "resume": "Resume - Nischitha A.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Java",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume - Nischitha A.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Java",
+    "Python"
+  ],
+  "total_skills": 4
 }

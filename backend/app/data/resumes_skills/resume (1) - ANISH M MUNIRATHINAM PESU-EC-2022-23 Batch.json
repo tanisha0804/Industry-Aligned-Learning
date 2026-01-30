@@ -1,25 +1,34 @@
 {
-  "resume": "resume (1) - ANISH M MUNIRATHINAM PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "Node.js",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "Redis",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "Hadoop",
-      "Kafka",
-      "Postman",
-      "React"
-    ]
-  }
+  "source_file": "resume (1) - ANISH M MUNIRATHINAM PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "Docker",
+    "Express",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "Heroku",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "Pandas",
+    "PostgreSQL",
+    "Postman",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "Redis",
+    "Scikit-learn",
+    "TensorFlow",
+    "VS Code",
+    "Vercel",
+    "Webpack"
+  ],
+  "total_skills": 28
 }

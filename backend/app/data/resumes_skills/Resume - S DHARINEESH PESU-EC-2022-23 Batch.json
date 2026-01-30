@@ -1,27 +1,18 @@
 {
-  "resume": "Resume - S DHARINEESH PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "API Development",
-      "ARM Architecture",
-      "Algorithms",
-      "C++",
-      "Computer Networks",
-      "Data Science",
-      "Data Structures",
-      "Go",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python",
-      "SQL",
-      "Verilog"
-    ],
-    "secondary_skills": [
-      "Android",
-      "Express.js",
-      "React"
-    ]
-  }
+  "source_file": "Resume - S DHARINEESH PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Android",
+    "C",
+    "Express",
+    "Figma",
+    "Foundation",
+    "Go",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "Node.js",
+    "Python",
+    "React"
+  ],
+  "total_skills": 12
 }

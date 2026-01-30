@@ -1,20 +1,19 @@
 {
-  "resume": "Pranit_Prasant_Pai_PES2UG21CS388_Resume (2) - Pranit Prasant.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Keras",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "NumPy",
-      "Pandas",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git"
-    ]
-  }
+  "source_file": "Pranit_Prasant_Pai_PES2UG21CS388_Resume (2) - Pranit Prasant.pdf",
+  "skills": [
+    "C",
+    "Edge",
+    "Git",
+    "GitHub",
+    "Keras",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "VS Code",
+    "XML"
+  ],
+  "total_skills": 13
 }

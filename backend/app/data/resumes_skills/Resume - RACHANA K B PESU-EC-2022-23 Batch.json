@@ -1,13 +1,11 @@
 {
-  "resume": "Resume - RACHANA K B PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Computer Networks",
-      "Data Structures",
-      "Operating Systems",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume - RACHANA K B PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "HTTPS",
+    "Python",
+    "Rust"
+  ],
+  "total_skills": 5
 }

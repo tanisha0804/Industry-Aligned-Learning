@@ -1,21 +1,19 @@
 {
-  "resume": "SUROBHI_HALDER - surobhi halder.txt",
-  "skills": {
-    "primary_skills": [
-      "Cryptography",
-      "Cybersecurity",
-      "Java",
-      "JavaScript",
-      "Microservices",
-      "MySQL",
-      "Network Security"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "Git",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "SUROBHI_HALDER - surobhi halder.pdf",
+  "skills": [
+    "Certificates",
+    "Cryptography",
+    "Flask",
+    "Ganache",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "RabbitMQ",
+    "Smart Contracts"
+  ],
+  "total_skills": 13
 }

@@ -1,28 +1,21 @@
 {
-  "resume": "Samridh PES 2 UG 21 CS 468 Resume (1) - SAMRIDH ANAND 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cybersecurity",
-      "DL",
-      "Data Structures",
-      "Django",
-      "Go",
-      "Jenkins",
-      "Linux",
-      "ML",
-      "MongoDB",
-      "NoSQL",
-      "Node.js",
-      "SQL",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "Git",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "Samridh PES 2 UG 21 CS 468 Resume (1) - SAMRIDH ANAND 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "Couchbase",
+    "Django",
+    "Docker",
+    "Express",
+    "Git",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "Jenkins",
+    "Kubernetes",
+    "Linux",
+    "MongoDB",
+    "Polygon",
+    "React"
+  ],
+  "total_skills": 15
 }

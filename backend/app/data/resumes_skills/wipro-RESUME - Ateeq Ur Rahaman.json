@@ -1,23 +1,18 @@
 {
-  "resume": "wipro-RESUME - Ateeq Ur Rahaman.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "AWS S3",
-      "Algorithms",
-      "Azure",
-      "C++",
-      "Data Structures",
-      "JavaScript",
-      "Linux",
-      "MySQL",
-      "Operating Systems",
-      "PHP"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "wipro-RESUME - Ateeq Ur Rahaman.pdf",
+  "skills": [
+    "AWS",
+    "Azure",
+    "C",
+    "Events",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "PHP",
+    "Python",
+    "S3"
+  ],
+  "total_skills": 12
 }

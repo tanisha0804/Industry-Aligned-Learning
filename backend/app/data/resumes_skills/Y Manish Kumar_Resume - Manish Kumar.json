@@ -1,32 +1,25 @@
 {
-  "resume": "Y Manish Kumar_Resume - Manish Kumar.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Cloud Computing",
-      "Computer Networks",
-      "Cybersecurity",
-      "Data Analysis",
-      "Data Science",
-      "Data Structures",
-      "Grafana",
-      "ML",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "Operating Systems",
-      "Pandas",
-      "Prometheus",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML"
-    ]
-  }
+  "source_file": "Y Manish Kumar_Resume - Manish Kumar.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Express",
+    "GitHub",
+    "Grafana",
+    "Linux",
+    "Matplotlib",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "NumPy",
+    "Pandas",
+    "Performance Monitoring",
+    "Prometheus",
+    "Python",
+    "Scikit-learn",
+    "Tailwind CSS"
+  ],
+  "total_skills": 19
 }

@@ -1,24 +1,35 @@
 {
-  "resume": "ResumeV2_Malay_Shikhar - Malay Shikhar.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "CV",
-      "DL",
-      "Data Analysis",
-      "Data Structures",
-      "Jenkins",
-      "Linux",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Swift"
-    ]
-  }
+  "source_file": "ResumeV2_Malay_Shikhar - Malay Shikhar.pdf",
+  "skills": [
+    "Apache",
+    "Apache Kafka",
+    "C",
+    "Docker",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "Java",
+    "Jenkins",
+    "Kafka",
+    "Kubernetes",
+    "Linux",
+    "Map-Reduce",
+    "MongoDB",
+    "MySQL",
+    "NLTK",
+    "OpenCV",
+    "PyTorch",
+    "Python",
+    "R",
+    "Scikit-learn",
+    "Spring",
+    "Spring Boot",
+    "Swift",
+    "Teams",
+    "TensorFlow",
+    "Vercel",
+    "macOS"
+  ],
+  "total_skills": 29
 }

@@ -1,16 +1,21 @@
 {
-  "resume": "suprith_mp_resume - SUPRITH M P PESU-EC-CSE-PES2UG22CS823.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "JavaScript",
-      "ML",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "Git",
-      "GitHub"
-    ]
-  }
+  "source_file": "suprith_mp_resume - SUPRITH M P PESU-EC-CSE-PES2UG22CS823.pdf",
+  "skills": [
+    "Accessibility",
+    "Adobe XD",
+    "Bootstrap",
+    "C",
+    "Figma",
+    "Flask",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "MySQL",
+    "PyCharm",
+    "Python",
+    "Selenium",
+    "Sketch",
+    "Visual Studio"
+  ],
+  "total_skills": 15
 }

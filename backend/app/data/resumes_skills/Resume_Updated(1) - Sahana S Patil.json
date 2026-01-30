@@ -1,20 +1,16 @@
 {
-  "resume": "Resume_Updated(1) - Sahana S Patil.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Data Analysis",
-      "Flask",
-      "Java",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git",
-      "GitHub",
-      "HTML",
-      "Kafka"
-    ]
-  }
+  "source_file": "Resume_Updated(1) - Sahana S Patil.pdf",
+  "skills": [
+    "C",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Linux",
+    "Map-Reduce",
+    "Python"
+  ],
+  "total_skills": 10
 }

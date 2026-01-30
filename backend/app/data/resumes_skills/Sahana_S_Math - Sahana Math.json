@@ -1,26 +1,20 @@
 {
-  "resume": "Sahana_S_Math - Sahana Math.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Data Structures",
-      "Flask",
-      "Java",
-      "Keras",
-      "ML",
-      "MySQL",
-      "NLP",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Sahana_S_Math - Sahana Math.pdf",
+  "skills": [
+    "C",
+    "Events",
+    "Flask",
+    "GitHub",
+    "Java",
+    "Keras",
+    "Linux",
+    "MySQL",
+    "OpenCV",
+    "PyTorch",
+    "Python",
+    "Scikit-learn",
+    "TensorFlow",
+    "XGBoost"
+  ],
+  "total_skills": 14
 }

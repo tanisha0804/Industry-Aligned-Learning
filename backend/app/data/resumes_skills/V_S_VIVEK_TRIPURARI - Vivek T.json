@@ -1,28 +1,22 @@
 {
-  "resume": "V_S_VIVEK_TRIPURARI - Vivek T.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "C++",
-      "Computer Networks",
-      "Data Analysis",
-      "Data Science",
-      "Data Structures",
-      "DevOps",
-      "Docker",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "NLP",
-      "NoSQL",
-      "Operating Systems",
-      "Python",
-      "SQL",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Kafka",
-      "SAP"
-    ]
-  }
+  "source_file": "V_S_VIVEK_TRIPURARI - Vivek T.pdf",
+  "skills": [
+    "AWS",
+    "Ambassador",
+    "Arduino",
+    "C",
+    "Docker",
+    "GitHub",
+    "HDFS",
+    "Kafka",
+    "Kubernetes",
+    "MongoDB",
+    "Python",
+    "RabbitMQ",
+    "SSH",
+    "Selenium",
+    "Tableau",
+    "TensorFlow"
+  ],
+  "total_skills": 16
 }

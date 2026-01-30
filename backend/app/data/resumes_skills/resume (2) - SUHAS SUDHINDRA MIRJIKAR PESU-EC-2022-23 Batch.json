@@ -1,17 +1,13 @@
 {
-  "resume": "resume (2) - SUHAS SUDHINDRA MIRJIKAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Linux",
-      "MongoDB",
-      "PHP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "resume (2) - SUHAS SUDHINDRA MIRJIKAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Events",
+    "Linux",
+    "MongoDB",
+    "PHP",
+    "Python",
+    "React"
+  ],
+  "total_skills": 7
 }

@@ -1,28 +1,23 @@
 {
-  "resume": "Sudhanva_Resume - Sudhanva Samaga.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Data Structures",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "OOP",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Sudhanva_Resume - Sudhanva Samaga.pdf",
+  "skills": [
+    "ARIMA",
+    "AWS",
+    "Apache",
+    "C",
+    "Ethereum",
+    "Express",
+    "Flask",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MetaMask",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "React",
+    "Tomcat",
+    "Truffle"
+  ],
+  "total_skills": 17
 }

@@ -1,27 +1,22 @@
 {
-  "resume": "Vibha_Gangolli_Resume_Photo - VIBHA VIJAY GANGOLLI 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Cloud Computing",
-      "Computer Networks",
-      "DL",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "SQL",
-      "Terraform"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Vibha_Gangolli_Resume_Photo - VIBHA VIJAY GANGOLLI 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "Ansible",
+    "C",
+    "Docker",
+    "Figma",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "Minikube",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "Tailwind CSS",
+    "Terraform"
+  ],
+  "total_skills": 16
 }

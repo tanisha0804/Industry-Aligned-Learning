@@ -1,30 +1,35 @@
 {
-  "resume": "Priyangshu_Mazumder_1pg - Priyangshu Mazumder.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "CV",
-      "DL",
-      "Django",
-      "Docker",
-      "JavaScript",
-      "Kubernetes",
-      "ML",
-      "MongoDB",
-      "NLP",
-      "Node.js",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "JIRA",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "Priyangshu_Mazumder_1pg - Priyangshu Mazumder.pdf",
+  "skills": [
+    "AWS",
+    "Accessibility",
+    "Asana",
+    "Certificates",
+    "Django",
+    "Docker",
+    "Express",
+    "Git",
+    "GitHub",
+    "Heroku",
+    "JIRA",
+    "JSON",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
+    "Lambda",
+    "MongoDB",
+    "Node.js",
+    "Notion",
+    "PyTorch",
+    "Pyspark",
+    "Python",
+    "REST",
+    "React",
+    "Snowflake",
+    "Spring",
+    "Spring Boot",
+    "Teams",
+    "TensorFlow"
+  ],
+  "total_skills": 29
 }

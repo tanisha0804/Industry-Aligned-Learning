@@ -1,26 +1,17 @@
 {
-  "resume": "Parvati_Resume - PARVATI MALLIKARJUN BAGEWADI 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "DL",
-      "Data Structures",
-      "Docker",
-      "JavaScript",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "OOP",
-      "PHP",
-      "Python",
-      "Software Engineering",
-      "Spring Framework"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Parvati_Resume - PARVATI MALLIKARJUN BAGEWADI 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "PHP",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "Spring",
+    "VS Code"
+  ],
+  "total_skills": 11
 }

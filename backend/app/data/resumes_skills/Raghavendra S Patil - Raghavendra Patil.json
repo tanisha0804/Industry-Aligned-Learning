@@ -1,17 +1,15 @@
 {
-  "resume": "Raghavendra S Patil - Raghavendra Patil.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "MySQL",
-      "PHP",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Raghavendra S Patil - Raghavendra Patil.pdf",
+  "skills": [
+    "Certificates",
+    "Figma",
+    "GitHub",
+    "Java",
+    "MySQL",
+    "OpenCV",
+    "PHP",
+    "React",
+    "TensorFlow"
+  ],
+  "total_skills": 9
 }

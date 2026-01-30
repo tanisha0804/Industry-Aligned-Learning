@@ -1,26 +1,35 @@
 {
-  "resume": "Pranav_G_K - PRANAV GIRISH KAUNDINYA PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Data Science",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "Statistics"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "GitHub",
-      "React"
-    ]
-  }
+  "source_file": "Pranav_G_K - PRANAV GIRISH KAUNDINYA PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Arduino",
+    "C",
+    "Django",
+    "Docker",
+    "Express",
+    "Flask",
+    "Git",
+    "GitHub",
+    "HTML5",
+    "JSON",
+    "Java",
+    "JavaScript",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PyCharm",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "Rust",
+    "SciPy",
+    "VS Code",
+    "Visual Studio",
+    "jQuery"
+  ],
+  "total_skills": 29
 }

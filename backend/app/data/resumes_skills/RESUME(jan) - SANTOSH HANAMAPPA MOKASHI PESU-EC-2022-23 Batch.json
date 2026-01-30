@@ -1,12 +1,11 @@
 {
-  "resume": "RESUME(jan) - SANTOSH HANAMAPPA MOKASHI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "FPGA",
-      "Python",
-      "SoC",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "RESUME(jan) - SANTOSH HANAMAPPA MOKASHI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Assembly",
+    "C",
+    "MATLAB",
+    "Python",
+    "Teams"
+  ],
+  "total_skills": 5
 }

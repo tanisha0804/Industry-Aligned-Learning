@@ -1,11 +1,11 @@
 {
-  "resume": "Prajwal V Shenoy_resume - Prajwal Shenoy.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Java",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Prajwal V Shenoy_resume - Prajwal Shenoy.pdf",
+  "skills": [
+    "C",
+    "Edge",
+    "Events",
+    "Java",
+    "Python"
+  ],
+  "total_skills": 5
 }

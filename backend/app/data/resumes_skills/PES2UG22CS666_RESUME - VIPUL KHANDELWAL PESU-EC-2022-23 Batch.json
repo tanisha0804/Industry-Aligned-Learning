@@ -1,20 +1,14 @@
 {
-  "resume": "PES2UG22CS666_RESUME - VIPUL KHANDELWAL PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "CI/CD",
-      "JavaScript",
-      "MongoDB",
-      "Node.js",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "TDD"
-    ]
-  }
+  "source_file": "PES2UG22CS666_RESUME - VIPUL KHANDELWAL PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Express",
+    "GitHub",
+    "JavaScript",
+    "MongoDB",
+    "Node.js",
+    "Python",
+    "TDD"
+  ],
+  "total_skills": 8
 }

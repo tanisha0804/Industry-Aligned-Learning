@@ -1,16 +1,13 @@
 {
-  "resume": "suyog_k_sde_ltx - SUYOG K 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Cloud Computing",
-      "DL",
-      "Docker",
-      "Java",
-      "Kubernetes",
-      "Microservices",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "suyog_k_sde_ltx - SUYOG K 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "GitHub",
+    "Java",
+    "Kubernetes",
+    "Python",
+    "RabbitMQ"
+  ],
+  "total_skills": 7
 }

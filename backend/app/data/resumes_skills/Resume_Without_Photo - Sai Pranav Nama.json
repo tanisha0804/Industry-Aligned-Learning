@@ -1,23 +1,11 @@
 {
-  "resume": "Resume_Without_Photo - Sai Pranav Nama.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cloud Computing",
-      "Computer Networks",
-      "DL",
-      "Data Science",
-      "Data Structures",
-      "JavaScript",
-      "ML",
-      "Operating Systems",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume_Without_Photo - Sai Pranav Nama.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "GitHub",
+    "JavaScript",
+    "Python"
+  ],
+  "total_skills": 5
 }

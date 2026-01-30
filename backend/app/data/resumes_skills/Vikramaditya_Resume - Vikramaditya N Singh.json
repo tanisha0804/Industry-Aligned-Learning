@@ -1,11 +1,11 @@
 {
-  "resume": "Vikramaditya_Resume - Vikramaditya N Singh.txt",
-  "skills": {
-    "primary_skills": [
-      "Cryptography",
-      "ML",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Vikramaditya_Resume - Vikramaditya N Singh.pdf",
+  "skills": [
+    "Cryptography",
+    "Foundation",
+    "MATLAB",
+    "Metrics",
+    "Python"
+  ],
+  "total_skills": 5
 }

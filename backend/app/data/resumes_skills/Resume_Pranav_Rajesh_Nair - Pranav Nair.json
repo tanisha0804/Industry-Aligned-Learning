@@ -1,22 +1,17 @@
 {
-  "resume": "Resume_Pranav_Rajesh_Nair - Pranav Nair.txt",
-  "skills": {
-    "primary_skills": [
-      "ARM Architecture",
-      "Algorithms",
-      "C++",
-      "CV",
-      "DL",
-      "Data Analysis",
-      "Java",
-      "MySQL",
-      "NumPy",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Android",
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume_Pranav_Rajesh_Nair - Pranav Nair.pdf",
+  "skills": [
+    "Android",
+    "Arduino",
+    "C",
+    "Foundation",
+    "HTTPS",
+    "Java",
+    "Metrics",
+    "MySQL",
+    "NumPy",
+    "OpenCV",
+    "Python"
+  ],
+  "total_skills": 11
 }

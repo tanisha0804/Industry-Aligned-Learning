@@ -1,24 +1,17 @@
 {
-  "resume": "Prerana-Resume-Recent - Prerana M.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Data Analysis",
-      "Flask",
-      "Java",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Prerana-Resume-Recent - Prerana M.pdf",
+  "skills": [
+    "C",
+    "Express",
+    "Flask",
+    "GitHub",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "OpenCV",
+    "Python",
+    "R",
+    "React"
+  ],
+  "total_skills": 11
 }

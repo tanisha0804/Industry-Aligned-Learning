@@ -1,27 +1,23 @@
 {
-  "resume": "Resume Chethan V - Chethan V.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Cloud Computing",
-      "DL",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "Linux",
-      "ML",
-      "MongoDB",
-      "Node.js",
-      "Python",
-      "SQL",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "Postman"
-    ]
-  }
+  "source_file": "Resume Chethan V - Chethan V.pdf",
+  "skills": [
+    "Bootstrap",
+    "C",
+    "Docker",
+    "Express",
+    "Firebase",
+    "Flask",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "Linux",
+    "MongoDB",
+    "Node.js",
+    "Postman",
+    "Python",
+    "Teams",
+    "Vercel"
+  ],
+  "total_skills": 17
 }

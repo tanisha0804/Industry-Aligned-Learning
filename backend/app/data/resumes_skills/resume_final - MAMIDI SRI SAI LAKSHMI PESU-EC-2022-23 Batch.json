@@ -1,25 +1,24 @@
 {
-  "resume": "resume_final - MAMIDI SRI SAI LAKSHMI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Data Structures",
-      "Go",
-      "HTTP",
-      "JavaScript",
-      "Linux",
-      "MongoDB",
-      "Node.js",
-      "Python",
-      "SQL",
-      "TCP/IP",
-      "Windows"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "resume_final - MAMIDI SRI SAI LAKSHMI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Certificates",
+    "Express",
+    "Flask",
+    "Go",
+    "HTTP",
+    "HTTPS",
+    "JSON",
+    "JavaScript",
+    "Linux",
+    "MongoDB",
+    "Node.js",
+    "Oracle",
+    "Python",
+    "React",
+    "VS Code",
+    "Windows",
+    "jQuery"
+  ],
+  "total_skills": 18
 }

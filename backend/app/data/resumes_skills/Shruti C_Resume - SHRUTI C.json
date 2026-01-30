@@ -1,25 +1,19 @@
 {
-  "resume": "Shruti C_Resume - SHRUTI C.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "CV",
-      "Cloud Computing",
-      "Cybersecurity",
-      "Data Science",
-      "Docker",
-      "Kubernetes",
-      "MySQL",
-      "PHP",
-      "Python",
-      "Statistics"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "Excel",
-      "Power BI",
-      "SAP",
-      "Tableau"
-    ]
-  }
+  "source_file": "Shruti C_Resume - SHRUTI C.pdf",
+  "skills": [
+    "AWS",
+    "Arduino",
+    "Bootstrap",
+    "C",
+    "Certificates",
+    "Docker",
+    "Kubernetes",
+    "MATLAB",
+    "MySQL",
+    "PHP",
+    "Power BI",
+    "Python",
+    "Tableau"
+  ],
+  "total_skills": 13
 }

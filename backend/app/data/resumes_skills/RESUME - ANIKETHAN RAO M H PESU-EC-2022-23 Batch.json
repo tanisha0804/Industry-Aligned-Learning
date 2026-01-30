@@ -1,26 +1,27 @@
 {
-  "resume": "RESUME - ANIKETHAN RAO M H PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "API Development",
-      "Apache Spark",
-      "Docker",
-      "FastAPI",
-      "Go",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "PostgreSQL",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Kafka",
-      "React",
-      "Swagger"
-    ]
-  }
+  "source_file": "RESUME - ANIKETHAN RAO M H PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Fastapi",
+    "Git",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "Rust",
+    "Swagger",
+    "Tailwind CSS",
+    "VS Code",
+    "Visual Studio"
+  ],
+  "total_skills": 21
 }

@@ -1,23 +1,26 @@
 {
-  "resume": "SruthiSivakumar - SRUTHI SIVAKUMAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Flask",
-      "Go",
-      "Java",
-      "ML",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Git",
-      "GitHub",
-      "Hadoop",
-      "Kafka"
-    ]
-  }
+  "source_file": "SruthiSivakumar - SRUTHI SIVAKUMAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Apache",
+    "Apache Kafka",
+    "C",
+    "Docker",
+    "Encryption",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Go",
+    "Hadoop",
+    "Java",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Python",
+    "R",
+    "Spark Streaming",
+    "VS Code",
+    "XGBoost"
+  ],
+  "total_skills": 20
 }

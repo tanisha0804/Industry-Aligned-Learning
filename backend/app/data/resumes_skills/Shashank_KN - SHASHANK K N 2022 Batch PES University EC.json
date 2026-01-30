@@ -1,27 +1,22 @@
 {
-  "resume": "Shashank_KN - SHASHANK K N 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Apache Spark",
-      "C++",
-      "DL",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "Kubernetes",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "PHP",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Shashank_KN - SHASHANK K N 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Keras",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "PHP",
+    "Python",
+    "React",
+    "TensorFlow"
+  ],
+  "total_skills": 16
 }

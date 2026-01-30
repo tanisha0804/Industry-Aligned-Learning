@@ -1,10 +1,9 @@
 {
-  "resume": "PRASHANTH RESUME - S Prashanth.txt",
-  "skills": {
-    "primary_skills": [
-      "Linux",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "PRASHANTH RESUME - S Prashanth.pdf",
+  "skills": [
+    "C",
+    "Linux",
+    "Python"
+  ],
+  "total_skills": 3
 }

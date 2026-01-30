@@ -1,25 +1,22 @@
 {
-  "resume": "Rohit_Hunashikatti-Resume - ROHIT 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Cloud Computing",
-      "Computer Networks",
-      "Cryptography",
-      "Cybersecurity",
-      "DevOps",
-      "Go",
-      "Java",
-      "Microservices",
-      "MySQL",
-      "Network Security",
-      "Operating Systems",
-      "Python",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "Wireshark"
-    ]
-  }
+  "source_file": "Rohit_Hunashikatti-Resume - ROHIT 2022 Batch PES University EC.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Cryptography",
+    "EC2",
+    "Encryption",
+    "Go",
+    "Java",
+    "Jenkins",
+    "Maven",
+    "MySQL",
+    "Python",
+    "RabbitMQ",
+    "S3",
+    "Smart Contracts",
+    "Solidity",
+    "Truffle"
+  ],
+  "total_skills": 16
 }

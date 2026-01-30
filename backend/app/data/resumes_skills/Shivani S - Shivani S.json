@@ -1,29 +1,37 @@
 {
-  "resume": "Shivani S - Shivani S.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Data Analysis",
-      "Docker",
-      "Flask",
-      "Java",
-      "Kubernetes",
-      "ML",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Shivani S - Shivani S.pdf",
+  "skills": [
+    "AWS",
+    "Apache",
+    "C",
+    "Docker",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "Hugging Face",
+    "Java",
+    "Kafka",
+    "Keras",
+    "Kubernetes",
+    "MySQL",
+    "NLTK",
+    "Node.js",
+    "Notion",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Pyspark",
+    "Python",
+    "R",
+    "Scikit-learn",
+    "Spring",
+    "Spring Boot",
+    "Teams",
+    "TensorFlow",
+    "XGBoost",
+    "spaCy"
+  ],
+  "total_skills": 31
 }

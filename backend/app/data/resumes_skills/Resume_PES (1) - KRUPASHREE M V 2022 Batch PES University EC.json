@@ -1,16 +1,14 @@
 {
-  "resume": "Resume_PES (1) - KRUPASHREE M V 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Data Analysis",
-      "JavaScript",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Resume_PES (1) - KRUPASHREE M V 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "HTTPS",
+    "JavaScript",
+    "Power BI",
+    "Python",
+    "React",
+    "Scikit-learn"
+  ],
+  "total_skills": 8
 }

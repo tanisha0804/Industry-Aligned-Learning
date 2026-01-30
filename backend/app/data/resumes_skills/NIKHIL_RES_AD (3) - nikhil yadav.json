@@ -1,14 +1,17 @@
 {
-  "resume": "NIKHIL_RES_AD (3) - nikhil yadav.txt",
-  "skills": {
-    "primary_skills": [
-      "CV",
-      "Keras",
-      "ML",
-      "Python",
-      "TensorFlow",
-      "Verilog"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "NIKHIL_RES_AD (3) - nikhil yadav.pdf",
+  "skills": [
+    "C",
+    "Cryptography",
+    "GitHub",
+    "Keras",
+    "MATLAB",
+    "PyCharm",
+    "PyTorch",
+    "Python",
+    "R",
+    "TensorFlow",
+    "VS Code"
+  ],
+  "total_skills": 11
 }

@@ -1,21 +1,22 @@
 {
-  "resume": "Saahith Sri Bhaskarla-Resume v1.2 - BHASKARLA SRI SAAHITH 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Kubernetes",
-      "ML",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Saahith Sri Bhaskarla-Resume v1.2 - BHASKARLA SRI SAAHITH 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Docker",
+    "Java",
+    "JavaScript",
+    "Keras",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "PyTorch",
+    "Python",
+    "R",
+    "Sketch",
+    "Spring",
+    "Spring Boot",
+    "TensorFlow"
+  ],
+  "total_skills": 16
 }

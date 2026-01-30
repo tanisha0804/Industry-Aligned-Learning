@@ -1,26 +1,27 @@
 {
-  "resume": "Resume Ankitha K - PES2UG21CS078 Ankitha K.txt",
-  "skills": {
-    "primary_skills": [
-      "Data Analysis",
-      "Flask",
-      "Java",
-      "ML",
-      "Matplotlib",
-      "MySQL",
-      "NumPy",
-      "Operating Systems",
-      "Pandas",
-      "Python",
-      "Statistics"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Excel",
-      "GitHub",
-      "HTML",
-      "Power BI",
-      "Tableau"
-    ]
-  }
+  "source_file": "Resume Ankitha K - PES2UG21CS078 Ankitha K.pdf",
+  "skills": [
+    "ARIMA",
+    "C",
+    "Events",
+    "Flask",
+    "GitHub",
+    "Java",
+    "Matplotlib",
+    "Metrics",
+    "MySQL",
+    "NetBeans",
+    "NumPy",
+    "Pandas",
+    "Power BI",
+    "Python",
+    "R",
+    "Scikit-learn",
+    "Seaborn",
+    "Segment",
+    "Statsmodels",
+    "Tableau",
+    "XGBoost"
+  ],
+  "total_skills": 21
 }

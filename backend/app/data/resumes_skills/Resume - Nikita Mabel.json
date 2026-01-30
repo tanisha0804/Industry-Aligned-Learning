@@ -1,36 +1,24 @@
 {
-  "resume": "Resume - Nikita Mabel.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "Cloud Computing",
-      "DL",
-      "Data Analysis",
-      "Data Science",
-      "Docker",
-      "Java",
-      "Jenkins",
-      "Kubernetes",
-      "ML",
-      "Matplotlib",
-      "Microservices",
-      "MongoDB",
-      "NLP",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Software Engineering",
-      "Spring Framework",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Git",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume - Nikita Mabel.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Java",
+    "Jenkins",
+    "Kubernetes",
+    "Matplotlib",
+    "MongoDB",
+    "NLTK",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "Railway",
+    "Spring",
+    "TensorFlow"
+  ],
+  "total_skills": 18
 }

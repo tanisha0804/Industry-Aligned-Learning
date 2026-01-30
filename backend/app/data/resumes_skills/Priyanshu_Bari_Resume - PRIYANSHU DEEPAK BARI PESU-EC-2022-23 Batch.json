@@ -1,17 +1,10 @@
 {
-  "resume": "Priyanshu_Bari_Resume - PRIYANSHU DEEPAK BARI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "ML",
-      "OOP",
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": [
-      "GitHub"
-    ]
-  }
+  "source_file": "Priyanshu_Bari_Resume - PRIYANSHU DEEPAK BARI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "MATLAB",
+    "Python"
+  ],
+  "total_skills": 4
 }

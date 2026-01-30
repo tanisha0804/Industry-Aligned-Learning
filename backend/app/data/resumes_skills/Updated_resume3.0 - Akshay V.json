@@ -1,29 +1,22 @@
 {
-  "resume": "Updated_resume3.0 - Akshay V.txt",
-  "skills": {
-    "primary_skills": [
-      "ARM Architecture",
-      "Algorithms",
-      "C++",
-      "CV",
-      "Computer Networks",
-      "DL",
-      "Data Structures",
-      "Docker",
-      "Flask",
-      "Java",
-      "JavaScript",
-      "ML",
-      "Microservices",
-      "MySQL",
-      "Node.js",
-      "Operating Systems",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Angular",
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Updated_resume3.0 - Akshay V.pdf",
+  "skills": [
+    "Android",
+    "Angular",
+    "Apache",
+    "Apache Spark",
+    "C",
+    "Docker",
+    "Flask",
+    "Flutter",
+    "HDFS",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MySQL",
+    "Python",
+    "RabbitMQ"
+  ],
+  "total_skills": 16
 }

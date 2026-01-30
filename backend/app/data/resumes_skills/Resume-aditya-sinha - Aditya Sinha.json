@@ -1,13 +1,12 @@
 {
-  "resume": "Resume-aditya-sinha - Aditya Sinha.txt",
-  "skills": {
-    "primary_skills": [
-      "Flask",
-      "Linux",
-      "ML",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Resume-aditya-sinha - Aditya Sinha.pdf",
+  "skills": [
+    "C",
+    "Certificates",
+    "Flask",
+    "HTTPS",
+    "Linux",
+    "Python"
+  ],
+  "total_skills": 6
 }

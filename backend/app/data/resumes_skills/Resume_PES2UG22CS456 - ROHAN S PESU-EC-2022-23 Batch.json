@@ -1,23 +1,25 @@
 {
-  "resume": "Resume_PES2UG22CS456 - ROHAN S PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Apache Spark",
-      "Data Science",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "PHP",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Android",
-      "CSS",
-      "HTML",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "Resume_PES2UG22CS456 - ROHAN S PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Android",
+    "Apache",
+    "Apache Kafka",
+    "Arduino",
+    "C",
+    "Certificates",
+    "Dart",
+    "Events",
+    "Flutter",
+    "GitHub",
+    "HTTPS",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "MongoDB",
+    "MySQL",
+    "PHP",
+    "Python",
+    "React"
+  ],
+  "total_skills": 19
 }

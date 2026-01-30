@@ -1,15 +1,14 @@
 {
-  "resume": "Pratham_Resume_Pes2025_3 (1) - Sumana B V.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Data Analysis",
-      "Java",
-      "JavaScript",
-      "NLP",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Pratham_Resume_Pes2025_3 (1) - Sumana B V.pdf",
+  "skills": [
+    "Accessibility",
+    "C",
+    "Java",
+    "JavaScript",
+    "Neo4j",
+    "Python",
+    "R",
+    "Teams"
+  ],
+  "total_skills": 8
 }

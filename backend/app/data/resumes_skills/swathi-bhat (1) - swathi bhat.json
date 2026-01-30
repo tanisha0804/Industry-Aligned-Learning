@@ -1,17 +1,12 @@
 {
-  "resume": "swathi-bhat (1) - swathi bhat.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Java",
-      "MongoDB",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "swathi-bhat (1) - swathi bhat.pdf",
+  "skills": [
+    "C",
+    "GitHub",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 6
 }

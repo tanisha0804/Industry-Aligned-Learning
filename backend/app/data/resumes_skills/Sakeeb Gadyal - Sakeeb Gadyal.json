@@ -1,26 +1,29 @@
 {
-  "resume": "Sakeeb Gadyal - Sakeeb Gadyal.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "C++",
-      "Data Structures",
-      "JavaScript",
-      "Linux",
-      "MongoDB",
-      "MySQL",
-      "NumPy",
-      "Pandas",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "CSS",
-      "HTML",
-      "JIRA",
-      "React"
-    ]
-  }
+  "source_file": "Sakeeb Gadyal - Sakeeb Gadyal.pdf",
+  "skills": [
+    "AWS",
+    "Accessibility",
+    "Bootstrap",
+    "C",
+    "Ethereum",
+    "Figma",
+    "Foundation",
+    "GitHub",
+    "JIRA",
+    "JavaScript",
+    "Linux",
+    "MetaMask",
+    "MongoDB",
+    "MySQL",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "React",
+    "Remix",
+    "Smart Contracts",
+    "Solidity",
+    "Teams",
+    "VS Code"
+  ],
+  "total_skills": 23
 }

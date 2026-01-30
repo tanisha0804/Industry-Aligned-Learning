@@ -1,30 +1,36 @@
 {
-  "resume": "Resume_ShrutiDewan - Shruti Dewan.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "DL",
-      "Flask",
-      "Go",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "ML",
-      "Matplotlib",
-      "MongoDB",
-      "NLP",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "Express.js",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "Resume_ShrutiDewan - Shruti Dewan.pdf",
+  "skills": [
+    "BLE",
+    "C",
+    "Express",
+    "Firebase",
+    "Flask",
+    "Flutter",
+    "Gensim",
+    "Go",
+    "HTTPS",
+    "Hugging Face",
+    "Java",
+    "JavaScript",
+    "Keras",
+    "Matplotlib",
+    "Metrics",
+    "MongoDB",
+    "NLTK",
+    "Node.js",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "SCSS",
+    "Scikit-learn",
+    "Selenium",
+    "TensorFlow",
+    "spaCy"
+  ],
+  "total_skills": 30
 }

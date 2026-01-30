@@ -1,14 +1,15 @@
 {
-  "resume": "VARUN_U-RESUME - VARUN U PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Node.js",
-      "Python"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML",
-      "React"
-    ]
-  }
+  "source_file": "VARUN_U-RESUME - VARUN U PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "AWS",
+    "Accessibility",
+    "C",
+    "Certificates",
+    "HTTPS",
+    "Java",
+    "Node.js",
+    "Python",
+    "React"
+  ],
+  "total_skills": 9
 }

@@ -1,25 +1,27 @@
 {
-  "resume": "RizwanpResume (photo) - Rizwanpatel Malipatel.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "OOP",
-      "Python",
-      "SQL",
-      "TypeScript"
-    ],
-    "secondary_skills": [
-      "Bootstrap",
-      "CSS",
-      "Express.js",
-      "Postman",
-      "React"
-    ]
-  }
+  "source_file": "RizwanpResume (photo) - Rizwanpatel Malipatel.pdf",
+  "skills": [
+    "Bootstrap",
+    "C",
+    "Eclipse",
+    "Express",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "Postman",
+    "PyCharm",
+    "Python",
+    "React",
+    "Tailwind CSS",
+    "TypeScript",
+    "VS Code",
+    "Vercel",
+    "Visual Studio"
+  ],
+  "total_skills": 21
 }

@@ -1,26 +1,31 @@
 {
-  "resume": "resume - ARUN A BONAL PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "Apache Spark",
-      "Computer Networks",
-      "Data Structures",
-      "Elasticsearch",
-      "ML",
-      "MongoDB",
-      "Node.js",
-      "Operating Systems",
-      "PyTorch",
-      "Software Engineering"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "Hadoop",
-      "JIRA",
-      "Kafka",
-      "React"
-    ]
-  }
+  "source_file": "resume - ARUN A BONAL PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "AWS",
+    "Arduino",
+    "C",
+    "Drone",
+    "ElasticSearch",
+    "Elasticsearch",
+    "Events",
+    "Express",
+    "Git",
+    "GitHub",
+    "Hadoop",
+    "JIRA",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Logs",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "OpenCV",
+    "PyTorch",
+    "Python",
+    "R",
+    "React",
+    "Scikit-learn"
+  ],
+  "total_skills": 25
 }

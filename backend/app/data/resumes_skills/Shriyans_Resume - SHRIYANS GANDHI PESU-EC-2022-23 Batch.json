@@ -1,25 +1,28 @@
 {
-  "resume": "Shriyans_Resume - SHRIYANS GANDHI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Docker",
-      "Go",
-      "Java",
-      "ML",
-      "Microservices",
-      "MySQL",
-      "NLP",
-      "Node.js",
-      "PostgreSQL",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "TypeScript"
-    ],
-    "secondary_skills": [
-      "React"
-    ]
-  }
+  "source_file": "Shriyans_Resume - SHRIYANS GANDHI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "AWS",
+    "Datadog",
+    "Discord",
+    "Docker",
+    "Git",
+    "GitHub",
+    "Go",
+    "JWT",
+    "Java",
+    "Jenkins",
+    "MySQL",
+    "Next.js",
+    "Node.js",
+    "Playwright",
+    "PostgreSQL",
+    "Python",
+    "React",
+    "Selenium",
+    "Spring",
+    "Spring Boot",
+    "Teams",
+    "TypeScript"
+  ],
+  "total_skills": 22
 }

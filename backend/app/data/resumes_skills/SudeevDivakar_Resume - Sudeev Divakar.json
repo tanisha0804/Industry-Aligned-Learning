@@ -1,24 +1,29 @@
 {
-  "resume": "SudeevDivakar_Resume - Sudeev Divakar.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Django",
-      "Docker",
-      "Java",
-      "JavaScript",
-      "Microservices",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python",
-      "Spring Framework"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "Git",
-      "GitHub",
-      "JIRA"
-    ]
-  }
+  "source_file": "SudeevDivakar_Resume - Sudeev Divakar.pdf",
+  "skills": [
+    "AWS",
+    "Bootstrap",
+    "Bulma",
+    "C",
+    "Django",
+    "Docker",
+    "Express",
+    "Flask",
+    "Git",
+    "GitHub",
+    "JIRA",
+    "JWT",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "Postman",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "Spring",
+    "Tailwind CSS"
+  ],
+  "total_skills": 23
 }

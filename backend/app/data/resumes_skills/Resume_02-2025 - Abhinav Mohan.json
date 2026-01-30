@@ -1,21 +1,28 @@
 {
-  "resume": "Resume_02-2025 - Abhinav Mohan.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "CV",
-      "DL",
-      "Flask",
-      "Go",
-      "Java",
-      "JavaScript",
-      "ML",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "React"
-    ]
-  }
+  "source_file": "Resume_02-2025 - Abhinav Mohan.pdf",
+  "skills": [
+    "AWS",
+    "C",
+    "Cron",
+    "Datadog",
+    "Docker",
+    "Express",
+    "Figma",
+    "Flask",
+    "Git",
+    "GitHub",
+    "Go",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "React",
+    "Selenium",
+    "Splunk",
+    "Teams"
+  ],
+  "total_skills": 22
 }

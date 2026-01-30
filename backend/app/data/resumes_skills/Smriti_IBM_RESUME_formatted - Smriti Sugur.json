@@ -1,25 +1,16 @@
 {
-  "resume": "Smriti_IBM_RESUME_formatted - Smriti Sugur.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "Cloud Computing",
-      "Data Analysis",
-      "Data Science",
-      "JavaScript",
-      "ML",
-      "Node.js",
-      "OOP",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Software Engineering",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Smriti_IBM_RESUME_formatted - Smriti Sugur.pdf",
+  "skills": [
+    "C",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Linux",
+    "PyTorch",
+    "Python",
+    "R",
+    "TensorFlow"
+  ],
+  "total_skills": 10
 }

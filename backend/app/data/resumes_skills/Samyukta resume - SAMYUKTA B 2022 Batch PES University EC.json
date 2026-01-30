@@ -1,20 +1,26 @@
 {
-  "resume": "Samyukta resume - SAMYUKTA B 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "C++",
-      "Django",
-      "Go",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "REST API",
-      "Spring Boot",
-      "Spring Framework"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Samyukta resume - SAMYUKTA B 2022 Batch PES University EC.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "Git",
+    "GitHub",
+    "Go",
+    "HTTPS",
+    "Insomnia",
+    "Java",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Notion",
+    "Postman",
+    "Power BI",
+    "Python",
+    "REST",
+    "Spring",
+    "Spring Boot",
+    "Teams",
+    "poetry"
+  ],
+  "total_skills": 20
 }

@@ -1,25 +1,24 @@
 {
-  "resume": "Resume_AdityaVerulkar - ADITYA VERULKAR PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Azure",
-      "CV",
-      "DL",
-      "Data Science",
-      "Java",
-      "ML",
-      "Matplotlib",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "React"
-    ]
-  }
+  "source_file": "Resume_AdityaVerulkar - ADITYA VERULKAR PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Azure",
+    "C",
+    "Drone",
+    "Express",
+    "Foundation",
+    "Java",
+    "Matplotlib",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PyTorch",
+    "Python",
+    "React",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "total_skills": 18
 }

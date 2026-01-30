@@ -1,15 +1,18 @@
 {
-  "resume": "VARSHA_SHREE_A_CV (1) - Varsha Shree.A.txt",
-  "skills": {
-    "primary_skills": [
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "HTML"
-    ]
-  }
+  "source_file": "VARSHA_SHREE_A_CV (1) - Varsha Shree.A.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Figma",
+    "Ganache",
+    "Git",
+    "Java",
+    "JavaScript",
+    "Kubernetes",
+    "MongoDB",
+    "MySQL",
+    "Neo4j",
+    "Python"
+  ],
+  "total_skills": 12
 }

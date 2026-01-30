@@ -1,18 +1,16 @@
 {
-  "resume": "RESUME_2025_darshan_kumar_kr - DARSHAN KUMAR K R PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Algorithms",
-      "Cybersecurity",
-      "Data Structures",
-      "Java",
-      "ML",
-      "MongoDB",
-      "NLP",
-      "Node.js"
-    ],
-    "secondary_skills": [
-      "Express.js"
-    ]
-  }
+  "source_file": "RESUME_2025_darshan_kumar_kr - DARSHAN KUMAR K R PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Express",
+    "Firebase",
+    "Foundation",
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "R",
+    "React",
+    "Teams"
+  ],
+  "total_skills": 10
 }

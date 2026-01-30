@@ -1,36 +1,34 @@
 {
-  "resume": "Siddharth - Siddharth P.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "Algorithms",
-      "C++",
-      "Computer Networks",
-      "DL",
-      "DNS",
-      "Data Structures",
-      "Java",
-      "JavaScript",
-      "Keras",
-      "Linux",
-      "ML",
-      "NLP",
-      "Node.js",
-      "NumPy",
-      "Pandas",
-      "PyTorch",
-      "Python",
-      "SQL",
-      "Software Engineering",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "Android",
-      "Bootstrap",
-      "CSS",
-      "Git",
-      "GitHub",
-      "HTML"
-    ]
-  }
+  "source_file": "Siddharth - Siddharth P.pdf",
+  "skills": [
+    "AWS",
+    "Android",
+    "Bootstrap",
+    "C",
+    "Certificates",
+    "DNS",
+    "Docker",
+    "DynamoDB",
+    "Events",
+    "Git",
+    "GitHub",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Keras",
+    "Kubernetes",
+    "Linux",
+    "MongoDB",
+    "Node.js",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "PostgreSQL",
+    "PyTorch",
+    "Python",
+    "Selenium",
+    "Teams",
+    "TensorFlow"
+  ],
+  "total_skills": 28
 }

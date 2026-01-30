@@ -1,18 +1,14 @@
 {
-  "resume": "Resume - Durgharchit SK.txt",
-  "skills": {
-    "primary_skills": [
-      "Django",
-      "JavaScript",
-      "Matplotlib",
-      "NumPy",
-      "Pandas",
-      "Python",
-      "SQL"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Resume - Durgharchit SK.pdf",
+  "skills": [
+    "C",
+    "Django",
+    "JavaScript",
+    "MATLAB",
+    "Matplotlib",
+    "NumPy",
+    "Pandas",
+    "Python"
+  ],
+  "total_skills": 8
 }

@@ -1,20 +1,20 @@
 {
-  "resume": "Shwetavyadahalli-resume - SHWETA V YADAHALLI PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "DL",
-      "Java",
-      "JavaScript",
-      "MongoDB",
-      "MySQL",
-      "Python",
-      "SQL",
-      "Spring Boot",
-      "Spring Framework",
-      "Windows"
-    ],
-    "secondary_skills": [
-      "React"
-    ]
-  }
+  "source_file": "Shwetavyadahalli-resume - SHWETA V YADAHALLI PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Cloud Storage",
+    "Java",
+    "JavaScript",
+    "MATLAB",
+    "Maven",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "React",
+    "Spring",
+    "Spring Boot",
+    "VS Code",
+    "Visual Studio",
+    "Windows"
+  ],
+  "total_skills": 14
 }

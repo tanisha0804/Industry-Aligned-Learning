@@ -1,28 +1,23 @@
 {
-  "resume": "Prashil_Jatakiya - Prashil Jatakiya.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "DL",
-      "Data Science",
-      "Docker",
-      "Java",
-      "Keras",
-      "ML",
-      "Matplotlib",
-      "Microservices",
-      "MySQL",
-      "NLP",
-      "NumPy",
-      "OOP",
-      "Pandas",
-      "Python",
-      "TensorFlow"
-    ],
-    "secondary_skills": [
-      "CSS",
-      "HTML"
-    ]
-  }
+  "source_file": "Prashil_Jatakiya - Prashil Jatakiya.pdf",
+  "skills": [
+    "C",
+    "Docker",
+    "Events",
+    "Java",
+    "Keras",
+    "Matplotlib",
+    "MySQL",
+    "NLTK",
+    "Neo4j",
+    "NumPy",
+    "OpenCV",
+    "Pandas",
+    "Python",
+    "Seaborn",
+    "Teams",
+    "TensorFlow",
+    "Vercel"
+  ],
+  "total_skills": 17
 }

@@ -1,18 +1,22 @@
 {
-  "resume": "Pradyun P Rao_Resume - Pradyun P Rao.txt",
-  "skills": {
-    "primary_skills": [
-      "AWS",
-      "AWS EC2",
-      "AWS S3",
-      "Apache Spark",
-      "Data Science",
-      "Django",
-      "MongoDB",
-      "MySQL",
-      "Node.js",
-      "Python"
-    ],
-    "secondary_skills": []
-  }
+  "source_file": "Pradyun P Rao_Resume - Pradyun P Rao.pdf",
+  "skills": [
+    "AWS",
+    "Apache",
+    "Apache Spark",
+    "C",
+    "Django",
+    "EC2",
+    "Figma",
+    "GitHub",
+    "HDFS",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "S3",
+    "Teams",
+    "Ubuntu",
+    "XGBoost"
+  ],
+  "total_skills": 16
 }

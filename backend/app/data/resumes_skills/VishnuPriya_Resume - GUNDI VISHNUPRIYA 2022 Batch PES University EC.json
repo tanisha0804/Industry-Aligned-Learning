@@ -1,13 +1,14 @@
 {
-  "resume": "VishnuPriya_Resume - GUNDI VISHNUPRIYA 2022 Batch PES University EC.txt",
-  "skills": {
-    "primary_skills": [
-      "Embedded Systems",
-      "Python",
-      "Verilog"
-    ],
-    "secondary_skills": [
-      "Bootstrap"
-    ]
-  }
+  "source_file": "VishnuPriya_Resume - GUNDI VISHNUPRIYA 2022 Batch PES University EC.pdf",
+  "skills": [
+    "Assembly",
+    "Bootstrap",
+    "C",
+    "Foundation",
+    "GitHub",
+    "HTTPS",
+    "Linux",
+    "Python"
+  ],
+  "total_skills": 8
 }

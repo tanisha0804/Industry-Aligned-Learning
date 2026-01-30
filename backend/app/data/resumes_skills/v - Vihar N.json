@@ -1,20 +1,23 @@
 {
-  "resume": "v - Vihar N.txt",
-  "skills": {
-    "primary_skills": [
-      "C++",
-      "CV",
-      "DL",
-      "JavaScript",
-      "MongoDB",
-      "Node.js",
-      "PostgreSQL",
-      "Python",
-      "Redis"
-    ],
-    "secondary_skills": [
-      "Express.js",
-      "React"
-    ]
-  }
+  "source_file": "v - Vihar N.pdf",
+  "skills": [
+    "C",
+    "Express",
+    "GitHub",
+    "JWT",
+    "JavaScript",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "OpenCV",
+    "PostgreSQL",
+    "Pub/Sub",
+    "Python",
+    "R",
+    "React",
+    "Redis",
+    "Teams",
+    "WebSocket"
+  ],
+  "total_skills": 17
 }

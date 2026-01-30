@@ -1,17 +1,19 @@
 {
-  "resume": "Resume_Gowthami_LJ  - GOWTHAMI L J PESU-EC-2022-23 Batch.txt",
-  "skills": {
-    "primary_skills": [
-      "Apache Spark",
-      "C++",
-      "Flask",
-      "Java",
-      "ML",
-      "MySQL",
-      "Python"
-    ],
-    "secondary_skills": [
-      "Kafka"
-    ]
-  }
+  "source_file": "Resume_Gowthami_LJ  - GOWTHAMI L J PESU-EC-2022-23 Batch.pdf",
+  "skills": [
+    "Apache",
+    "Apache Kafka",
+    "Apache Spark",
+    "C",
+    "Event-Driven Architecture",
+    "Events",
+    "Flask",
+    "HTTPS",
+    "Java",
+    "Kafka",
+    "Metrics",
+    "MySQL",
+    "Python"
+  ],
+  "total_skills": 13
 }
