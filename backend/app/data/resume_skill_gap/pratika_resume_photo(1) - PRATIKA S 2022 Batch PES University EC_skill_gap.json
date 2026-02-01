@@ -1,0 +1,238 @@
+{
+  "name": "pratika_resume_photo(1) - PRATIKA S 2022 Batch PES University EC",
+  "total_missing_skills": 58,
+  "skills": [
+    {
+      "skill": "Java",
+      "severity_score": 0.5876
+    },
+    {
+      "skill": "Go",
+      "severity_score": 0.5701
+    },
+    {
+      "skill": "Kubernetes",
+      "severity_score": 0.535
+    },
+    {
+      "skill": "Docker",
+      "severity_score": 0.5252
+    },
+    {
+      "skill": "React",
+      "severity_score": 0.519
+    },
+    {
+      "skill": "Spring Boot",
+      "severity_score": 0.5185
+    },
+    {
+      "skill": "Linux",
+      "severity_score": 0.494
+    },
+    {
+      "skill": "AWS",
+      "severity_score": 0.4745
+    },
+    {
+      "skill": "Azure",
+      "severity_score": 0.4719
+    },
+    {
+      "skill": "Terraform",
+      "severity_score": 0.4682
+    },
+    {
+      "skill": "GCP",
+      "severity_score": 0.4179
+    },
+    {
+      "skill": "Angular",
+      "severity_score": 0.4175
+    },
+    {
+      "skill": "Jenkins",
+      "severity_score": 0.3504
+    },
+    {
+      "skill": "Grafana",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Scala",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Edge",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Events",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "HBase",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "NumPy",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Chef",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Ruby",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Ansible",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Elasticsearch",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "ElasticSearch",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Zigbee",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Perl",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "iOS",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Cloudera",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Kotlin",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Android",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Oracle",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Prometheus",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Shell Script",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "RDS",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Tableau",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Spring",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "MySQL",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Windows",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Teams",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Matplotlib",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Pandas",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "REST",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "PHP",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "DNS",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Metrics",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "HTTP",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "HTTPS",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "S3",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "XML",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "MongoDB",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "EC2",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Cassandra",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Kibana",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Swift",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "JIRA",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Prototyping",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "R",
+      "severity_score": 0.3
+    },
+    {
+      "skill": "Databricks",
+      "severity_score": 0.0254
+    }
+  ]
+}
