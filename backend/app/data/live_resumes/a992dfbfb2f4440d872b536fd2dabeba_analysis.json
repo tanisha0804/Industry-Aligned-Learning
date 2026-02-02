@@ -1,0 +1,193 @@
+{
+  "resume_name": "RESUME.pdf",
+  "total_extracted_skills": 15,
+  "extracted_skills": [
+    "Arduino",
+    "C",
+    "Computer networks",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "MATLAB",
+    "Netlogo",
+    "NoSQL",
+    "NumPy",
+    "Pandas",
+    "Python",
+    "SQL",
+    "Scikit-learn",
+    "VS Code"
+  ],
+  "total_missing_skills": 57,
+  "missing_skills": [
+    "5G",
+    "AWS",
+    "Android",
+    "Angular",
+    "Ansible",
+    "Azure",
+    "Cassandra",
+    "Chef",
+    "Cloudera",
+    "DNS",
+    "Databricks",
+    "Docker",
+    "EC2",
+    "Edge",
+    "ElasticSearch",
+    "Elasticsearch",
+    "Events",
+    "GCP",
+    "Go",
+    "Grafana",
+    "HBase",
+    "HTTP",
+    "HTTPS",
+    "JIRA",
+    "Java",
+    "Jenkins",
+    "Kibana",
+    "Kotlin",
+    "Kubernetes",
+    "Linux",
+    "Matplotlib",
+    "Metrics",
+    "MongoDB",
+    "MySQL",
+    "Oracle",
+    "PHP",
+    "Perl",
+    "Prometheus",
+    "Prototyping",
+    "R",
+    "RDS",
+    "REST",
+    "React",
+    "Ruby",
+    "S3",
+    "Scala",
+    "Shell Script",
+    "Spring",
+    "Spring Boot",
+    "Swift",
+    "Tableau",
+    "Teams",
+    "Terraform",
+    "Windows",
+    "XML",
+    "Zigbee",
+    "iOS"
+  ],
+  "course_recommendations": [
+    {
+      "missing_skill": "5G",
+      "recommended_course": {
+        "course_code": "UE22CS342BA8",
+        "course_title": "Topics in Wireless Networks and 5G",
+        "covers_skills": [
+          "5G"
+        ]
+      }
+    },
+    {
+      "missing_skill": "AWS",
+      "recommended_course": {
+        "course_code": "UE22CS351B",
+        "course_title": "Cloud Computing",
+        "covers_skills": [
+          "AWS"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Docker",
+      "recommended_course": {
+        "course_code": "UE22CS351B",
+        "course_title": "Cloud Computing",
+        "covers_skills": [
+          "Docker"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Go",
+      "recommended_course": {
+        "course_code": "UE22CS351B",
+        "course_title": "Cloud Computing",
+        "covers_skills": [
+          "Go"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Java",
+      "recommended_course": {
+        "course_code": "UE22CS352B",
+        "course_title": "Object Oriented Analysis and Design",
+        "covers_skills": [
+          "Java"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Jenkins",
+      "recommended_course": {
+        "course_code": "UE22CS341A",
+        "course_title": "Software Engineering",
+        "covers_skills": [
+          "Jenkins"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Kubernetes",
+      "recommended_course": {
+        "course_code": "UE22CS351B",
+        "course_title": "Cloud Computing",
+        "covers_skills": [
+          "Kubernetes"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Linux",
+      "recommended_course": {
+        "course_code": "UE22CS242B",
+        "course_title": "Operating Systems",
+        "covers_skills": [
+          "Linux"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Matplotlib",
+      "recommended_course": {
+        "course_code": "UE22CS241A",
+        "course_title": "Statistics for Data Science",
+        "covers_skills": [
+          "Matplotlib"
+        ]
+      }
+    },
+    {
+      "missing_skill": "MySQL",
+      "recommended_course": {
+        "course_code": "UE22CS351A",
+        "course_title": "Database Management System",
+        "covers_skills": [
+          "MySQL"
+        ]
+      }
+    },
+    {
+      "missing_skill": "Oracle",
+      "recommended_course": {
+        "course_code": "UE22CS343BB3",
+        "course_title": "Database Technologies",
+        "covers_skills": [
+          "Oracle"
+        ]
+      }
+    }
+  ]
+}

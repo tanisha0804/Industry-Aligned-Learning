@@ -10,9 +10,8 @@ client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY")
 )
 
-PDF_PATH = r"D:\project Industry-Academia\Industry-Aligned-Learning\backend\app\data\courses_raw\course_handbook_onlyskill.pdf"
-OUTPUT_JSON = r"D:\project Industry-Academia\Industry-Aligned-Learning\backend\app\data\course_code_skill\course_skills_llm.json"
-
+PDF_PATH = "course_handbook_onlyskill.pdf"
+OUTPUT_JSON = "course_code_skill.json"
 
 
 def extract_pdf_text(pdf_path):

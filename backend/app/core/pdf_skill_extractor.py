@@ -34,7 +34,7 @@ SKILLS_DICT = {
         "GraphQL", "Apollo", "REST", "SOAP", "gRPC", "WebSocket", "Server-Sent Events"
     ],
     "Databases & Data Stores": [
-        "MySQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server", "Redis", "Cassandra",
+        "SQL","NoSQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server", "Redis", "Cassandra",
         "DynamoDB", "Firebase", "SQLite", "Neo4j", "ElasticSearch", "CouchDB",
         "MariaDB", "Memcached", "RabbitMQ", "Kafka", "HBase", "Solr", "Couchbase",
         "DocumentDB", "ArangoDB", "Riak", "Berkeley DB", "LevelDB", "RocksDB",
@@ -96,7 +96,7 @@ SKILLS_DICT = {
         "Expo", "Firebase Mobile", "Crashlytics", "Performance Monitoring"
     ],
     "API & Microservices": [
-        "REST", "GraphQL", "SOAP", "gRPC", "Protocol Buffers", "JSON", "XML",
+        "Computer networks","CN", "REST", "GraphQL", "SOAP", "gRPC", "Protocol Buffers", "JSON", "XML",
         "OpenAPI", "Swagger", "AsyncAPI", "Kong", "AWS API Gateway", "Azure API Management",
         "Apigee", "MuleSoft", "Tyk", "Traefik", "Ambassador", "Service Mesh",
         "Istio", "Linkerd", "Consul", "Envoy"
@@ -171,7 +171,7 @@ SKILLS_DICT = {
         "Figma", "Sketch", "Adobe XD", "InVision", "Protopie", "Framer",
         "Design System", "Storybook", "UI Kit", "Component Library",
         "Responsive Design", "Mobile First", "A11y", "Accessibility",
-        "UX Research", "User Testing", "Wireframing", "Prototyping"
+        "UX Research", "User Testing", "Wireframing","Netlogo", "Prototyping"
     ]
 }
 
