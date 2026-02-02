@@ -1,0 +1,45 @@
+{
+  "name": "TharunKumarP - Tharun Kumar",
+  "total_missing_skills": 41,
+  "recommendations": [
+    {
+      "missing_skill": "Go",
+      "importance_score": 0.5701,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "5G",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS342BA8",
+          "course_title": "Topics in Wireless Networks and 5G",
+          "covers_skills": [
+            "Wireless Networks",
+            "5G",
+            "Wireshark",
+            "Cisco Packet Tracer"
+          ]
+        }
+      ]
+    }
+  ]
+}

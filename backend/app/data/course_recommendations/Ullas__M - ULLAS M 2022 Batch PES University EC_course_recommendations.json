@@ -1,0 +1,301 @@
+{
+  "name": "Ullas__M - ULLAS M 2022 Batch PES University EC",
+  "total_missing_skills": 59,
+  "recommendations": [
+    {
+      "missing_skill": "Go",
+      "importance_score": 0.5701,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Kubernetes",
+      "importance_score": 0.535,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Docker",
+      "importance_score": 0.5252,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Linux",
+      "importance_score": 0.494,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS242B",
+          "course_title": "Operating Systems",
+          "covers_skills": [
+            "C",
+            "Operating Systems",
+            "Processes and Threads",
+            "Memory Management",
+            "Scheduling",
+            "System Calls",
+            "Linux"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "AWS",
+      "importance_score": 0.4745,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Jenkins",
+      "importance_score": 0.3504,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS341A",
+          "course_title": "Software Engineering",
+          "covers_skills": [
+            "Software Development Life Cycle",
+            "Agile Methodology",
+            "Version Control",
+            "GitHub",
+            "Jira",
+            "Jenkins",
+            "Software Testing"
+          ]
+        },
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "NumPy",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "5G",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS342BA8",
+          "course_title": "Topics in Wireless Networks and 5G",
+          "covers_skills": [
+            "Wireless Networks",
+            "5G",
+            "Wireshark",
+            "Cisco Packet Tracer"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Oracle",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS343BB3",
+          "course_title": "Database Technologies",
+          "covers_skills": [
+            "MySQL",
+            "PostgreSQL",
+            "Oracle",
+            "Apache Spark",
+            "Apache Kafka",
+            "Amazon Kinesis"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "C",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS151B",
+          "course_title": "Problem Solving with C",
+          "covers_skills": [
+            "C"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "MySQL",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351A",
+          "course_title": "Database Management System",
+          "covers_skills": [
+            "SQL",
+            "MySQL",
+            "Database Design",
+            "ER Modeling",
+            "ERwin",
+            "Relational Databases",
+            "Normalization"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Matplotlib",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Pandas",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "JavaScript",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS242A",
+          "course_title": "Web Technologies",
+          "covers_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Web Development",
+            "MERN Stack",
+            "Frontend Development",
+            "Backend Development"
+          ]
+        }
+      ]
+    }
+  ]
+}

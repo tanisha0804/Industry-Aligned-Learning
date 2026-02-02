@@ -1,0 +1,145 @@
+{
+  "name": "Pallavi_Arora_Resume - Pallavi Arora",
+  "total_missing_skills": 47,
+  "recommendations": [
+    {
+      "missing_skill": "Java",
+      "importance_score": 0.5876,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS352B",
+          "course_title": "Object Oriented Analysis and Design",
+          "covers_skills": [
+            "Java",
+            "C++",
+            "Object Oriented Programming",
+            "UML",
+            "StarUML",
+            "Software Design Patterns"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Go",
+      "importance_score": 0.5701,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS351B",
+          "course_title": "Cloud Computing",
+          "covers_skills": [
+            "Python",
+            "Go",
+            "Cloud Computing",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "DevOps",
+            "Jenkins",
+            "Flask",
+            "GitHub",
+            "NoSQL Databases"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "NumPy",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "5G",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS342BA8",
+          "course_title": "Topics in Wireless Networks and 5G",
+          "covers_skills": [
+            "Wireless Networks",
+            "5G",
+            "Wireshark",
+            "Cisco Packet Tracer"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Matplotlib",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "Pandas",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS241A",
+          "course_title": "Statistics for Data Science",
+          "covers_skills": [
+            "Python",
+            "Statistics",
+            "Data Analysis",
+            "Jupyter Notebook",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "SciPy",
+            "Seaborn"
+          ]
+        }
+      ]
+    },
+    {
+      "missing_skill": "JavaScript",
+      "importance_score": 0.3,
+      "recommended_courses": [
+        {
+          "course_code": "UE22CS242A",
+          "course_title": "Web Technologies",
+          "covers_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Web Development",
+            "MERN Stack",
+            "Frontend Development",
+            "Backend Development"
+          ]
+        }
+      ]
+    }
+  ]
+}
